@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Dioscorides Cookbook</title>
+<link rel="stylesheet" href="assets/laboratory.css">
+<link rel="stylesheet" href="assets/cookbook.css">
+<script src="assets/laboratory.js" defer></script>
+</head>
+<body>
+<div class="pg" data-page="cookbook-index">
+  <header class="cn-bar">
+    <div class="cn-in">
+      <a class="cn-sym" href="index.html" title="The Cookbook — Alchemies of Scent"><img src="assets/symbol.svg" alt="Alchemies of Scent"></a>
+      <nav class="cn-triad" aria-label="Register"><a href="index.html" aria-current="true">Cookbook</a><span class="is-pending" title="Draft for review">Draft</span></nav>
+      <nav class="cn-nav" aria-label="The Cookbook">
+<a href="index.html#recipes" aria-current="true">Recipes</a><a href="index.html#families">Families</a><a href="index.html#ingredients">Ingredients</a>        <button id="cn-menu-btn" class="cn-menu-btn" aria-expanded="false" aria-controls="cn-menu" aria-label="Menu"><svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M2 6.5h18M2 15.5h18" stroke="currentColor" stroke-width="1.5"></path></svg></button>
+      </nav>
+    </div>
+  </header>
+  <div id="cn-menu" class="cn-ov" role="dialog" aria-modal="true" aria-label="The Cookbook menu">
+    <div class="cn-ov-hd"><img src="assets/symbol.svg" alt=""><button class="cn-menu-close" aria-label="Close menu"><svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M4 4l14 14M18 4L4 18" stroke="currentColor" stroke-width="1.5"></path></svg></button></div>
+    <nav class="cn-ov-nav" aria-label="The Cookbook"><a href="index.html#recipes">Recipes</a><a href="index.html#families">Families</a><a href="index.html#ingredients">Ingredients</a></nav>
+  </div>
+<div class="cb-wrap">
+  <header class="ck-pagehead ck-pagehead--tight">
+    <p class="eyebrow">Draft · for review</p>
+    <h1 class="cb-h1 cb-h1--index">The perfumes of Dioscorides</h1>
+    <p class="ck-deck serif">54 recipes and reports from <i>De materia medica</i> Book 1, with the rose oils of Paul of Aegina and Aetius. Each gives the ingredients with amounts as printed and in metric, the steps, and the Greek and English of the passage.</p>
+  </header>
+  <section id="recipes">
+    <div class="ck-filter">
+      <label for="ck-ing" class="eyebrow">Ingredient</label>
+      <select id="ck-ing"><option value="">All</option><option value="ἄγχουσα">Alkanet · ἄγχουσα (1)</option><option value="ἀμύγδαλον">Almonds · ἀμύγδαλον (2)</option><option value="ἄμωμον">Amomum · ἄμωμον (2)</option><option value="ἀσπάλαθος">Aspalathos · ἀσπάλαθος (5)</option><option value="βαλάνινον">Balanos oil · βαλάνινον (5)</option><option value="βάλσαμον">Balsam · βάλσαμον (1)</option><option value="καρποβάλσαμον">Balsam fruit · καρποβάλσαμον (3)</option><option value="ξυλοβάλσαμον">Balsam wood · ξυλοβάλσαμον (4)</option><option value="ὤκιμον">Basil · ὤκιμον (1)</option><option value="δαφνίς">Bay berries · δαφνίς (1)</option><option value="δάφνη">Bay leaves · δάφνη (1)</option><option value="κάλαμος">Calamus · κάλαμος (13)</option><option value="καρδάμωμον">Cardamom · καρδάμωμον (4)</option><option value="κασία">Cassia · κασία (3)</option><option value="κρότων">Castor seeds · κρότων (2)</option><option value="νάρδος κελτική">Celtic nard · νάρδος κελτική (1)</option><option value="κινάμωμον">Cinnamon · κινάμωμον (5)</option><option value="κόκκος Κνίδιος">Cnidian berries · κόκκος Κνίδιος (1)</option><option value="κόστος">Costus · κόστος (3)</option><option value="κύπερος">Cyperus · κύπερος (4)</option><option value="κυπάρισσος">Cypress · κυπάρισσος (1)</option><option value="ἄνηθον">Dill · ἄνηθον (1)</option><option value="τῆλις">Fenugreek · τῆλις (2)</option><option value="χαλβάνη">Galbanum · χαλβάνη (1)</option><option value="στέμφυλα">Grape marc · στέμφυλα (1)</option><option value="γλεῦκος">Grape must · γλεῦκος (1)</option><option value="ὑοσκύαμος">Henbane · ὑοσκύαμος (1)</option><option value="κύπρου ἄνθος">Henna flowers · κύπρου ἄνθος (1)</option><option value="μέλι">Honey · μέλι (7)</option><option value="ἶρις">Iris root · ἶρις (3)</option><option value="ἀρκευθίς">Juniper berries · ἀρκευθίς (1)</option><option value="κρίνον">Lilies · κρίνον (2)</option><option value="μαλάβαθρον">Malabathrum · μαλάβαθρον (1)</option><option value="ἀμάρακος">Marjoram (amarakos) · ἀμάρακος (1)</option><option value="σάμψυχον">Marjoram (sampsuchon) · σάμψυχον (1)</option><option value="μαστίχη">Mastic · μαστίχη (1)</option><option value="σχῖνος">Mastic tree · σχῖνος (1)</option><option value="μελίλωτον">Melilot · μελίλωτον (2)</option><option value="σίναπι">Mustard · σίναπι (1)</option><option value="σμύρνα">Myrrh · σμύρνα (13)</option><option value="μυρσίνη">Myrtle leaves · μυρσίνη (3)</option><option value="νάρκισσος">Narcissus flowers · νάρκισσος (1)</option><option value="νάρδος">Nard · νάρδος (2)</option><option value="ἔλαιον">Olive oil · ἔλαιον (21)</option><option value="ἐλαία">Olives · ἐλαία (1)</option><option value="σπάθη">Palm spathe · σπάθη (4)</option><option value="πίτυς">Pine · πίτυς (1)</option><option value="σίδιον">Pomegranate rind · σίδιον (1)</option><option value="κυδώνιον μῆλον">Quinces · κυδώνιον μῆλον (2)</option><option value="ῥάφανος">Radish · ῥάφανος (1)</option><option value="σταφίς">Raisins · σταφίς (1)</option><option value="ῥητίνη">Resin · ῥητίνη (6)</option><option value="ῥόδον">Rose petals · ῥόδον (3)</option><option value="κρόκος">Saffron · κρόκος (2)</option><option value="ἅλς">Salt · ἅλς (2)</option><option value="σχοῖνος">Schoinos · σχοῖνος (10)</option><option value="σήσαμον">Sesame · σήσαμον (1)</option><option value="σησάμινον">Sesame oil · σησάμινον (1)</option><option value="ἀβρότονον">Southernwood · ἀβρότονον (2)</option><option value="στύραξ">Storax · στύραξ (1)</option><option value="τερμινθίνη">Terebinth resin · τερμινθίνη (1)</option><option value="ἔλαιον ὀμφάκινον">Unripe-olive oil · ἔλαιον ὀμφάκινον (11)</option><option value="οἰνάνθη">Vine flowers · οἰνάνθη (1)</option><option value="ἴον">Violets · ἴον (1)</option><option value="κάρυον">Walnuts · κάρυον (1)</option><option value="ὕδωρ">Water · ὕδωρ (16)</option><option value="σισύμβριον">Water mint · σισύμβριον (1)</option><option value="ἕρπυλλος">Wild thyme · ἕρπυλλος (1)</option><option value="οἶνος">Wine · οἶνος (8)</option><option value="θαλλός">Young shoots · θαλλός (1)</option></select>
+      <label for="ck-fam" class="eyebrow">Family</label>
+      <select id="ck-fam"><option value="">All</option><option value="amygdalinon">Almond oil (1)</option><option value="balaninon">Balanos oil (1)</option><option value="daphninon">Bay oil (1)</option><option value="kikinon">Castor oil (2)</option><option value="anethinon">Dill oil (1)</option><option value="telinon">Fenugreek oil (1)</option><option value="kyprinon">Henna oil (1)</option><option value="irinon">Iris unguent (2)</option><option value="krininon">Lily oil (1)</option><option value="sousinon">Lily perfume (1)</option><option value="amarakinon">Marjoram unguent (1)</option><option value="mastichinon">Mastic oil (1)</option><option value="schininon">Mastic-tree oil (1)</option><option value="mendesion">Mendesian unguent (1)</option><option value="metopion">Metopion (1)</option><option value="gleukinon">Must unguent (1)</option><option value="narkissinon">Narcissus unguent (1)</option><option value="nardinon">Nard unguent (1)</option><option value="melinon">Quince oil (2)</option><option value="raphaninon">Radish oil (1)</option><option value="rhodinon">Rose oil (3)</option><option value="krokinon">Saffron unguent (1)</option><option value="sesaminon">Sesame oil (1)</option><option value="sikyonion">Sicyonian oil (1)</option><option value="oinanthinon">Vine-flower oil (1)</option><option value="-">In no family (24)</option></select>
+      <span class="meta" id="ck-count" aria-live="polite">54 recipes</span>
+    </div>
+    <div class="ck-tablewrap">
+    <table class="ck-fam ck-index" id="ck-table">
+      <thead><tr>
+        <th scope="col"><button type="button" data-sort="name">Recipe</button></th>
+        <th scope="col"><button type="button" data-sort="src" aria-sort="ascending">Source</button></th>
+        <th scope="col"><button type="button" data-sort="fam">Family</button></th>
+        <th scope="col" class="ck-num"><button type="button" data-sort="n">Ingredients</button></th>
+        <th scope="col"><button type="button" data-sort="st">Status</button></th>
+      </tr></thead>
+      <tbody>
+        <tr data-id="dioscorides-1-25-kyphi" data-lem="ἀρκευθίς|ἀσπάλαθος|κάλαμος|κύπερος|μέλι|οἶνος|ῥητίνη|σμύρνα|σταφίς|σχοῖνος" data-fam="-" data-name="kyphi" data-src="001" data-famname="zzz" data-n="10" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-25-kyphi.html">Kyphi</a> <span lang="grc" class="meta">κῦφι</span></th>
+          <td class="ck-src">Dioscorides 1.25.1-2</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">10</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-30-omphakinon" data-lem="ἔλαιον" data-fam="-" data-name="unripe-olive oil" data-src="002" data-famname="zzz" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-30-omphakinon.html">Unripe-olive oil</a> <span lang="grc" class="meta">ὀμφάκινον</span></th>
+          <td class="ck-src">Dioscorides 1.30.1-2</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-30-whitened-oil" data-lem="ἔλαιον|ἶρις|μελίλωτον|οἶνος|πίτυς|τῆλις|ὕδωρ" data-fam="-" data-name="whitened oil" data-src="003" data-famname="zzz" data-n="6" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-30-whitened-oil.html">Whitened oil</a> <span lang="grc" class="meta">λευκανθὲν ἔλαιον</span></th>
+          <td class="ck-src">Dioscorides 1.30.3-4</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">6</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-30-3-agrias-elaias" data-lem="ἐλαία" data-fam="-" data-name="wild-olive oil" data-src="004" data-famname="zzz" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-30-3-agrias-elaias.html">Wild-olive oil</a> <span lang="grc" class="meta">ἔλαιον ἀγρίας ἐλαίας</span></th>
+          <td class="ck-src">Dioscorides 1.30.3</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-30-5-sikyonion" data-lem="ἔλαιον|ὕδωρ" data-fam="sikyonion" data-name="sicyonian oil" data-src="005" data-famname="sicyonian oil" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-30-5-sikyonion.html">Sicyonian oil</a> <span lang="grc" class="meta">σικυώνιον</span></th>
+          <td class="ck-src">Dioscorides 1.30.5</td>
+          <td>Sicyonian oil</td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-31-elaiomeli" data-lem="" data-fam="-" data-name="olive honey" data-src="006" data-famname="zzz" data-n="0" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-31-elaiomeli.html">Olive honey</a> <span lang="grc" class="meta">ἐλαιόμελι</span></th>
+          <td class="ck-src">Dioscorides 1.31</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">0</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-31-thalloi-oil" data-lem="θαλλός" data-fam="-" data-name="oil from young shoots" data-src="007" data-famname="zzz" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-31-thalloi-oil.html">Oil from young shoots</a> <span lang="grc" class="meta">ἔλαιον ἐκ θαλλῶν ἐλαίας</span></th>
+          <td class="ck-src">Dioscorides 1.31</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-32-kikinon" data-lem="κρότων|ὕδωρ" data-fam="kikinon" data-name="castor oil" data-src="008" data-famname="castor oil" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-32-kikinon.html">Castor oil</a> <span lang="grc" class="meta">κίκινον ἔλαιον</span></th>
+          <td class="ck-src">Dioscorides 1.32.1</td>
+          <td><a class="uterm" href="families/kikinon.html">Castor oil</a></td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-32-2-kikinon-aigyption" data-lem="κρότων" data-fam="kikinon" data-name="egyptian castor oil" data-src="009" data-famname="castor oil" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-32-2-kikinon-aigyption.html">Egyptian castor oil</a> <span lang="grc" class="meta">κίκινον</span></th>
+          <td class="ck-src">Dioscorides 1.32.2</td>
+          <td><a class="uterm" href="families/kikinon.html">Castor oil</a></td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-33-amygdalinon" data-lem="ἀμύγδαλον|ὕδωρ" data-fam="amygdalinon" data-name="almond oil" data-src="010" data-famname="almond oil" data-n="3" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-33-amygdalinon.html">Almond oil</a> <span lang="grc" class="meta">ἀμυγδάλινον ἔλαιον</span></th>
+          <td class="ck-src">Dioscorides 1.33</td>
+          <td>Almond oil</td>
+          <td class="ck-num">3</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-34-balaninon" data-lem="" data-fam="balaninon" data-name="balanos oil" data-src="011" data-famname="balanos oil" data-n="0" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-34-balaninon.html">Balanos oil</a> <span lang="grc" class="meta">βαλάνινον</span></th>
+          <td class="ck-src">Dioscorides 1.34 (Wellmann 38.5–10)</td>
+          <td>Balanos oil</td>
+          <td class="ck-num">0</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-34-sesaminon-karyinon" data-lem="κάρυον|σήσαμον" data-fam="sesaminon" data-name="sesame and royal-nut oil" data-src="012" data-famname="sesame oil" data-n="2" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-34-sesaminon-karyinon.html">Sesame and royal-nut oil</a> <span lang="grc" class="meta">σησάμινον καὶ καρύϊνον</span></th>
+          <td class="ck-src">Dioscorides 1.34 (Wellmann 38.10)</td>
+          <td>Sesame oil</td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-35-hyoskyaminon" data-lem="ὕδωρ|ὑοσκύαμος" data-fam="-" data-name="henbane oil" data-src="013" data-famname="zzz" data-n="2" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-35-hyoskyaminon.html">Henbane oil</a> <span lang="grc" class="meta">ὑοσκυάμινον</span></th>
+          <td class="ck-src">Dioscorides 1.35</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-36-knekikon" data-lem="" data-fam="-" data-name="safflower oil" data-src="014" data-famname="zzz" data-n="0" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-36-knekikon.html">Safflower oil</a> <span lang="grc" class="meta">κνήκινον</span> <span class="chip">report</span></th>
+          <td class="ck-src">Dioscorides 1.36 (Wellmann 39.5)</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">0</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-36-knidion" data-lem="κόκκος Κνίδιος" data-fam="-" data-name="cnidian-berry oil" data-src="015" data-famname="zzz" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-36-knidion.html">Cnidian-berry oil</a> <span lang="grc" class="meta">διὰ τοῦ κνιδίου κόκκου</span></th>
+          <td class="ck-src">Dioscorides 1.36 (Wellmann 39.1–5)</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-37-melanthinon" data-lem="" data-fam="-" data-name="black-seed oil" data-src="016" data-famname="zzz" data-n="0" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-37-melanthinon.html">Black-seed oil</a> <span lang="grc" class="meta">μελάνθινον</span> <span class="chip">report</span></th>
+          <td class="ck-src">Dioscorides 1.37 (Wellmann 39.10)</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">0</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-37-raphaninon" data-lem="ῥάφανος" data-fam="raphaninon" data-name="radish oil" data-src="017" data-famname="radish oil" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-37-raphaninon.html">Radish oil</a> <span lang="grc" class="meta">ῥαφάνινον</span></th>
+          <td class="ck-src">Dioscorides 1.37 (Wellmann 39.5–10)</td>
+          <td>Radish oil</td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-38-sinapinon" data-lem="ἔλαιον|σίναπι|ὕδωρ" data-fam="-" data-name="mustard oil" data-src="018" data-famname="zzz" data-n="3" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-38-sinapinon.html">Mustard oil</a> <span lang="grc" class="meta">σινάπινον</span></th>
+          <td class="ck-src">Dioscorides 1.38</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">3</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-39-myrsininon" data-lem="ἔλαιον|ἔλαιον ὀμφάκινον|κυπάρισσος|κύπερος|μυρσίνη|σίδιον|σχοῖνος|ὕδωρ" data-fam="-" data-name="myrtle oil" data-src="019" data-famname="zzz" data-n="8" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-39-myrsininon.html">Myrtle oil</a> <span lang="grc" class="meta">μυρσίνινον</span></th>
+          <td class="ck-src">Dioscorides 1.39</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">8</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-40-daphninon" data-lem="δάφνη|δαφνίς|ἔλαιον ὀμφάκινον|κάλαμος|κύπερος|μυρσίνη|στύραξ|σχοῖνος|ὕδωρ" data-fam="daphninon" data-name="bay oil" data-src="020" data-famname="bay oil" data-n="8" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-40-daphninon.html">Bay oil</a> <span lang="grc" class="meta">δάφνινον</span></th>
+          <td class="ck-src">Dioscorides 1.40</td>
+          <td>Bay oil</td>
+          <td class="ck-num">8</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-41-schininon" data-lem="σχῖνος" data-fam="schininon" data-name="mastic-tree oil" data-src="021" data-famname="mastic-tree oil" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-41-schininon.html">Mastic-tree oil</a> <span lang="grc" class="meta">σχίνινον</span></th>
+          <td class="ck-src">Dioscorides 1.41</td>
+          <td>Mastic-tree oil</td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-42-mastichinon" data-lem="μαστίχη" data-fam="mastichinon" data-name="mastic oil" data-src="022" data-famname="mastic oil" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-42-mastichinon.html">Mastic oil</a> <span lang="grc" class="meta">μαστίχινον</span></th>
+          <td class="ck-src">Dioscorides 1.42.1</td>
+          <td>Mastic oil</td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-43-rhodinon" data-lem="ἄγχουσα|ἅλς|ἀσπάλαθος|ἔλαιον|κάλαμος|μέλι|ῥόδον|σχοῖνος|ὕδωρ" data-fam="rhodinon" data-name="rose oil" data-src="023" data-famname="rose oil" data-n="8" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-43-rhodinon.html">Rose oil</a> <span lang="grc" class="meta">ῥόδινον</span></th>
+          <td class="ck-src">Dioscorides 1.43</td>
+          <td><a class="uterm" href="families/rhodinon.html">Rose oil</a></td>
+          <td class="ck-num">8</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-44-elatinon" data-lem="ἔλαιον ὀμφάκινον|σπάθη" data-fam="-" data-name="palm-spathe oil" data-src="024" data-famname="zzz" data-n="2" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-44-elatinon.html">Palm-spathe oil</a> <span lang="grc" class="meta">ἐλατῖνον</span></th>
+          <td class="ck-src">Dioscorides 1.44</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-45-melinon" data-lem="ἔλαιον|κυδώνιον μῆλον|σπάθη|σχοῖνος|ὕδωρ" data-fam="melinon" data-name="quince oil" data-src="025" data-famname="quince oil" data-n="5" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-45-melinon.html">Quince oil</a> <span lang="grc" class="meta">μηλῖνον</span></th>
+          <td class="ck-src">Dioscorides 1.45.1</td>
+          <td><a class="uterm" href="families/melinon.html">Quince oil</a></td>
+          <td class="ck-num">5</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-45-2-melinon-allos" data-lem="ἔλαιον|κυδώνιον μῆλον" data-fam="melinon" data-name="quince oil, a second way" data-src="026" data-famname="quince oil" data-n="2" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-45-2-melinon-allos.html">Quince oil, a second way</a> <span lang="grc" class="meta">μηλῖνον</span></th>
+          <td class="ck-src">Dioscorides 1.45.2</td>
+          <td><a class="uterm" href="families/melinon.html">Quince oil</a></td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-46-oinanthinon" data-lem="ἔλαιον ὀμφάκινον|οἰνάνθη" data-fam="oinanthinon" data-name="vine-flower oil" data-src="027" data-famname="vine-flower oil" data-n="2" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-46-oinanthinon.html">Vine-flower oil</a> <span lang="grc" class="meta">οἰνάνθινον</span></th>
+          <td class="ck-src">Dioscorides 1.46</td>
+          <td>Vine-flower oil</td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-47-telinon" data-lem="ἔλαιον|κάλαμος|καρδάμωμον|κύπερος|ξυλοβάλσαμον|τῆλις" data-fam="telinon" data-name="fenugreek oil" data-src="028" data-famname="fenugreek oil" data-n="6" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-47-telinon.html">Fenugreek oil</a> <span lang="grc" class="meta">τηλῖνον</span></th>
+          <td class="ck-src">Dioscorides 1.47</td>
+          <td>Fenugreek oil</td>
+          <td class="ck-num">6</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-48-sampsouchinon" data-lem="ἀβρότονον|ἔλαιον ὀμφάκινον|ἕρπυλλος|κασία|μυρσίνη|σάμψυχον|σισύμβριον" data-fam="-" data-name="marjoram oil" data-src="029" data-famname="zzz" data-n="7" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-48-sampsouchinon.html">Marjoram oil</a> <span lang="grc" class="meta">σαμψουχῖνον</span></th>
+          <td class="ck-src">Dioscorides 1.48</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">7</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-49-okiminon" data-lem="ἔλαιον|ἔλαιον ὀμφάκινον|ὤκιμον" data-fam="-" data-name="basil oil" data-src="030" data-famname="zzz" data-n="5" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-49-okiminon.html">Basil oil</a> <span lang="grc" class="meta">ὠκιμῖνον</span></th>
+          <td class="ck-src">Dioscorides 1.49</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">5</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-50-habrotoninon" data-lem="ἀβρότονον|ἔλαιον" data-fam="-" data-name="southernwood oil" data-src="031" data-famname="zzz" data-n="2" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-50-habrotoninon.html">Southernwood oil</a> <span lang="grc" class="meta">ἁβροτόνινον</span></th>
+          <td class="ck-src">Dioscorides 1.50</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-51-anethinon" data-lem="ἄνηθον|ἔλαιον" data-fam="anethinon" data-name="dill oil" data-src="032" data-famname="dill oil" data-n="2" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-51-anethinon.html">Dill oil</a> <span lang="grc" class="meta">ἀνηθίνον</span></th>
+          <td class="ck-src">Dioscorides 1.51</td>
+          <td>Dill oil</td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-52-sousinon" data-lem="ἅλς|ἔλαιον|κάλαμος|καρδάμωμον|κινάμωμον|κρίνον|κρόκος|μέλι|οἶνος|σμύρνα|ὕδωρ" data-fam="sousinon" data-name="lily oil" data-src="033" data-famname="lily perfume" data-n="17" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-52-sousinon.html">Lily oil</a> <span lang="grc" class="meta">σουσῖνον</span></th>
+          <td class="ck-src">Dioscorides 1.52.1-4</td>
+          <td>Lily perfume</td>
+          <td class="ck-num">17</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-52-5-sousinon-haploun" data-lem="βαλάνινον|ἔλαιον|κρίνον" data-fam="krininon" data-name="plain lily oil" data-src="034" data-famname="lily oil" data-n="3" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-52-5-sousinon-haploun.html">Plain lily oil</a> <span lang="grc" class="meta">σουσῖνον ἁπλοῦν</span></th>
+          <td class="ck-src">Dioscorides 1.52.5</td>
+          <td>Lily oil</td>
+          <td class="ck-num">3</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-53-narkissinon" data-lem="ἀσπάλαθος|ἔλαιον|κάλαμος|νάρκισσος|οἶνος|σμύρνα|ὕδωρ" data-fam="narkissinon" data-name="narcissus unguent" data-src="035" data-famname="narcissus unguent" data-n="7" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-53-narkissinon.html">Narcissus unguent</a> <span lang="grc" class="meta">ναρκίσσινον</span></th>
+          <td class="ck-src">Dioscorides 1.53</td>
+          <td>Narcissus unguent</td>
+          <td class="ck-num">7</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-54-krokinon" data-lem="ἔλαιον|κρόκος|σμύρνα" data-fam="krokinon" data-name="saffron unguent" data-src="036" data-famname="saffron unguent" data-n="5" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-54-krokinon.html">Saffron unguent</a> <span lang="grc" class="meta">κρόκινον</span></th>
+          <td class="ck-src">Dioscorides 1.54</td>
+          <td>Saffron unguent</td>
+          <td class="ck-num">5</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-55-kyprinon" data-lem="ἀσπάλαθος|ἔλαιον|ἔλαιον ὀμφάκινον|κάλαμος|καρδάμωμον|κινάμωμον|κύπρου ἄνθος|οἶνος|σμύρνα|ὕδωρ" data-fam="kyprinon" data-name="henna oil" data-src="037" data-famname="henna oil" data-n="11" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-55-kyprinon.html">Henna oil</a> <span lang="grc" class="meta">κυπρῖνον</span></th>
+          <td class="ck-src">Dioscorides 1.55</td>
+          <td>Henna oil</td>
+          <td class="ck-num">11</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-56-irinon" data-lem="ἔλαιον|ἶρις|μέλι|σπάθη|ὕδωρ" data-fam="irinon" data-name="iris unguent" data-src="038" data-famname="iris unguent" data-n="3" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-56-irinon.html">Iris unguent</a> <span lang="grc" class="meta">ἴρινον</span></th>
+          <td class="ck-src">Dioscorides 1.56.1,3-4</td>
+          <td><a class="uterm" href="families/irinon.html">Iris unguent</a></td>
+          <td class="ck-num">3</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-56-2-irinon-allos" data-lem="ἔλαιον|ἶρις|κάλαμος|ξυλοβάλσαμον|οἶνος|σμύρνα" data-fam="irinon" data-name="iris unguent, a second way" data-src="039" data-famname="iris unguent" data-n="8" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-56-2-irinon-allos.html">Iris unguent, a second way</a> <span lang="grc" class="meta">ἴρινον</span></th>
+          <td class="ck-src">Dioscorides 1.56.2</td>
+          <td><a class="uterm" href="families/irinon.html">Iris unguent</a></td>
+          <td class="ck-num">8</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-57-gleukinon" data-lem="ἀσπάλαθος|γλεῦκος|ἔλαιον ὀμφάκινον|κάλαμος|κόστος|μελίλωτον|νάρδος κελτική|σπάθη|στέμφυλα|σχοῖνος" data-fam="gleukinon" data-name="must unguent" data-src="040" data-famname="must unguent" data-n="9" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-57-gleukinon.html">Must unguent</a> <span lang="grc" class="meta">γλεύκινον</span></th>
+          <td class="ck-src">Dioscorides 1.57</td>
+          <td>Must unguent</td>
+          <td class="ck-num">9</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-58-amarakinon" data-lem="ἀμάρακος|ἄμωμον|βαλάνινον|ἔλαιον ὀμφάκινον|κάλαμος|καρποβάλσαμον|κασία|κινάμωμον|κόστος|μέλι|νάρδος|ξυλοβάλσαμον|οἶνος|σμύρνα|σχοῖνος" data-fam="amarakinon" data-name="marjoram unguent" data-src="041" data-famname="marjoram unguent" data-n="13" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-58-amarakinon.html">Marjoram unguent</a> <span lang="grc" class="meta">ἀμαράκινον</span></th>
+          <td class="ck-src">Dioscorides 1.58.1-2</td>
+          <td>Marjoram unguent</td>
+          <td class="ck-num">13</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-58-3-hedychroun" data-lem="" data-fam="-" data-name="hedychroun" data-src="042" data-famname="zzz" data-n="0" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-58-3-hedychroun.html">Hedychroun</a> <span lang="grc" class="meta">ἠδύχρουν</span> <span class="chip">report</span></th>
+          <td class="ck-src">Dioscorides 1.58.3</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">0</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-58-3-megalleion" data-lem="ῥητίνη|τερμινθίνη" data-fam="-" data-name="megalleion" data-src="043" data-famname="zzz" data-n="2" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-58-3-megalleion.html">Megalleion</a> <span lang="grc" class="meta">μεγάλλειον</span></th>
+          <td class="ck-src">Dioscorides 1.58.3</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-59-metopion" data-lem="ἀμύγδαλον|ἔλαιον ὀμφάκινον|κάλαμος|καρδάμωμον|καρποβάλσαμον|μέλι|οἶνος|ῥητίνη|σμύρνα|σχοῖνος|χαλβάνη" data-fam="metopion" data-name="metopion" data-src="044" data-famname="metopion" data-n="11" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-59-metopion.html">Metopion</a> <span lang="grc" class="meta">μετώπιον</span></th>
+          <td class="ck-src">Dioscorides 1.59.1-2</td>
+          <td>Metopion</td>
+          <td class="ck-num">11</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-59-3-mendesion" data-lem="βαλάνινον|κασία|κινάμωμον|ῥητίνη|σμύρνα" data-fam="mendesion" data-name="mendesian unguent" data-src="045" data-famname="mendesian unguent" data-n="5" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-59-3-mendesion.html">Mendesian unguent</a> <span lang="grc" class="meta">μενδήσιον</span></th>
+          <td class="ck-src">Dioscorides 1.59.3</td>
+          <td>Mendesian unguent</td>
+          <td class="ck-num">5</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-60-stakte" data-lem="σμύρνα|ὕδωρ" data-fam="-" data-name="stacte" data-src="046" data-famname="zzz" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-60-stakte.html">Stacte</a> <span lang="grc" class="meta">στακτή</span></th>
+          <td class="ck-src">Dioscorides 1.60</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-61-kinamominon" data-lem="βαλάνινον|κάλαμος|καρποβάλσαμον|κινάμωμον|μέλι|ξυλοβάλσαμον|σμύρνα|σχοῖνος" data-fam="-" data-name="cinnamon unguent" data-src="047" data-famname="zzz" data-n="8" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-61-kinamominon.html">Cinnamon unguent</a> <span lang="grc" class="meta">κιναμώμινον</span></th>
+          <td class="ck-src">Dioscorides 1.61</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">8</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-62-nardinon" data-lem="ἄμωμον|βαλάνινον|βάλσαμον|ἔλαιον ὀμφάκινον|κάλαμος|κόστος|μαλάβαθρον|νάρδος|σμύρνα|σχοῖνος" data-fam="nardinon" data-name="nard unguent" data-src="048" data-famname="nard unguent" data-n="14" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-62-nardinon.html">Nard unguent</a> <span lang="grc" class="meta">νάρδινον</span></th>
+          <td class="ck-src">Dioscorides 1.62</td>
+          <td>Nard unguent</td>
+          <td class="ck-num">14</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-63-iasmelaion" data-lem="ἴον|σησάμινον" data-fam="-" data-name="iasmelaion" data-src="049" data-famname="zzz" data-n="2" data-st="draft-translation">
+          <th scope="row"><a href="recipes/dioscorides-1-63-iasmelaion.html">Iasmelaion</a> <span lang="grc" class="meta">ἰασμέλαιον</span></th>
+          <td class="ck-src">Dioscorides 1.63.apparatus</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft translation</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-63-malabathrinon" data-lem="σμύρνα" data-fam="-" data-name="malabathron unguent" data-src="050" data-famname="zzz" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-63-malabathrinon.html">Malabathron unguent</a> <span lang="grc" class="meta">μαλαβάθρινον</span></th>
+          <td class="ck-src">Dioscorides 1.63</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-71-5-burned-resin-with-water" data-lem="ῥητίνη|ὕδωρ" data-fam="-" data-name="resin processed with water" data-src="051" data-famname="zzz" data-n="1" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-71-5-burned-resin-with-water.html">Resin processed with water</a> <span lang="grc" class="meta">ῥητίνη κεκαυμένη μετὰ ὕδατος</span></th>
+          <td class="ck-src">Dioscorides 1.71.5</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">1</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="dioscorides-1-71-6-burned-resin-without-water" data-lem="ῥητίνη" data-fam="-" data-name="resin processed without water" data-src="052" data-famname="zzz" data-n="2" data-st="draft">
+          <th scope="row"><a href="recipes/dioscorides-1-71-6-burned-resin-without-water.html">Resin processed without water</a> <span lang="grc" class="meta">ῥητίνη κεκαυμένη δίχα ὕδατος</span></th>
+          <td class="ck-src">Dioscorides 1.71.6</td>
+          <td><span class="meta">—</span></td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="paul-7-20-4" data-lem="ἔλαιον|ῥόδον" data-fam="rhodinon" data-name="rose oil" data-src="053" data-famname="rose oil" data-n="2" data-st="draft">
+          <th scope="row"><a href="recipes/paul-7-20-4.html">Rose oil</a> <span lang="grc" class="meta">Ῥόδινον</span></th>
+          <td class="ck-src">Paul of Aegina 7.20.4</td>
+          <td><a class="uterm" href="families/rhodinon.html">Rose oil</a></td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+        <tr data-id="aetius-1-113" data-lem="ἔλαιον|ῥόδον" data-fam="rhodinon" data-name="rose oil" data-src="054" data-famname="rose oil" data-n="2" data-st="draft">
+          <th scope="row"><a href="recipes/aetius-1-113.html">Rose oil</a> <span lang="grc" class="meta">ἔλαιον ῥόδινον</span></th>
+          <td class="ck-src">Aetius of Amida 1.113</td>
+          <td><a class="uterm" href="families/rhodinon.html">Rose oil</a></td>
+          <td class="ck-num">2</td>
+          <td><span class="meta">draft</span></td>
+        </tr>
+      </tbody>
+    </table>
+    </div>
+  </section>
+  <section id="families">
+    <h2 class="ck-h2">Families compared</h2>
+    <p class="serif cb-p"><a class="uterm" href="families/irinon.html">Iris unguent</a> <span class="meta">2 recipes</span> · <a class="uterm" href="families/kikinon.html">Castor oil</a> <span class="meta">2 recipes</span> · <a class="uterm" href="families/melinon.html">Quince oil</a> <span class="meta">2 recipes</span> · <a class="uterm" href="families/rhodinon.html">Rose oil</a> <span class="meta">3 recipes</span></p>
+  </section>
+  <section id="ingredients">
+    <h2 class="ck-h2">Ingredients</h2>
+    <div class="ck-lems"><a href="lemmata/agchoysa.html">Alkanet <span lang="grc" class="meta">ἄγχουσα</span> <span class="meta">1</span></a><a href="lemmata/amygdalon.html">Almonds <span lang="grc" class="meta">ἀμύγδαλον</span> <span class="meta">2</span></a><a href="lemmata/amomon.html">Amomum <span lang="grc" class="meta">ἄμωμον</span> <span class="meta">2</span></a><a href="lemmata/aspalathos.html">Aspalathos <span lang="grc" class="meta">ἀσπάλαθος</span> <span class="meta">5</span></a><a href="lemmata/balaninon.html">Balanos oil <span lang="grc" class="meta">βαλάνινον</span> <span class="meta">5</span></a><a href="lemmata/balsamon.html">Balsam <span lang="grc" class="meta">βάλσαμον</span> <span class="meta">1</span></a><a href="lemmata/karpobalsamon.html">Balsam fruit <span lang="grc" class="meta">καρποβάλσαμον</span> <span class="meta">3</span></a><a href="lemmata/xylobalsamon.html">Balsam wood <span lang="grc" class="meta">ξυλοβάλσαμον</span> <span class="meta">4</span></a><a href="lemmata/okimon.html">Basil <span lang="grc" class="meta">ὤκιμον</span> <span class="meta">1</span></a><a href="lemmata/daphnis.html">Bay berries <span lang="grc" class="meta">δαφνίς</span> <span class="meta">1</span></a><a href="lemmata/daphne.html">Bay leaves <span lang="grc" class="meta">δάφνη</span> <span class="meta">1</span></a><a href="lemmata/kalamos.html">Calamus <span lang="grc" class="meta">κάλαμος</span> <span class="meta">13</span></a><a href="lemmata/kardamomon.html">Cardamom <span lang="grc" class="meta">καρδάμωμον</span> <span class="meta">4</span></a><a href="lemmata/kasia.html">Cassia <span lang="grc" class="meta">κασία</span> <span class="meta">3</span></a><a href="lemmata/kroton.html">Castor seeds <span lang="grc" class="meta">κρότων</span> <span class="meta">2</span></a><a href="lemmata/nardos-keltike.html">Celtic nard <span lang="grc" class="meta">νάρδος κελτική</span> <span class="meta">1</span></a><a href="lemmata/kinamomon.html">Cinnamon <span lang="grc" class="meta">κινάμωμον</span> <span class="meta">5</span></a><a href="lemmata/kokkos-knidios.html">Cnidian berries <span lang="grc" class="meta">κόκκος Κνίδιος</span> <span class="meta">1</span></a><a href="lemmata/kostos.html">Costus <span lang="grc" class="meta">κόστος</span> <span class="meta">3</span></a><a href="lemmata/kyperos.html">Cyperus <span lang="grc" class="meta">κύπερος</span> <span class="meta">4</span></a><a href="lemmata/kyparissos.html">Cypress <span lang="grc" class="meta">κυπάρισσος</span> <span class="meta">1</span></a><a href="lemmata/anethon.html">Dill <span lang="grc" class="meta">ἄνηθον</span> <span class="meta">1</span></a><a href="lemmata/telis.html">Fenugreek <span lang="grc" class="meta">τῆλις</span> <span class="meta">2</span></a><a href="lemmata/chalbane.html">Galbanum <span lang="grc" class="meta">χαλβάνη</span> <span class="meta">1</span></a><a href="lemmata/stemphyla.html">Grape marc <span lang="grc" class="meta">στέμφυλα</span> <span class="meta">1</span></a><a href="lemmata/gleykos.html">Grape must <span lang="grc" class="meta">γλεῦκος</span> <span class="meta">1</span></a><a href="lemmata/yoskyamos.html">Henbane <span lang="grc" class="meta">ὑοσκύαμος</span> <span class="meta">1</span></a><a href="lemmata/kyproy-anthos.html">Henna flowers <span lang="grc" class="meta">κύπρου ἄνθος</span> <span class="meta">1</span></a><a href="lemmata/meli.html">Honey <span lang="grc" class="meta">μέλι</span> <span class="meta">7</span></a><a href="lemmata/iris.html">Iris root <span lang="grc" class="meta">ἶρις</span> <span class="meta">3</span></a><a href="lemmata/arkeythis.html">Juniper berries <span lang="grc" class="meta">ἀρκευθίς</span> <span class="meta">1</span></a><a href="lemmata/krinon.html">Lilies <span lang="grc" class="meta">κρίνον</span> <span class="meta">2</span></a><a href="lemmata/malabathron.html">Malabathrum <span lang="grc" class="meta">μαλάβαθρον</span> <span class="meta">1</span></a><a href="lemmata/amarakos.html">Marjoram (amarakos) <span lang="grc" class="meta">ἀμάρακος</span> <span class="meta">1</span></a><a href="lemmata/sampsychon.html">Marjoram (sampsuchon) <span lang="grc" class="meta">σάμψυχον</span> <span class="meta">1</span></a><a href="lemmata/mastiche.html">Mastic <span lang="grc" class="meta">μαστίχη</span> <span class="meta">1</span></a><a href="lemmata/schinos.html">Mastic tree <span lang="grc" class="meta">σχῖνος</span> <span class="meta">1</span></a><a href="lemmata/meliloton.html">Melilot <span lang="grc" class="meta">μελίλωτον</span> <span class="meta">2</span></a><a href="lemmata/sinapi.html">Mustard <span lang="grc" class="meta">σίναπι</span> <span class="meta">1</span></a><a href="lemmata/smyrna.html">Myrrh <span lang="grc" class="meta">σμύρνα</span> <span class="meta">13</span></a><a href="lemmata/myrsine.html">Myrtle leaves <span lang="grc" class="meta">μυρσίνη</span> <span class="meta">3</span></a><a href="lemmata/narkissos.html">Narcissus flowers <span lang="grc" class="meta">νάρκισσος</span> <span class="meta">1</span></a><a href="lemmata/nardos.html">Nard <span lang="grc" class="meta">νάρδος</span> <span class="meta">2</span></a><a href="lemmata/elaion.html">Olive oil <span lang="grc" class="meta">ἔλαιον</span> <span class="meta">21</span></a><a href="lemmata/elaia.html">Olives <span lang="grc" class="meta">ἐλαία</span> <span class="meta">1</span></a><a href="lemmata/spathe.html">Palm spathe <span lang="grc" class="meta">σπάθη</span> <span class="meta">4</span></a><a href="lemmata/pitys.html">Pine <span lang="grc" class="meta">πίτυς</span> <span class="meta">1</span></a><a href="lemmata/sidion.html">Pomegranate rind <span lang="grc" class="meta">σίδιον</span> <span class="meta">1</span></a><a href="lemmata/kydonion-melon.html">Quinces <span lang="grc" class="meta">κυδώνιον μῆλον</span> <span class="meta">2</span></a><a href="lemmata/raphanos.html">Radish <span lang="grc" class="meta">ῥάφανος</span> <span class="meta">1</span></a><a href="lemmata/staphis.html">Raisins <span lang="grc" class="meta">σταφίς</span> <span class="meta">1</span></a><a href="lemmata/retine.html">Resin <span lang="grc" class="meta">ῥητίνη</span> <span class="meta">6</span></a><a href="lemmata/rodon.html">Rose petals <span lang="grc" class="meta">ῥόδον</span> <span class="meta">3</span></a><a href="lemmata/krokos.html">Saffron <span lang="grc" class="meta">κρόκος</span> <span class="meta">2</span></a><a href="lemmata/als.html">Salt <span lang="grc" class="meta">ἅλς</span> <span class="meta">2</span></a><a href="lemmata/schoinos.html">Schoinos <span lang="grc" class="meta">σχοῖνος</span> <span class="meta">10</span></a><a href="lemmata/sesamon.html">Sesame <span lang="grc" class="meta">σήσαμον</span> <span class="meta">1</span></a><a href="lemmata/sesaminon.html">Sesame oil <span lang="grc" class="meta">σησάμινον</span> <span class="meta">1</span></a><a href="lemmata/abrotonon.html">Southernwood <span lang="grc" class="meta">ἀβρότονον</span> <span class="meta">2</span></a><a href="lemmata/styrax.html">Storax <span lang="grc" class="meta">στύραξ</span> <span class="meta">1</span></a><a href="lemmata/terminthine.html">Terebinth resin <span lang="grc" class="meta">τερμινθίνη</span> <span class="meta">1</span></a><a href="lemmata/elaion-omphakinon.html">Unripe-olive oil <span lang="grc" class="meta">ἔλαιον ὀμφάκινον</span> <span class="meta">11</span></a><a href="lemmata/oinanthe.html">Vine flowers <span lang="grc" class="meta">οἰνάνθη</span> <span class="meta">1</span></a><a href="lemmata/ion.html">Violets <span lang="grc" class="meta">ἴον</span> <span class="meta">1</span></a><a href="lemmata/karyon.html">Walnuts <span lang="grc" class="meta">κάρυον</span> <span class="meta">1</span></a><a href="lemmata/ydor.html">Water <span lang="grc" class="meta">ὕδωρ</span> <span class="meta">16</span></a><a href="lemmata/sisymbrion.html">Water mint <span lang="grc" class="meta">σισύμβριον</span> <span class="meta">1</span></a><a href="lemmata/erpyllos.html">Wild thyme <span lang="grc" class="meta">ἕρπυλλος</span> <span class="meta">1</span></a><a href="lemmata/oinos.html">Wine <span lang="grc" class="meta">οἶνος</span> <span class="meta">8</span></a><a href="lemmata/thallos.html">Young shoots <span lang="grc" class="meta">θαλλός</span> <span class="meta">1</span></a></div>
+  </section>
+  <section id="flags">
+    <details><summary class="ck-h2">Flags for review (55)</summary>
+    <ul class="ck-flags"><li><a class="uterm" href="recipes/dioscorides-1-25-kyphi.html">1.25.1-2 Kyphi</a> ἀρκευθίδος: equal amount: no unit; the same as the cyperus, i.e. half a xestes</li><li><a class="uterm" href="recipes/dioscorides-1-30-omphakinon.html">1.30.1-2 Unripe-olive oil</a> perfume-tables gives the locator as 1.30, overlapping the three later recipes of the chapter; cut to 1.30.1-2. The only procedure in it is the imitation of aged oil, not a preparation of omphakinon.</li><li><a class="uterm" href="recipes/dioscorides-1-30-whitened-oil.html">1.30.3-4 Whitened oil</a> δαλὸν πιτυίνης: equal weight: no unit; presumably equal to the fifty drachmai of fenugreek</li><li><a class="uterm" href="recipes/dioscorides-1-30-whitened-oil.html">1.30.3-4 Whitened oil</a> ἴρεως: equal amount: no unit; equal to the melilot, eleven holkai</li><li><a class="uterm" href="recipes/dioscorides-1-30-whitened-oil.html">1.30.3-4 Whitened oil</a> οἴνῳ παλαιῷ: not in perfume-tables; a rinse for the vessel, not mixed in as such</li><li><a class="uterm" href="recipes/dioscorides-1-30-3-agrias-elaias.html">1.30.3 Wild-olive oil</a> no method in the text: the single step only says the oil is made from the wild olive. Locator 1.30.3 covers the first part of the section only; the whitened oil begins in the same section.</li><li><a class="uterm" href="recipes/dioscorides-1-31-elaiomeli.html">1.31 Olive honey</a> no preparation in the text (a natural exudation), so no steps; the only item, water, belongs to the dose. Perhaps a report rather than a recipe.</li><li><a class="uterm" href="recipes/dioscorides-1-32-kikinon.html">1.32.1 Castor oil</a> κροτώνων: as much as seems fit: no amount</li><li><a class="uterm" href="recipes/dioscorides-1-39-myrsininon.html">1.39 Myrtle oil</a> ἐλαίου ὀμφακίνου: equal amount: no unit; as much oil as the juice pressed from the leaves</li><li><a class="uterm" href="recipes/dioscorides-1-43-rhodinon.html">1.43 Rose oil</a> ἐλαίου: the text does not say whether this is a further batch of oil made astringent in the same way</li><li><a class="uterm" href="recipes/dioscorides-1-44-elatinon.html">1.44 Palm-spathe oil</a> ὀμφάκινον ἔλαιον: equal weight: no unit; the oil and the palm spathe are to be equal in weight</li><li><a class="uterm" href="recipes/dioscorides-1-45-2-melinon-allos.html">1.45.2 Quince oil, a second way</a> ἐλαίῳ: τῷ ἐλαίῳ, &#34;the oil&#34;: perhaps the oil prepared as in 1.45.1, or plain olive oil; the text does not say</li><li><a class="uterm" href="recipes/dioscorides-1-48-sampsouchinon.html">1.48 Marjoram oil</a> ἐλαίου ὀμφακίνου: not in perfume-tables; relative amount: no unit</li><li><a class="uterm" href="recipes/dioscorides-1-49-okiminon.html">1.49 Basil oil</a> ἐλαίου: not in perfume-tables; equal amount: no unit; presumably the same 20 litrai as the first charge</li><li><a class="uterm" href="recipes/dioscorides-1-49-okiminon.html">1.49 Basil oil</a> ὠκίμου: equal amount: no unit; presumably the same 11 litrai 8 ounces as the first charge</li><li><a class="uterm" href="recipes/dioscorides-1-49-okiminon.html">1.49 Basil oil</a> ὀμφοκίνου: not in perfume-tables; the Greek prints ὀμφοκίνου, presumably for ὀμφακίνου</li><li><a class="uterm" href="recipes/dioscorides-1-52-sousinon.html">1.52.1-4 Lily oil</a> ἅλας: not in perfume-tables</li><li><a class="uterm" href="recipes/dioscorides-1-52-sousinon.html">1.52.1-4 Lily oil</a> ἐλαίου: not in perfume-tables; equal amount: no unit; the same as the first charge, presumably 3½ litrai</li><li><a class="uterm" href="recipes/dioscorides-1-52-sousinon.html">1.52.1-4 Lily oil</a> κιναμώμου: perfume-tables reads καρδαμώμου here; the oribasius-app Greek and the approved English have cinnamon</li><li><a class="uterm" href="recipes/dioscorides-1-52-sousinon.html">1.52.1-4 Lily oil</a> κρόκου: equal amount: saffron equal to the cinnamon; no unit</li><li><a class="uterm" href="recipes/dioscorides-1-52-sousinon.html">1.52.1-4 Lily oil</a> κιναμώμου: equal amount: cinnamon equal to the saffron; no unit</li><li><a class="uterm" href="recipes/dioscorides-1-52-sousinon.html">1.52.1-4 Lily oil</a> ὕδατι ὀμερίῳ: the Greek prints ὀμερίῳ; presumably ὀμβρίῳ (rainwater, as the English has): check Wellmann</li><li><a class="uterm" href="recipes/dioscorides-1-52-sousinon.html">1.52.1-4 Lily oil</a> μέλιτι: not in perfume-tables; a coating for hands and vessels rather than a charge</li><li><a class="uterm" href="recipes/dioscorides-1-53-narkissinon.html">1.53 Narcissus unguent</a> σμύρνης: a lump (χόνδρον): no unit</li><li><a class="uterm" href="recipes/dioscorides-1-53-narkissinon.html">1.53 Narcissus unguent</a> ἐλαίου: not in perfume-tables; the amount is lost in the lacuna</li><li><a class="uterm" href="recipes/dioscorides-1-53-narkissinon.html">1.53 Narcissus unguent</a> ναρκίσσου: as much as possible: no unit</li><li><a class="uterm" href="recipes/dioscorides-1-54-krokinon.html">1.54 Saffron unguent</a> ἐλαίου: equal amount: no unit; presumably the same 3½ litrai as the first charge</li><li><a class="uterm" href="recipes/dioscorides-1-55-kyprinon.html">1.55 Henna oil</a> ἐλαίου ὀμφακίνου: relative amount (one part to one and a half parts of rainwater): no unit</li><li><a class="uterm" href="recipes/dioscorides-1-55-kyprinon.html">1.55 Henna oil</a> ἐλαίου: not in perfume-tables; the oil made above is only 9 litrai 5 ounces, so the 28 litrai is a ratio or a larger batch: the text does not say</li><li><a class="uterm" href="recipes/dioscorides-1-55-kyprinon.html">1.55 Henna oil</a> ἄνθους: equal amount: no unit; the same as the first charge, presumably 46 litrai 8 ounces</li><li><a class="uterm" href="recipes/dioscorides-1-55-kyprinon.html">1.55 Henna oil</a> ὕδατος ὀμβρίου: relative amount (one and a half parts to one part of oil): no unit</li><li><a class="uterm" href="recipes/dioscorides-1-56-irinon.html">1.56.1,3-4 Iris unguent</a> μέλιτι: not in perfume-tables; a coating for the vessel rather than a charge</li><li><a class="uterm" href="recipes/dioscorides-1-56-irinon.html">1.56.1,3-4 Iris unguent</a> Cut: sections 1 and 3-4 joined with […] in Greek and English; section 2 is the separate recipe dioscorides-1-56-2-irinon-allos. Check the cut.</li><li><a class="uterm" href="recipes/dioscorides-1-56-2-irinon-allos.html">1.56.2 Iris unguent, a second way</a> καλτάμου: the oribasius-app Greek prints καλτάμου, a slip for καλάμου (perfume-tables reads καλάμου; the English has &#34;aromatic reed&#34;); copied as it stands</li><li><a class="uterm" href="recipes/dioscorides-1-56-2-irinon-allos.html">1.56.2 Iris unguent, a second way</a> σμύρνης: a lump: no unit</li><li><a class="uterm" href="recipes/dioscorides-1-56-2-irinon-allos.html">1.56.2 Iris unguent, a second way</a> ἴρεως: equal amount: the same weight as the 14 litrai of oil; no unit</li><li><a class="uterm" href="recipes/dioscorides-1-56-2-irinon-allos.html">1.56.2 Iris unguent, a second way</a> ἴρεως: not in perfume-tables; equal amount: no unit; the same weight as before</li><li><a class="uterm" href="recipes/dioscorides-1-58-3-megalleion.html">1.58.3 Megalleion</a> τερεβινθίνη: the resin of the item above, specified (said of perfumes in general), not a second charge</li><li><a class="uterm" href="recipes/dioscorides-1-58-3-megalleion.html">1.58.3 Megalleion</a> Cut: section 3 split at the sentence boundary before καὶ τὸ καλούμενον δὲ ἠδύχρουν; the hedychroun is a separate report. Check the cut.</li><li><a class="uterm" href="recipes/dioscorides-1-61-kinamominon.html">1.61 Cinnamon unguent</a> σμύρνης: four times as much as the cinnamon, which has no amount: no unit. The Greek prints παράὰ (sic), presumably for παρὰ</li><li><a class="uterm" href="recipes/dioscorides-1-62-nardinon.html">1.62 Nard unguent</a> σχοίνου: not in perfume-tables</li><li><a class="uterm" href="recipes/dioscorides-1-62-nardinon.html">1.62 Nard unguent</a> κόστου: not in perfume-tables</li><li><a class="uterm" href="recipes/dioscorides-1-62-nardinon.html">1.62 Nard unguent</a> νάρδου: not in perfume-tables</li><li><a class="uterm" href="recipes/dioscorides-1-62-nardinon.html">1.62 Nard unguent</a> one perfume-tables record covers both the full unguent and the plain version (λιτή) of the last sentence; the plain version&#39;s ingredients are listed with role &#39;alternative&#39;. Check whether it should be a recipe of its own.</li><li><a class="uterm" href="recipes/dioscorides-1-63-iasmelaion.html">1.63.apparatus Iasmelaion</a> ἰοῦ: the Greek accents ἰοῦ, the genitive of ἰός (verdigris), not ἴου of ἴον (violet); taken as the violet, as perfume-tables&#39; context and the flowers require</li><li><a class="uterm" href="recipes/dioscorides-1-63-iasmelaion.html">1.63.apparatus Iasmelaion</a> σησαμίνου ἐλαίου: not in perfume-tables</li><li><a class="uterm" href="recipes/dioscorides-1-63-iasmelaion.html">1.63.apparatus Iasmelaion</a> No approved English: the English is a draft translation from the Greek (round 3 item 10), and the Greek comes from perfume-tables, which takes it from Wellmann&#39;s apparatus to 1.63, not from the oribasius-app text.</li><li><a class="uterm" href="recipes/dioscorides-1-63-malabathrinon.html">1.63 Malabathron unguent</a> σμύρνης: more than in nard unguent (1.62), which gives no amount: no unit</li><li><a class="uterm" href="recipes/dioscorides-1-71-5-burned-resin-with-water.html">1.71.5 Resin processed with water</a> ὀμερίου ὕδατος: the Greek prints ὀμερίου; presumably ὀμβρίου (rainwater, as the English has): check Wellmann</li><li><a class="uterm" href="recipes/dioscorides-1-71-6-burned-resin-without-water.html">1.71.6 Resin processed without water</a> ῥητίνης: section 6 does not name the resin it burns; the only form of ῥητίνη in the cut is in λιγνὺς ῥητίνης (resin soot), used here as the form</li><li><a class="uterm" href="recipes/dioscorides-1-71-6-burned-resin-without-water.html">1.71.6 Resin processed without water</a> ξηρὰς: the form is the adjective alone; the noun ῥητίνας is understood</li><li><a class="uterm" href="recipes/paul-7-20-4.html">7.20.4 Rose oil</a> Ῥόδων: perfume-tables gives the amount as &#39;α 𐆄 γ&#39;; the α is read with νυχθήμερον (&#39;one day-and-night&#39;, as the approved English and Aët. 1.113 ἡμέραν καὶ νύκτα 𐆄 γ), so the amount is 𐆄 γ, three ounces</li><li><a class="uterm" href="recipes/paul-7-20-4.html">7.20.4 Rose oil</a> ἐλαίου ὀμφακίνου: Italian sextarius taken to be the xestes of units.json (0.547 l)</li><li><a class="uterm" href="recipes/aetius-1-113.html">1.113 Rose oil</a> ἐλαίου ὀμφακίνου: Italian sextarius taken to be the xestes of units.json (0.547 l)</li><li><a class="uterm" href="recipes/aetius-1-113.html">1.113 Rose oil</a> Cut: the text joins two separate stretches of the chapter, marked […]; the chapter heading (which names the wax-salve too) is left out and the closing passage on drinking the finest rose oil is kept with the oil. Check the cut.</li></ul>
+    </details>
+  </section>
+</div>
+  <footer class="cf">
+    <div class="cf-top">
+      <nav class="cf-cols" aria-label="Site">
+        <div class="cf-col"><p class="eyebrow">The Cookbook</p><a href="index.html#recipes">Recipes</a><a href="index.html#families">Families</a><a href="index.html#ingredients">Ingredients</a><a href="units.html">Units</a><a href="downloads.html">Downloads</a></div>
+        <div class="cf-col"><p class="eyebrow">Contact</p><span class="serif">alchemiesofscent@flu.cas.cz</span><span class="serif">Jilská 1, 110 00 Praha 1</span></div>
+      </nav>
+    </div>
+    <div class="cf-band"><div class="cf-fund">
+      <p class="meta">Funded by the Czech Science Foundation · Grant ID GAČR GM21-30494M<br>Hosted by the Institute of Philosophy of the Czech Academy of Sciences</p>
+      <div class="cf-logos"><img src="assets/partner-flu.png" alt="Institute of Philosophy of the Czech Academy of Sciences" style="height:76px"><img src="assets/partner-gacr.svg" alt="Czech Science Foundation" style="height:56px"></div>
+    </div></div>
+    <div class="cf-band"><div class="cf-meta"><span>© 2026 Alchemies of Scent</span><span>Draft for review · v0.1 in progress</span></div></div>
+  </footer>
+</div>
+<script>
+(function () {
+  var ing = document.getElementById('ck-ing'), fam = document.getElementById('ck-fam'), count = document.getElementById('ck-count');
+  var tbody = document.querySelector('#ck-table tbody'); if (!tbody) return;
+  var rows = Array.prototype.slice.call(tbody.rows), has = {};
+  rows.forEach(function (tr) { has[tr.dataset.id] = tr.dataset.lem.split('|'); });
+  function apply() {
+    var v = ing.value, f = fam.value, n = 0;
+    rows.forEach(function (tr) {
+      var show = (!v || has[tr.dataset.id].indexOf(v) >= 0) && (!f || tr.dataset.fam === f);
+      tr.hidden = !show; if (show) n++;
+    });
+    count.textContent = n + (n === 1 ? ' recipe' : ' recipes');
+  }
+  ing.addEventListener('change', apply); fam.addEventListener('change', apply);
+  /* the filter reads site/data/index.json when it can; the rows carry the same lists */
+  if (window.fetch) fetch('data/index.json').then(function (r) { return r.json(); }).then(function (d) {
+    d.recipes.forEach(function (r) { has[r.id] = r.lemmata; }); apply();
+  }, function () {});
+  /* sort by column */
+  var keys = { name: 'name', src: 'src', fam: 'famname', n: 'n', st: 'st' };
+  document.querySelectorAll('#ck-table [data-sort]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var k = keys[b.dataset.sort], asc = b.getAttribute('aria-sort') !== 'ascending';
+      document.querySelectorAll('#ck-table [data-sort]').forEach(function (x) { x.removeAttribute('aria-sort'); });
+      b.setAttribute('aria-sort', asc ? 'ascending' : 'descending');
+      rows.sort(function (a, c) {
+        var x = a.dataset[k], y = c.dataset[k];
+        if (k === 'n') { x = +x; y = +y; }
+        return (x < y ? -1 : x > y ? 1 : 0) * (asc ? 1 : -1);
+      });
+      rows.forEach(function (tr) { tbody.appendChild(tr); });
+    });
+  });
+  apply();
+})();
+</script>
+</body>
+</html>
