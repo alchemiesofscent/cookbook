@@ -389,3 +389,31 @@ button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:poin
 .ck-facets{display:flex;flex-direction:column}
 .ck-facet-k{flex:none;display:inline-flex;align-items:center;min-width:5.5rem;min-height:44px;font:700 .6875rem/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--ink)}
 .ck-clear{min-height:44px;margin-left:10px;font:400 .875rem/1 var(--sans);color:var(--ink);text-decoration:underline;text-underline-offset:.2em}
+/* the family comparison on a phone: one block per ingredient, a line per recipe on one 0–100 scale */
+.ck-famlist{display:none}
+@media (max-width:719.9px){
+  .ck-famwrap{display:none}
+  .ck-famlist{display:block}
+  .ck-fl-batches{display:flex;flex-direction:column;gap:12px;padding:4px 0 16px;border-bottom:1px solid var(--ink)}
+  .cb-body .ck-fl-batch{display:flex;flex-direction:column;gap:6px;color:var(--ink);text-decoration:none}
+  .ck-fl-batch .ck-fl-src [lang="grc"]{font-size:1.0625rem;color:var(--ink);margin-right:4px}
+  .ck-fl-total{font:400 .75rem/1 var(--sans);color:var(--muted)}
+  .ck-fl-ing{padding:14px 0 10px;border-bottom:1px solid var(--rule)}
+  .ck-fl-ing h3{margin:0 0 8px;font:400 1rem/1.4 var(--sans)}
+  .ck-fl-ing h3 a{text-decoration:none}
+  .ck-fl-ing h3 [lang="grc"]{font-size:1.25rem}
+  .ck-fl-ren{color:var(--muted)}
+  .ck-fl-ing ul{list-style:none;margin:0;padding:0}
+  .ck-fl-row{display:grid;grid-template-columns:7.5rem minmax(0,1fr) 2.75rem;align-items:center;column-gap:10px;padding:4px 0}
+  .ck-fl-src{font:400 .8125rem/1.3 var(--sans);color:var(--muted)}
+  .ck-fl-bar{display:block;height:8px;background:var(--paper-deep);border-radius:1px;overflow:hidden}
+  .ck-fl-bar i{display:block;height:100%}
+  .ck-fl-pct{font:700 .875rem/1 var(--sans);text-align:right}
+  .ck-fl-none{grid-column:2 / 4;font:italic 400 .8125rem/1.3 var(--sans);color:var(--muted)}
+  .ck-fl-amt{grid-column:2 / 4;font:400 .875rem/1.4 var(--serif);color:var(--ink)}
+  .ck-fl-amt summary{cursor:pointer;min-height:32px;display:flex;align-items:center;list-style:none}
+  .ck-fl-amt summary::-webkit-details-marker{display:none}
+  .ck-fl-amt summary::after{content:"";width:5px;height:5px;margin-left:8px;border-right:1.5px solid var(--muted);border-bottom:1.5px solid var(--muted);transform:translateY(-2px) rotate(45deg)}
+  .ck-fl-amt[open] summary::after{transform:translateY(1px) rotate(225deg)}
+  .ck-fl-amt [lang="grc"]{display:block;padding:0 0 6px;color:var(--muted)}
+}
