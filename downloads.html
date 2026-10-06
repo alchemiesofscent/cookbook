@@ -3,51 +3,79 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Downloads · Cookbook</title>
+<meta name="color-scheme" content="light dark">
+<title>Downloads · The Cookbook</title>
+<meta name="description" content="Ancient perfume recipes from Dioscorides, read from the Greek for making.">
+<link rel="preload" href="assets/fonts/Literata-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/RundText-Regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="assets/laboratory.css">
 <link rel="stylesheet" href="assets/cookbook.css">
-<script src="assets/laboratory.js" defer></script>
+<script src="assets/cookbook.js" defer></script>
 </head>
 <body>
-<div class="pg" >
+<a class="ck-skip" href="#main">Skip to content</a>
+<div class="pg">
   <header class="cn-bar">
     <div class="cn-in">
-      <a class="cn-sym" href="index.html" title="The Cookbook — Alchemies of Scent"><img src="assets/symbol.svg" alt="Alchemies of Scent"></a>
-      <nav class="cn-triad" aria-label="Register"><a href="index.html" aria-current="true">Cookbook</a><span class="is-pending" title="Draft for review">Draft</span></nav>
+      <a class="cn-sym" href="index.html" title="The Cookbook, Alchemies of Scent"><img src="assets/symbol.svg" alt="Alchemies of Scent" width="24" height="24"></a>
+      <nav class="cn-triad" aria-label="Sections"><span class="is-pending" title="The Laboratory, in preparation">Laboratory</span><a href="index.html" aria-current="true">Cookbook</a><span class="is-pending" title="Replications, in preparation">Replications</span></nav>
       <nav class="cn-nav" aria-label="The Cookbook">
-<a href="index.html#recipes">Recipes</a><a href="index.html#families">Families</a><a href="index.html#ingredients">Ingredients</a>        <button id="cn-menu-btn" class="cn-menu-btn" aria-expanded="false" aria-controls="cn-menu" aria-label="Menu"><svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M2 6.5h18M2 15.5h18" stroke="currentColor" stroke-width="1.5"></path></svg></button>
+<a href="index.html">Recipes</a><a href="families.html">Families</a><a href="ingredients.html">Ingredients</a>        <button type="button" class="cn-menu-btn" aria-expanded="false" aria-controls="ck-menu" aria-label="Menu" data-menu-open><svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M2 6.5h18M2 15.5h18" stroke="currentColor" stroke-width="1.5"></path></svg></button>
       </nav>
     </div>
   </header>
-  <div id="cn-menu" class="cn-ov" role="dialog" aria-modal="true" aria-label="The Cookbook menu">
-    <div class="cn-ov-hd"><img src="assets/symbol.svg" alt=""><button class="cn-menu-close" aria-label="Close menu"><svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M4 4l14 14M18 4L4 18" stroke="currentColor" stroke-width="1.5"></path></svg></button></div>
-    <nav class="cn-ov-nav" aria-label="The Cookbook"><a href="index.html#recipes">Recipes</a><a href="index.html#families">Families</a><a href="index.html#ingredients">Ingredients</a></nav>
-  </div>
-<nav class="crumb" aria-label="Breadcrumb"><a href="index.html">The Cookbook</a> › <span>Downloads</span></nav><div class="cb-wrap">
-  <header class="ck-pagehead ck-pagehead--tight">
-    <p class="eyebrow">Data</p>
-    <h1 class="cb-h1 cb-h1--index">Downloads</h1>
-    <p class="ck-deck serif">The cookbook's records as data, written by the build from the same files as the pages. Status: draft.</p>
-  </header>
-  <ul class="ck-downloads">
-    <li><a class="uterm" href="data/recipes.json">recipes.json</a> <span class="meta">every recipe record, as in <code>cookbook/recipes/</code></span></li>
-    <li><a class="uterm" href="data/ingredients.csv">ingredients.csv</a> <span class="meta">one row per ingredient: recipe, author, locator, list, role, form, lemma, name, printed, quantity, unit</span></li>
-    <li><a class="uterm" href="data/index.json">index.json</a> <span class="meta">the index's recipe and ingredient lists</span></li>
+<nav class="crumb" aria-label="Breadcrumb"><a href="index.html">The Cookbook</a> › Downloads</nav>  <main id="main" class="cb-wrap" tabindex="-1">
+    <article class="cb-card">
+      <div class="cb-tabrow"><p class="cb-tab">Downloads</p><div class="cb-tabline"></div></div>
+      <header class="cb-head">    <h1 class="cb-h1">Downloads</h1>
+    <p class="ck-standfirst">The recipes as data, made from the same files as the pages.</p>
+</header>
+      <div class="cb-body"><section class="cb-sec ck-full">
+<ul class="ck-downloads">
+    <li><a href="data/recipes.json">recipes.json</a><span class="ck-small">Every recipe in full: its Greek and translation, ingredients with the forms as printed and their amounts, the method, and the source.</span></li>
+    <li><a href="data/ingredients.csv">ingredients.csv</a><span class="ck-small">One row per ingredient: recipe, author, locator, list, role, form as printed, headword, rendering, amount as printed, quantity, unit.</span></li>
   </ul>
+</section>
+<section class="cb-sec cb-split">
+    <h2>How to cite</h2>
+    <div>
+    <p class="ck-citepage">Alchemies of Scent, The Cookbook, preliminary edition, October 2026, https://alchemiesofscent.github.io/cookbook/</p>
+    <h2 class="ck-sech">Licence</h2>
+    <p class="ck-small ck-measure">The recipes, translations and pages: Creative Commons Attribution 4.0 (CC BY 4.0). The Greek text, from Wellmann’s edition as encoded by the First Thousand Years of Greek: CC BY-SA 4.0. The scholars’ identifications are quoted with each scholar and page cited.</p>
+  </div>
+  </section>
 </div>
+    </article>
+  </main>
   <footer class="cf">
     <div class="cf-top">
       <nav class="cf-cols" aria-label="Site">
-        <div class="cf-col"><p class="eyebrow">The Cookbook</p><a href="index.html#recipes">Recipes</a><a href="index.html#families">Families</a><a href="index.html#ingredients">Ingredients</a><a href="units.html">Units</a><a href="downloads.html">Downloads</a></div>
+        <div class="cf-col"><p class="eyebrow">The Cookbook</p><a href="index.html">Recipes</a><a href="families.html">Families</a><a href="ingredients.html">Ingredients</a><a href="units.html">Units</a><a href="downloads.html">Downloads</a></div>
+        <div class="cf-col"><p class="eyebrow">Research</p><span class="is-pending">The Laboratory</span><a href="https://alchemiesofscent.github.io/dioscorides-reader/">The Dioscorides reader</a><span class="is-pending">Replications</span></div>
         <div class="cf-col"><p class="eyebrow">Contact</p><span class="serif">alchemiesofscent@flu.cas.cz</span><span class="serif">Jilská 1, 110 00 Praha 1</span></div>
       </nav>
     </div>
     <div class="cf-band"><div class="cf-fund">
       <p class="meta">Funded by the Czech Science Foundation · Grant ID GAČR GM21-30494M<br>Hosted by the Institute of Philosophy of the Czech Academy of Sciences</p>
-      <div class="cf-logos"><img src="assets/partner-flu.png" alt="Institute of Philosophy of the Czech Academy of Sciences" style="height:76px"><img src="assets/partner-gacr.svg" alt="Czech Science Foundation" style="height:56px"></div>
+      <div class="cf-logos"><img src="assets/partner-flu.png" alt="Institute of Philosophy of the Czech Academy of Sciences" width="217" height="76" loading="lazy"><img src="assets/partner-gacr.svg" alt="Czech Science Foundation" width="135" height="56" loading="lazy"></div>
     </div></div>
-    <div class="cf-band"><div class="cf-meta"><span>© 2026 Alchemies of Scent</span><span>Draft for review · v0.1 in progress</span></div></div>
+    <div class="cf-band"><div class="cf-meta"><span>© 2026 Alchemies of Scent</span><span>Preliminary edition · October 2026</span></div></div>
   </footer>
 </div>
+<div id="ck-menu" class="ck-menu" role="dialog" aria-modal="true" aria-label="Menu" hidden>
+  <button type="button" class="ck-menu-x" aria-label="Close menu" data-menu-close><svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M4 4l14 14M18 4L4 18" stroke="currentColor" stroke-width="1.5"></path></svg></button>
+  <div class="ck-menu-in">
+    <img class="ck-menu-sym" src="assets/symbol.svg" alt="" width="24" height="24">
+    <nav class="ck-menu-sections" aria-label="Sections"><span class="is-pending">Laboratory</span><a href="index.html" aria-current="true">Cookbook</a><span class="is-pending">Replications</span></nav>
+    <nav class="ck-menu-nav" aria-label="The Cookbook"><a href="index.html">Recipes</a><a href="families.html">Families</a><a href="ingredients.html">Ingredients</a><a href="units.html">Units</a><a href="downloads.html" aria-current="true">Downloads</a></nav>
+  </div>
+</div>
+<nav class="ck-tabbar" aria-label="The Cookbook">
+  <a href="index.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z M5 17a3 3 0 0 1 3-3h11"/></svg><span>Recipes</span></a>
+  <a href="families.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg><span>Families</span></a>
+  <a href="ingredients.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19c0-8 5-14 15-15-1 10-7 15-15 15z M5 19l8-8"/></svg><span>Ingredients</span></a>
+  <a href="index.html#search" data-search-tab><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg><span>Search</span></a>
+</nav>
+<div class="ck-vh" role="status" aria-live="polite" data-live></div>
 </body>
 </html>

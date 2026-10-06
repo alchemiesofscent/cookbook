@@ -1,238 +1,238 @@
-recipe,author,locator,list,role,form,lemma,name,printed,quantity,unit
-dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,κυπέρου,κύπερος,Cyperus,ἡμίξεστον,0.5,xestes
-dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,ἀρκευθίδος,ἀρκευθίς,Juniper berries,τὸ αὐτό,,
-dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,σταφίδος,σταφίς,Raisins,μνᾶς δεκαδύο,12,mna
-dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,ῥητίνης,ῥητίνη,Resin,μνᾶς πέντε,5,mna
-dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,καλάμου ἀρωματίτου,κάλαμος,Calamus,ἑκάστου μνᾶν μίαν,1,mna
-dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,ἀσπαλάθου,ἀσπάλαθος,Aspalathos,ἑκάστου μνᾶν μίαν,1,mna
-dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,σχοίνου,σχοῖνος,Schoinos,ἑκάστου μνᾶν μίαν,1,mna
-dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,σμύρνης,σμύρνα,Myrrh,δραχμὰς δεκαδύο,12,drachme
-dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,οἴνου παλαιοῦ,οἶνος,Wine,ξέστας ἐννέα,9,xestes
-dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,μέλιτος,μέλι,Honey,μνᾶς δύο,2,mna
-dioscorides-1-30-omphakinon,Dioscorides,1.30.1-2,ingredients,,τοῦ παρόντος τὸ κρεῖσσον,ἔλαιον,Olive oil,,,
-dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,ἔλαιον,ἔλαιον,Olive oil,κοτύλαι ἑκατόν,100,kotyle
-dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,τήλεως,τῆλις,Fenugreek,δραχμὰς πεντήκοντα,50,drachme
-dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,ὕδατι,ὕδωρ,Water,,,
-dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,δαλὸν πιτυίνης,πίτυς,Pine,τὰς ἴσας ὁλκὰς,,
-dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,μελιλώτου,μελίλωτον,Melilot,ὁλκῶν ἕνδεκα,11,holke
-dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,ἴρεως,ἶρις,Iris root,τῆς ἴσης,,
-dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,working,,οἴνῳ παλαιῷ,οἶνος,Wine,,,
-dioscorides-1-30-3-agrias-elaias,Dioscorides,1.30.3,ingredients,,ἀγρίας ἐλαίας,ἐλαία,Olives,,,
-dioscorides-1-30-5-sikyonion,Dioscorides,1.30.5,ingredients,,ἐλαίου,ἔλαιον,Olive oil,χοέα ἕνα,1,chous
-dioscorides-1-30-5-sikyonion,Dioscorides,1.30.5,working,,ὕδατος,ὕδωρ,Water,ἡμίχουν,0.5,chous
-dioscorides-1-31-thalloi-oil,Dioscorides,1.31,ingredients,,λίπους τῶν θαλλῶν,θαλλός,Young shoots,,,
-dioscorides-1-32-kikinon,Dioscorides,1.32.1,ingredients,,κροτώνων,κρότων,Castor seeds,ὅσον ἂν δόξῃ,,
-dioscorides-1-32-kikinon,Dioscorides,1.32.1,working,,ὕδωρ,ὕδωρ,Water,,,
-dioscorides-1-32-2-kikinon-aigyption,Dioscorides,1.32.2,ingredients,,κρότωνας,κρότων,Castor seeds,,,
-dioscorides-1-33-amygdalinon,Dioscorides,1.33,ingredients,,ἀμυγδάλων πικρῶν,ἀμύγδαλον,Almonds,χοίνικας τέσσαρας,4,choinix
-dioscorides-1-33-amygdalinon,Dioscorides,1.33,ingredients,,ὕδατος,ὕδωρ,Water,κοτύλας δύο,2,kotyle
-dioscorides-1-33-amygdalinon,Dioscorides,1.33,ingredients,,ὕδατος,ὕδωρ,Water,κοτύλην μίαν,1,kotyle
-dioscorides-1-34-sesaminon-karyinon,Dioscorides,1.34 (Wellmann 38.10),ingredients,,σησάμου,σήσαμον,Sesame,,,
-dioscorides-1-34-sesaminon-karyinon,Dioscorides,1.34 (Wellmann 38.10),ingredients,,βασιλικῶν καρύων,κάρυον,Walnuts,,,
-dioscorides-1-35-hyoskyaminon,Dioscorides,1.35,ingredients,,λευκὸν καρπὸν,ὑοσκύαμος,Henbane,,,
-dioscorides-1-35-hyoskyaminon,Dioscorides,1.35,ingredients,,ὕδατι,ὕδωρ,Water,,,
-dioscorides-1-36-knidion,Dioscorides,1.36 (Wellmann 39.1–5),ingredients,,Κνιδίου κόκκου,κόκκος Κνίδιος,Cnidian berries,,,
-dioscorides-1-37-raphaninon,Dioscorides,1.37 (Wellmann 39.5–10),ingredients,,σπέρματος,ῥάφανος,Radish,,,
-dioscorides-1-38-sinapinon,Dioscorides,1.38,ingredients,,σινήπεως,σίναπι,Mustard,,,
-dioscorides-1-38-sinapinon,Dioscorides,1.38,ingredients,,ὕδατι,ὕδωρ,Water,,,
-dioscorides-1-38-sinapinon,Dioscorides,1.38,ingredients,,ἐλαίου,ἔλαιον,Olive oil,,,
-dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,,μυρσίνης,μυρσίνη,Myrtle leaves,,,
-dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,Unripe-olive oil,ἴσον δὲ τῷ χυλῷ,,
-dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,ὕδατος,ὕδωρ,Water,,,
-dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,ἐλαίου,ἔλαιον,Olive oil,,,
-dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,σιδίοις,σίδιον,Pomegranate rind,,,
-dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,κυπαρίσσῳ,κυπάρισσος,Cypress,,,
-dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,κυπέρῳ,κύπερος,Cyperus,,,
-dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,σχοίνῳ,σχοῖνος,Schoinos,,,
-dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,,δαφνίδων,δαφνίς,Bay berries,,,
-dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,Unripe-olive oil,,,
-dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,κυπέρῳ,κύπερος,Cyperus,,,
-dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,σχοίνῳ,σχοῖνος,Schoinos,,,
-dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,καλάμῳ,κάλαμος,Calamus,,,
-dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,δάφνης φύλλα,δάφνη,Bay leaves,,,
-dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,στύρακα,στύραξ,Storax,,,
-dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,μυρσίνην,μυρσίνη,Myrtle leaves,,,
-dioscorides-1-40-daphninon,Dioscorides,1.40,working,,ὕδατος,ὕδωρ,Water,,,
-dioscorides-1-41-schininon,Dioscorides,1.41,ingredients,,σχίνου,σχῖνος,Mastic tree,,,
-dioscorides-1-42-mastichinon,Dioscorides,1.42.1,ingredients,,μαστίχης,μαστίχη,Mastic,,,
-dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,,ῥόδων,ῥόδον,Rose petals,ἀριθμῷ χιλίων,1000,count
-dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας εἴκοσι οὐγγίας πέντε,245,oungia
-dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,,σχοίνου,σχοῖνος,Schoinos,λίτρας πέντε οὐγγίας ὀκτώ,68,oungia
-dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας ὀκτὼ οὐγγίας τρεῖς,99,oungia
-dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,alternative,κάλαμον,κάλαμος,Calamus,,,
-dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,alternative,ἀσπάλαθον,ἀσπάλαθος,Aspalathos,,,
-dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,alternative,ἄγχουσαν,ἄγχουσα,Alkanet,,,
-dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,alternative,ἅλας,ἅλς,Salt,,,
-dioscorides-1-43-rhodinon,Dioscorides,1.43,working,,ὕδατι,ὕδωρ,Water,,,
-dioscorides-1-43-rhodinon,Dioscorides,1.43,working,,μέλιτι,μέλι,Honey,,,
-dioscorides-1-44-elatinon,Dioscorides,1.44,ingredients,,ἐλάτην,σπάθη,Palm spathe,,,
-dioscorides-1-44-elatinon,Dioscorides,1.44,ingredients,,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,Unripe-olive oil,ἑκάτερα ἰσόσταθμα,,
-dioscorides-1-45-melinon,Dioscorides,1.45.1,ingredients,,ἐλαίου,ἔλαιον,Olive oil,ξέστας ἕξ,6,xestes
-dioscorides-1-45-melinon,Dioscorides,1.45.1,ingredients,,ὕδατος,ὕδωρ,Water,ξέστας δέκα,10,xestes
-dioscorides-1-45-melinon,Dioscorides,1.45.1,ingredients,,σπάθης,σπάθη,Palm spathe,οὐγγίας τρεῖς,3,oungia
-dioscorides-1-45-melinon,Dioscorides,1.45.1,ingredients,,σχοίνου,σχοῖνος,Schoinos,οὐγγίαν μίαν,1,oungia
-dioscorides-1-45-melinon,Dioscorides,1.45.1,ingredients,,κυδώνια μῆλα,κυδώνιον μῆλον,Quinces,,,
-dioscorides-1-45-2-melinon-allos,Dioscorides,1.45.2,ingredients,,μῆλα,κυδώνιον μῆλον,Quinces,,,
-dioscorides-1-45-2-melinon-allos,Dioscorides,1.45.2,ingredients,,ἐλαίῳ,ἔλαιον,Olive oil,,,
-dioscorides-1-46-oinanthinon,Dioscorides,1.46,ingredients,,οἰνάνθην,οἰνάνθη,Vine flowers,,,
-dioscorides-1-46-oinanthinon,Dioscorides,1.46,ingredients,,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,Unripe-olive oil,,,
-dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,,τήλεως,τῆλις,Fenugreek,λίτρας ἐννέα,9,litra
-dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας πέντε,5,litra
-dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,,καλάμου,κάλαμος,Calamus,λίτραν μίαν,1,litra
-dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,,κυπέρου,κύπερος,Cyperus,λίτρας δύο,2,litra
-dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,alternative,καρδάμωμον,καρδάμωμον,Cardamom,,,
-dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,alternative,ξυλοβάλσαμον,ξυλοβάλσαμον,Balsam wood,,,
-dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,ἑρπύλλου,ἕρπυλλος,Wild thyme,,,
-dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,κασσίας,κασία,Cassia,,,
-dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,ἁβροτόνου,ἀβρότονον,Southernwood,,,
-dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,σισυμβρίου ἄνθους,σισύμβριον,Water mint,,,
-dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,μυρσίνης πετάλων,μυρσίνη,Myrtle leaves,,,
-dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,σαμψούχου,σάμψυχον,Marjoram (sampsuchon),,,
-dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,Unripe-olive oil,τοσοῦτον,,
-dioscorides-1-49-okiminon,Dioscorides,1.49,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας εἴκοσι,20,litra
-dioscorides-1-49-okiminon,Dioscorides,1.49,ingredients,,ὠκίμου,ὤκιμον,Basil,λίτρας ἕνδεκα οὐγγίας ὀκτὼ,140,oungia
-dioscorides-1-49-okiminon,Dioscorides,1.49,ingredients,,ἐλαίου,ἔλαιον,Olive oil,τὸ ἴσον πλῆθος,,
-dioscorides-1-49-okiminon,Dioscorides,1.49,ingredients,,ὠκίμου,ὤκιμον,Basil,τὸ ἴσον,,
-dioscorides-1-49-okiminon,Dioscorides,1.49,ingredients,alternative,ὀμφοκίνου,ἔλαιον ὀμφάκινον,Unripe-olive oil,,,
-dioscorides-1-50-habrotoninon,Dioscorides,1.50,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-50-habrotoninon,Dioscorides,1.50,ingredients,,ἁβροτόνου φύλλων,ἀβρότονον,Southernwood,λίτρας ὀκτὼ,8,litra
-dioscorides-1-51-anethinon,Dioscorides,1.51,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας ὀκτὼ οὐγγίας ἐννέα,105,oungia
-dioscorides-1-51-anethinon,Dioscorides,1.51,ingredients,,ἀνήθου ἄνθους,ἄνηθον,Dill,λίτρας ἕνδεκα οὐγγίας ὀκτὼ,140,oungia
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,καλάμου,κάλαμος,Calamus,λίτρας πέντε οὐγγίας δέκα,70,oungia
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,σμύρνης,σμύρνα,Myrrh,δραχμὰς πέντε,5,drachme
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,οἴνῳ εὐώδει,οἶνος,Wine,,,
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,καρδαμώμου,καρδάμωμον,Cardamom,λιτρῶν τριῶν οὐγγιῶν ἓξ,42,oungia
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,Olive oil,τρεῖς ἥμισυ λίτρας,3.5,litra
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,κρίνα,κρίνον,Lilies,ἀριθμῷ χίλια,1000,count
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,ἅλας,ἅλς,Salt,,,
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,Olive oil,τὸ ἴσον πλῆθος τῷ προτέρῳ,,
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,καρδαμώμου,καρδάμωμον,Cardamom,ὁλκὰς δέκα,10,holke
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,κρίνα,κρίνον,Lilies,χίλια,1000,count
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,σμύρνης,σμύρνα,Myrrh,δραχμὰς δύο,2,drachme
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,κιναμώμου,κινάμωμον,Cinnamon,δραχμὰς δύο,2,drachme
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,κρόκου,κρόκος,Saffron,δραχμάς δέκα,10,drachme
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,alternative,κρόκου,κρόκος,Saffron,τὸ ἴσον,,
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,alternative,κιναμώμου,κινάμωμον,Cinnamon,τὸ ἴσον,,
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,alternative,ὕδατος,ὕδωρ,Water,,,
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,working,,ὕδατι ὀμερίῳ,ὕδωρ,Water,,,
-dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,working,,μέλιτι,μέλι,Honey,,,
-dioscorides-1-52-5-sousinon-haploun,Dioscorides,1.52.5,ingredients,,ἐλαίου βαλανίνου,βαλάνινον,Balanos oil,,,
-dioscorides-1-52-5-sousinon-haploun,Dioscorides,1.52.5,ingredients,alternative,ἄλλου,ἔλαιον,Olive oil,,,
-dioscorides-1-52-5-sousinon-haploun,Dioscorides,1.52.5,ingredients,,κρίνου,κρίνον,Lilies,,,
-dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,ἀσπαλάθου,ἀσπάλαθος,Aspalathos,λίτρας ἓξ οὐγγίας δύο,74,oungia
-dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,καλάμου,κάλαμος,Calamus,λίτρας πέντε οὐγγίας ὀκτὼ,68,oungia
-dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,σμύρνης,σμύρνα,Myrrh,χόνδρον,,
-dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,οἴνῳ παλαιῷ εὐώδει,οἶνος,Wine,,,
-dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,ἐλαίου,ἔλαιον,Olive oil,,,
-dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,ναρκίσσου,νάρκισσος,Narcissus flowers,ὡς ὅτι πλεῖστον,,
-dioscorides-1-53-narkissinon,Dioscorides,1.53,working,,ὕδατι,ὕδωρ,Water,,,
-dioscorides-1-54-krokinon,Dioscorides,1.54,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας τρεῖς ἥμισυ,3.5,litra
-dioscorides-1-54-krokinon,Dioscorides,1.54,ingredients,,κρόκου,κρόκος,Saffron,δραχμὰς πεντήκοντα,50,drachme
-dioscorides-1-54-krokinon,Dioscorides,1.54,ingredients,,ἐλαίου,ἔλαιον,Olive oil,τὸ ἴσον πλῆθος,,
-dioscorides-1-54-krokinon,Dioscorides,1.54,ingredients,,σμύρνης,σμύρνα,Myrrh,δραχμὰς τεσσαράκοντα,40,drachme
-dioscorides-1-54-krokinon,Dioscorides,1.54,ingredients,alternative,ἐλαίῳ,ἔλαιον,Olive oil,,,
-dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,Unripe-olive oil,μέρος ἕν,,
-dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἀσπαλάθου,ἀσπάλαθος,Aspalathos,λίτρας πέντε ἥμισυ,5.5,litra
-dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,καλάμου,κάλαμος,Calamus,λίτρας ἓξ ἥμισυ,6.5,litra
-dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,σμύρνης,σμύρνα,Myrrh,λίτραν μίαν,1,litra
-dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,καρδαμώμου,καρδάμωμον,Cardamom,λίτρας τρεῖς οὐγγίας ἐννέα,45,oungia
-dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,οἴνῳ παλαιῷ εὐώδει,οἶνος,Wine,,,
-dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἐλαίου,ἔλαιον,Olive oil,εἴκοσιν ὀκτὼ τοῦ ἐλαίου λίτρας,28,litra
-dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἄνθους κύπρου,κύπρου ἄνθος,Henna flowers,λίτρας τεσσαράκοντα ἓξ οὐγγίας ὀκτώ,560,oungia
-dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἄνθους,κύπρου ἄνθος,Henna flowers,τὸ ἴσον,,
-dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,alternative,κινάμωμον,κινάμωμον,Cinnamon,,,
-dioscorides-1-55-kyprinon,Dioscorides,1.55,working,,ὕδατος ὀμβρίου,ὕδωρ,Water,μέρος ἓν ἥμισυ,,
-dioscorides-1-56-irinon,Dioscorides,"1.56.1,3-4",ingredients,,σπάθης,σπάθη,Palm spathe,λίτρας ἓξ οὐγγίας ὀκτώ,80,oungia
-dioscorides-1-56-irinon,Dioscorides,"1.56.1,3-4",ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-56-irinon,Dioscorides,"1.56.1,3-4",ingredients,,ἴρεως,ἶρις,Iris root,,,
-dioscorides-1-56-irinon,Dioscorides,"1.56.1,3-4",working,,ὕδατος,ὕδωρ,Water,κοτύλαις δέκα,10,kotyle
-dioscorides-1-56-irinon,Dioscorides,"1.56.1,3-4",working,,μέλιτι,μέλι,Honey,,,
-dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,ξυλοβαλσάμου,ξυλοβάλσαμον,Balsam wood,λίτρας πέντε οὐγγίας δύο,62,oungia
-dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,καλτάμου,κάλαμος,Calamus,λίτρας ἐννέα οὐγγίας δέκα,118,oungia
-dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,σμύρνης,σμύρνα,Myrrh,χόνδρον,,
-dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,οἴνῳ παλαιῷ,οἶνος,Wine,,,
-dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,ἐλαίου,ἔλαιον,Olive oil,λίτρας δέκα τέσσαρας,14,litra
-dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,ἴρεως,ἶρις,Iris root,ἴσον τῷ σταθμῷ,,
-dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,ἴρεως,ἶρις,Iris root,τὸν ἴσον σταθμὸν,,
-dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,Unripe-olive oil,,,
-dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,σχοίνου,σχοῖνος,Schoinos,,,
-dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,καλάμου,κάλαμος,Calamus,,,
-dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,νάρδου Κελτικῆς,νάρδος κελτική,Celtic nard,,,
-dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,σπάθης,σπάθη,Palm spathe,,,
-dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,ἀσπαλάθου,ἀσπάλαθος,Aspalathos,,,
-dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,μελιλώτου,μελίλωτον,Melilot,,,
-dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,κόστου,κόστος,Costus,,,
-dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,γλεύκους,γλεῦκος,Grape must,,,
-dioscorides-1-57-gleukinon,Dioscorides,1.57,working,,στεμφύλων,στέμφυλα,Grape marc,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,ὀμφακίνου ἐλαίου,ἔλαιον ὀμφάκινον,Unripe-olive oil,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,βαλανίνου,βαλάνινον,Balanos oil,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,ξυλοβαλσάμῳ,ξυλοβάλσαμον,Balsam wood,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,σχοίνῳ,σχοῖνος,Schoinos,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,καλάμῳ,κάλαμος,Calamus,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,ἀμαράκῳ,ἀμάρακος,Marjoram (amarakos),,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,κόστῳ,κόστος,Costus,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,ἀμώμῳ,ἄμωμον,Amomum,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,νάρδῳ,νάρδος,Nard,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,κασσίᾳ,κασία,Cassia,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,καρπῷ βαλσάμου,καρποβάλσαμον,Balsam fruit,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,σμύρνῃ,σμύρνα,Myrrh,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,alternative,κινάμωμον,κινάμωμον,Cinnamon,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,working,,μέλι,μέλι,Honey,,,
-dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,working,,οἶνος,οἶνος,Wine,,,
-dioscorides-1-58-3-megalleion,Dioscorides,1.58.3,ingredients,,ῥητίνη,ῥητίνη,Resin,,,
-dioscorides-1-58-3-megalleion,Dioscorides,1.58.3,ingredients,,τερεβινθίνη,τερμινθίνη,Terebinth resin,,,
-dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,ἀμυγδάλων,ἀμύγδαλον,Almonds,,,
-dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,Unripe-olive oil,,,
-dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,καρδαμώμου,καρδάμωμον,Cardamom,,,
-dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,σχοίνου,σχοῖνος,Schoinos,,,
-dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,καλάμου,κάλαμος,Calamus,,,
-dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,μέλιτος,μέλι,Honey,,,
-dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,οἴνου,οἶνος,Wine,,,
-dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,σμύρνης,σμύρνα,Myrrh,,,
-dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,βαλσάμου καρποῦ,καρποβάλσαμον,Balsam fruit,,,
-dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,χαλβάνης,χαλβάνη,Galbanum,,,
-dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,ῥητίνης,ῥητίνη,Resin,,,
-dioscorides-1-59-3-mendesion,Dioscorides,1.59.3,ingredients,,βαλανίνου ἐλαίου,βαλάνινον,Balanos oil,,,
-dioscorides-1-59-3-mendesion,Dioscorides,1.59.3,ingredients,,σμύρνης,σμύρνα,Myrrh,,,
-dioscorides-1-59-3-mendesion,Dioscorides,1.59.3,ingredients,,κασσίας,κασία,Cassia,,,
-dioscorides-1-59-3-mendesion,Dioscorides,1.59.3,ingredients,,ῥητίνης,ῥητίνη,Resin,,,
-dioscorides-1-59-3-mendesion,Dioscorides,1.59.3,ingredients,alternative,κινάμωμον,κινάμωμον,Cinnamon,,,
-dioscorides-1-60-stakte,Dioscorides,1.60,ingredients,,σμύρνης,σμύρνα,Myrrh,,,
-dioscorides-1-60-stakte,Dioscorides,1.60,working,,ὕδατος,ὕδωρ,Water,ὀλίγου,,
-dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,ἐλαίου βαλανίνου,βαλάνινον,Balanos oil,,,
-dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,ξυλοβαλσάμου,ξυλοβάλσαμον,Balsam wood,,,
-dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,καλάμου,κάλαμος,Calamus,,,
-dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,σχοίνου,σχοῖνος,Schoinos,,,
-dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,κιναμώμου,κινάμωμον,Cinnamon,,,
-dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,βαλσάμου καρποῦ,καρποβάλσαμον,Balsam fruit,,,
-dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,σμύρνης,σμύρνα,Myrrh,τετραπλασίονος παράὰ τὸ κινάμωμον,,
-dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,μέλι,μέλι,Honey,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,μαλαβαθρίνου φύλλου,μαλάβαθρον,Malabathrum,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,βαλανίνῳ ἐλαίῳ,βαλάνινον,Balanos oil,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,ὀμφακίνῳ,ἔλαιον ὀμφάκινον,Unripe-olive oil,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,σχοῖνος,σχοῖνος,Schoinos,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,κόστος,κόστος,Costus,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,ἄμωμον,ἄμωμον,Amomum,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,νάρδος,νάρδος,Nard,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,σμύρνα,σμύρνα,Myrrh,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,βάλσαμον,βάλσαμον,Balsam,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,ὀμφακίνου ἐλαίου,ἔλαιον ὀμφάκινον,Unripe-olive oil,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,σχοίνου,σχοῖνος,Schoinos,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,καλάμου,κάλαμος,Calamus,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,κόστου,κόστος,Costus,,,
-dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,νάρδου,νάρδος,Nard,,,
-dioscorides-1-63-iasmelaion,Dioscorides,1.63.apparatus,ingredients,,ἰοῦ,ἴον,Violets,οὐγγίων βʹ,2,oungia
-dioscorides-1-63-iasmelaion,Dioscorides,1.63.apparatus,ingredients,,σησαμίνου ἐλαίου,σησάμινον,Sesame oil,Ἰταλικῷ ξέστῃ,1,xestes
-dioscorides-1-63-malabathrinon,Dioscorides,1.63,ingredients,,σμύρνης,σμύρνα,Myrrh,πλεῖον,,
-dioscorides-1-71-5-burned-resin-with-water,Dioscorides,1.71.5,ingredients,,ῥητίνης,ῥητίνη,Resin,χοῦν,1,chous
-dioscorides-1-71-5-burned-resin-with-water,Dioscorides,1.71.5,working,,ὀμερίου ὕδατος,ὕδωρ,Water,δύο δὲ χοέας,2,chous
-dioscorides-1-71-6-burned-resin-without-water,Dioscorides,1.71.6,ingredients,,ῥητίνης,ῥητίνη,Resin,,,
-dioscorides-1-71-6-burned-resin-without-water,Dioscorides,1.71.6,ingredients,alternative,ξηρὰς,ῥητίνη,Resin,,,
-paul-7-20-4,Paul of Aegina,7.20.4,ingredients,,Ῥόδων,ῥόδον,Rose petals,𐆄 γ,3,oungia
-paul-7-20-4,Paul of Aegina,7.20.4,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον,Olive oil,ξ̸ Ἰταλικὸν α,1,xestes
-aetius-1-113,Aetius of Amida,1.113,ingredients,,ῥόδων,ῥόδον,Rose petals,𐆄 γ,3,oungia
-aetius-1-113,Aetius of Amida,1.113,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον,Olive oil,ξέστης ἰταλικὸς εἷς,1,xestes
+recipe,author,locator,list,role,form,headword,rendering,printed,quantity,unit
+dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,κυπέρου,κύπερος,cyperus,ἡμίξεστον,0.5,xestes
+dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,ἀρκευθίδος,ἀρκευθίς,juniper berries,τὸ αὐτό,,
+dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,σταφίδος,σταφίς,raisins,μνᾶς δεκαδύο,12,mna
+dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,ῥητίνης,ῥητίνη,resin,μνᾶς πέντε,5,mna
+dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,καλάμου ἀρωματίτου,κάλαμος,kalamos,ἑκάστου μνᾶν μίαν,1,mna
+dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,ἑκάστου μνᾶν μίαν,1,mna
+dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,σχοίνου,σχοῖνος,camel-grass,ἑκάστου μνᾶν μίαν,1,mna
+dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς δεκαδύο,12,drachme
+dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,οἴνου παλαιοῦ,οἶνος,wine,ξέστας ἐννέα,9,xestes
+dioscorides-1-25-kyphi,Dioscorides,1.25.1-2,ingredients,,μέλιτος,μέλι,honey,μνᾶς δύο,2,mna
+dioscorides-1-30-omphakinon,Dioscorides,1.30.1-2,ingredients,,τοῦ παρόντος τὸ κρεῖσσον,ἔλαιον,oil,,,
+dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,ἔλαιον,ἔλαιον,oil,κοτύλαι ἑκατόν,100,kotyle
+dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,τήλεως,τῆλις,fenugreek,δραχμὰς πεντήκοντα,50,drachme
+dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,ὕδατι,ὕδωρ,water,,,
+dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,δαλὸν πιτυίνης,πίτυς,Pine firebrand,τὰς ἴσας ὁλκὰς,,
+dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,μελιλώτου,μελίλωτον,Melilot garlands,ὁλκῶν ἕνδεκα,11,holke
+dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,ingredients,,ἴρεως,ἶρις,iris,τῆς ἴσης,,
+dioscorides-1-30-whitened-oil,Dioscorides,1.30.3-4,working,,οἴνῳ παλαιῷ,οἶνος,wine,,,
+dioscorides-1-30-3-agrias-elaias,Dioscorides,1.30.3,ingredients,,ἀγρίας ἐλαίας,ἐλαία,Wild olives,,,
+dioscorides-1-30-5-sikyonion,Dioscorides,1.30.5,ingredients,,ἐλαίου,ἔλαιον,oil,χοέα ἕνα,1,chous
+dioscorides-1-30-5-sikyonion,Dioscorides,1.30.5,working,,ὕδατος,ὕδωρ,water,ἡμίχουν,0.5,chous
+dioscorides-1-31-thalloi-oil,Dioscorides,1.31,ingredients,,λίπους τῶν θαλλῶν,θαλλός,young shoots,,,
+dioscorides-1-32-kikinon,Dioscorides,1.32.1,ingredients,,κροτώνων,κρότων,castor seeds,ὅσον ἂν δόξῃ,,
+dioscorides-1-32-kikinon,Dioscorides,1.32.1,working,,ὕδωρ,ὕδωρ,water,,,
+dioscorides-1-32-2-kikinon-aigyption,Dioscorides,1.32.2,ingredients,,κρότωνας,κρότων,castor seeds,,,
+dioscorides-1-33-amygdalinon,Dioscorides,1.33,ingredients,,ἀμυγδάλων πικρῶν,ἀμύγδαλον,Bitter almonds,χοίνικας τέσσαρας,4,choinix
+dioscorides-1-33-amygdalinon,Dioscorides,1.33,ingredients,,ὕδατος,ὕδωρ,water,κοτύλας δύο,2,kotyle
+dioscorides-1-33-amygdalinon,Dioscorides,1.33,ingredients,,ὕδατος,ὕδωρ,water,κοτύλην μίαν,1,kotyle
+dioscorides-1-34-sesaminon-karyinon,Dioscorides,1.34 (Wellmann 38.10),ingredients,,σησάμου,σήσαμον,sesame,,,
+dioscorides-1-34-sesaminon-karyinon,Dioscorides,1.34 (Wellmann 38.10),ingredients,,βασιλικῶν καρύων,κάρυον,Royal nuts,,,
+dioscorides-1-35-hyoskyaminon,Dioscorides,1.35,ingredients,,λευκὸν καρπὸν,ὑοσκύαμος,White henbane seed,,,
+dioscorides-1-35-hyoskyaminon,Dioscorides,1.35,ingredients,,ὕδατι,ὕδωρ,water,,,
+dioscorides-1-36-knidion,Dioscorides,1.36 (Wellmann 39.1–5),ingredients,,Κνιδίου κόκκου,κόκκος Κνίδιος,cnidian berries,,,
+dioscorides-1-37-raphaninon,Dioscorides,1.37 (Wellmann 39.5–10),ingredients,,σπέρματος,ῥάφανος,Radish seed,,,
+dioscorides-1-38-sinapinon,Dioscorides,1.38,ingredients,,σινήπεως,σίναπι,mustard,,,
+dioscorides-1-38-sinapinon,Dioscorides,1.38,ingredients,,ὕδατι,ὕδωρ,water,,,
+dioscorides-1-38-sinapinon,Dioscorides,1.38,ingredients,,ἐλαίου,ἔλαιον,oil,,,
+dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,,μυρσίνης,μυρσίνη,myrtle,,,
+dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,ἴσον δὲ τῷ χυλῷ,,
+dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,ὕδατος,ὕδωρ,water,,,
+dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,ἐλαίου,ἔλαιον,oil,,,
+dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,σιδίοις,σίδιον,pomegranate rind,,,
+dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,κυπαρίσσῳ,κυπάρισσος,cypress,,,
+dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,κυπέρῳ,κύπερος,cyperus,,,
+dioscorides-1-39-myrsininon,Dioscorides,1.39,ingredients,alternative,σχοίνῳ,σχοῖνος,camel-grass,,,
+dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,,δαφνίδων,δαφνίς,bay berries,,,
+dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
+dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,κυπέρῳ,κύπερος,cyperus,,,
+dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,σχοίνῳ,σχοῖνος,camel-grass,,,
+dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,καλάμῳ,κάλαμος,kalamos,,,
+dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,δάφνης φύλλα,δάφνη,bay leaves,,,
+dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,στύρακα,στύραξ,storax,,,
+dioscorides-1-40-daphninon,Dioscorides,1.40,ingredients,alternative,μυρσίνην,μυρσίνη,Myrtle,,,
+dioscorides-1-40-daphninon,Dioscorides,1.40,working,,ὕδατος,ὕδωρ,water,,,
+dioscorides-1-41-schininon,Dioscorides,1.41,ingredients,,σχίνου,σχῖνος,Mastic-tree fruit,,,
+dioscorides-1-42-mastichinon,Dioscorides,1.42.1,ingredients,,μαστίχης,μαστίχη,mastic,,,
+dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,,ῥόδων,ῥόδον,petals of unmoistened roses,ἀριθμῷ χιλίων,1000,count
+dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας εἴκοσι οὐγγίας πέντε,245,oungia
+dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,,σχοίνου,σχοῖνος,camel-grass,λίτρας πέντε οὐγγίας ὀκτώ,68,oungia
+dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ὀκτὼ οὐγγίας τρεῖς,99,oungia
+dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,alternative,κάλαμον,κάλαμος,kalamos,,,
+dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,alternative,ἀσπάλαθον,ἀσπάλαθος,aspalathos,,,
+dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,alternative,ἄγχουσαν,ἄγχουσα,anchousa,,,
+dioscorides-1-43-rhodinon,Dioscorides,1.43,ingredients,alternative,ἅλας,ἅλς,salt,,,
+dioscorides-1-43-rhodinon,Dioscorides,1.43,working,,ὕδατι,ὕδωρ,water,,,
+dioscorides-1-43-rhodinon,Dioscorides,1.43,working,,μέλιτι,μέλι,honey,,,
+dioscorides-1-44-elatinon,Dioscorides,1.44,ingredients,,ἐλάτην,σπάθη,palm spathe,,,
+dioscorides-1-44-elatinon,Dioscorides,1.44,ingredients,,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,unripe-olive oil,ἑκάτερα ἰσόσταθμα,,
+dioscorides-1-45-melinon,Dioscorides,1.45.1,ingredients,,ἐλαίου,ἔλαιον,oil,ξέστας ἕξ,6,xestes
+dioscorides-1-45-melinon,Dioscorides,1.45.1,ingredients,,ὕδατος,ὕδωρ,water,ξέστας δέκα,10,xestes
+dioscorides-1-45-melinon,Dioscorides,1.45.1,ingredients,,σπάθης,σπάθη,palm spathe,οὐγγίας τρεῖς,3,oungia
+dioscorides-1-45-melinon,Dioscorides,1.45.1,ingredients,,σχοίνου,σχοῖνος,camel-grass,οὐγγίαν μίαν,1,oungia
+dioscorides-1-45-melinon,Dioscorides,1.45.1,ingredients,,κυδώνια μῆλα,κυδώνιον μῆλον,quinces,,,
+dioscorides-1-45-2-melinon-allos,Dioscorides,1.45.2,ingredients,,μῆλα,κυδώνιον μῆλον,quinces,,,
+dioscorides-1-45-2-melinon-allos,Dioscorides,1.45.2,ingredients,,ἐλαίῳ,ἔλαιον,oil,,,
+dioscorides-1-46-oinanthinon,Dioscorides,1.46,ingredients,,οἰνάνθην,οἰνάνθη,vine flowers,,,
+dioscorides-1-46-oinanthinon,Dioscorides,1.46,ingredients,,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
+dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,,τήλεως,τῆλις,fenugreek,λίτρας ἐννέα,9,litra
+dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας πέντε,5,litra
+dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,,καλάμου,κάλαμος,kalamos,λίτραν μίαν,1,litra
+dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,,κυπέρου,κύπερος,cyperus,λίτρας δύο,2,litra
+dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,alternative,καρδάμωμον,καρδάμωμον,cardamom,,,
+dioscorides-1-47-telinon,Dioscorides,1.47,ingredients,alternative,ξυλοβάλσαμον,ξυλοβάλσαμον,balsam wood,,,
+dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,ἑρπύλλου,ἕρπυλλος,wild thyme,,,
+dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,κασσίας,κασία,cassia,,,
+dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,ἁβροτόνου,ἀβρότονον,southernwood,,,
+dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,σισυμβρίου ἄνθους,σισύμβριον,water-mint,,,
+dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,μυρσίνης πετάλων,μυρσίνη,myrtle,,,
+dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,σαμψούχου,σάμψυχον,marjoram,,,
+dioscorides-1-48-sampsouchinon,Dioscorides,1.48,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,τοσοῦτον,,
+dioscorides-1-49-okiminon,Dioscorides,1.49,ingredients,,ἐλαίου,ἔλαιον,Aromatised oil,λίτρας εἴκοσι,20,litra
+dioscorides-1-49-okiminon,Dioscorides,1.49,ingredients,,ὠκίμου,ὤκιμον,basil,λίτρας ἕνδεκα οὐγγίας ὀκτὼ,140,oungia
+dioscorides-1-49-okiminon,Dioscorides,1.49,ingredients,,ἐλαίου,ἔλαιον,Aromatised oil,τὸ ἴσον πλῆθος,,
+dioscorides-1-49-okiminon,Dioscorides,1.49,ingredients,,ὠκίμου,ὤκιμον,basil,τὸ ἴσον,,
+dioscorides-1-49-okiminon,Dioscorides,1.49,ingredients,alternative,ὀμφοκίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
+dioscorides-1-50-habrotoninon,Dioscorides,1.50,ingredients,,ἐλαίου,ἔλαιον,Aromatised oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
+dioscorides-1-50-habrotoninon,Dioscorides,1.50,ingredients,,ἁβροτόνου φύλλων,ἀβρότονον,southernwood,λίτρας ὀκτὼ,8,litra
+dioscorides-1-51-anethinon,Dioscorides,1.51,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ὀκτὼ οὐγγίας ἐννέα,105,oungia
+dioscorides-1-51-anethinon,Dioscorides,1.51,ingredients,,ἀνήθου ἄνθους,ἄνηθον,dill,λίτρας ἕνδεκα οὐγγίας ὀκτὼ,140,oungia
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,καλάμου,κάλαμος,kalamos,λίτρας πέντε οὐγγίας δέκα,70,oungia
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς πέντε,5,drachme
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,οἴνῳ εὐώδει,οἶνος,wine,,,
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,λιτρῶν τριῶν οὐγγιῶν ἓξ,42,oungia
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,oil,τρεῖς ἥμισυ λίτρας,3.5,litra
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,κρίνα,κρίνον,lily,ἀριθμῷ χίλια,1000,count
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,ἅλας,ἅλς,salt,,,
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,oil,τὸ ἴσον πλῆθος τῷ προτέρῳ,,
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,ὁλκὰς δέκα,10,holke
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,κρίνα,κρίνον,lily,χίλια,1000,count
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς δύο,2,drachme
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,κιναμώμου,κινάμωμον,cinnamon,δραχμὰς δύο,2,drachme
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,,κρόκου,κρόκος,saffron,δραχμάς δέκα,10,drachme
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,alternative,κρόκου,κρόκος,saffron,τὸ ἴσον,,
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,alternative,κιναμώμου,κινάμωμον,cinnamon,τὸ ἴσον,,
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,ingredients,alternative,ὕδατος,ὕδωρ,water,,,
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,working,,ὕδατι ὀμερίῳ,ὕδωρ,Rainwater,,,
+dioscorides-1-52-sousinon,Dioscorides,1.52.1-4,working,,μέλιτι,μέλι,honey,,,
+dioscorides-1-52-5-sousinon-haploun,Dioscorides,1.52.5,ingredients,,ἐλαίου βαλανίνου,βαλάνινον,balanos oil,,,
+dioscorides-1-52-5-sousinon-haploun,Dioscorides,1.52.5,ingredients,alternative,ἄλλου,ἔλαιον,oil,,,
+dioscorides-1-52-5-sousinon-haploun,Dioscorides,1.52.5,ingredients,,κρίνου,κρίνον,lily,,,
+dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
+dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,λίτρας ἓξ οὐγγίας δύο,74,oungia
+dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,καλάμου,κάλαμος,kalamos,λίτρας πέντε οὐγγίας ὀκτὼ,68,oungia
+dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,σμύρνης,σμύρνα,myrrh,χόνδρον,,
+dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,οἴνῳ παλαιῷ εὐώδει,οἶνος,wine,,,
+dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,,,
+dioscorides-1-53-narkissinon,Dioscorides,1.53,ingredients,,ναρκίσσου,νάρκισσος,narcissus,ὡς ὅτι πλεῖστον,,
+dioscorides-1-53-narkissinon,Dioscorides,1.53,working,,ὕδατι,ὕδωρ,water,,,
+dioscorides-1-54-krokinon,Dioscorides,1.54,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,λίτρας τρεῖς ἥμισυ,3.5,litra
+dioscorides-1-54-krokinon,Dioscorides,1.54,ingredients,,κρόκου,κρόκος,saffron,δραχμὰς πεντήκοντα,50,drachme
+dioscorides-1-54-krokinon,Dioscorides,1.54,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,τὸ ἴσον πλῆθος,,
+dioscorides-1-54-krokinon,Dioscorides,1.54,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς τεσσαράκοντα,40,drachme
+dioscorides-1-54-krokinon,Dioscorides,1.54,ingredients,alternative,ἐλαίῳ,ἔλαιον,oil,,,
+dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,μέρος ἕν,,
+dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,λίτρας πέντε ἥμισυ,5.5,litra
+dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,καλάμου,κάλαμος,kalamos,λίτρας ἓξ ἥμισυ,6.5,litra
+dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,σμύρνης,σμύρνα,myrrh,λίτραν μίαν,1,litra
+dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,λίτρας τρεῖς οὐγγίας ἐννέα,45,oungia
+dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
+dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,οἴνῳ παλαιῷ εὐώδει,οἶνος,wine,,,
+dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,εἴκοσιν ὀκτὼ τοῦ ἐλαίου λίτρας,28,litra
+dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἄνθους κύπρου,κύπρου ἄνθος,henna blossom,λίτρας τεσσαράκοντα ἓξ οὐγγίας ὀκτώ,560,oungia
+dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,,ἄνθους,κύπρου ἄνθος,henna blossom,τὸ ἴσον,,
+dioscorides-1-55-kyprinon,Dioscorides,1.55,ingredients,alternative,κινάμωμον,κινάμωμον,cinnamon,,,
+dioscorides-1-55-kyprinon,Dioscorides,1.55,working,,ὕδατος ὀμβρίου,ὕδωρ,water,μέρος ἓν ἥμισυ,,
+dioscorides-1-56-irinon,Dioscorides,"1.56.1,3-4",ingredients,,σπάθης,σπάθη,palm spathe,λίτρας ἓξ οὐγγίας ὀκτώ,80,oungia
+dioscorides-1-56-irinon,Dioscorides,"1.56.1,3-4",ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
+dioscorides-1-56-irinon,Dioscorides,"1.56.1,3-4",ingredients,,ἴρεως,ἶρις,iris,,,
+dioscorides-1-56-irinon,Dioscorides,"1.56.1,3-4",working,,ὕδατος,ὕδωρ,water,κοτύλαις δέκα,10,kotyle
+dioscorides-1-56-irinon,Dioscorides,"1.56.1,3-4",working,,μέλιτι,μέλι,honey,,,
+dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
+dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,ξυλοβαλσάμου,ξυλοβάλσαμον,balsam wood,λίτρας πέντε οὐγγίας δύο,62,oungia
+dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,καλτάμου,κάλαμος,kalamos,λίτρας ἐννέα οὐγγίας δέκα,118,oungia
+dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,σμύρνης,σμύρνα,myrrh,χόνδρον,,
+dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,οἴνῳ παλαιῷ,οἶνος,wine,,,
+dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,λίτρας δέκα τέσσαρας,14,litra
+dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,ἴρεως,ἶρις,iris,ἴσον τῷ σταθμῷ,,
+dioscorides-1-56-2-irinon-allos,Dioscorides,1.56.2,ingredients,,ἴρεως,ἶρις,iris,τὸν ἴσον σταθμὸν,,
+dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
+dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,σχοίνου,σχοῖνος,camel-grass,,,
+dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,καλάμου,κάλαμος,kalamos,,,
+dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,νάρδου Κελτικῆς,νάρδος κελτική,celtic nard,,,
+dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,σπάθης,σπάθη,palm spathe,,,
+dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,,,
+dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,μελιλώτου,μελίλωτον,melilot,,,
+dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,κόστου,κόστος,costus,,,
+dioscorides-1-57-gleukinon,Dioscorides,1.57,ingredients,,γλεύκους,γλεῦκος,must,,,
+dioscorides-1-57-gleukinon,Dioscorides,1.57,working,,στεμφύλων,στέμφυλα,grape pomace,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,ὀμφακίνου ἐλαίου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,βαλανίνου,βαλάνινον,balanos oil,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,ξυλοβαλσάμῳ,ξυλοβάλσαμον,balsam wood,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,σχοίνῳ,σχοῖνος,camel-grass,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,καλάμῳ,κάλαμος,kalamos,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,ἀμαράκῳ,ἀμάρακος,marjoram,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,κόστῳ,κόστος,costus,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,ἀμώμῳ,ἄμωμον,amomum,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,νάρδῳ,νάρδος,nard,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,κασσίᾳ,κασία,cassia,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,καρπῷ βαλσάμου,καρποβάλσαμον,balsam fruit,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,,σμύρνῃ,σμύρνα,myrrh,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,ingredients,alternative,κινάμωμον,κινάμωμον,cinnamon,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,working,,μέλι,μέλι,honey,,,
+dioscorides-1-58-amarakinon,Dioscorides,1.58.1-2,working,,οἶνος,οἶνος,wine,,,
+dioscorides-1-58-3-megalleion,Dioscorides,1.58.3,ingredients,,ῥητίνη,ῥητίνη,resin,,,
+dioscorides-1-58-3-megalleion,Dioscorides,1.58.3,ingredients,,τερεβινθίνη,τερμινθίνη,terebinth resin,,,
+dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,ἀμυγδάλων,ἀμύγδαλον,almonds,,,
+dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
+dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,,,
+dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,σχοίνου,σχοῖνος,camel-grass,,,
+dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,καλάμου,κάλαμος,kalamos,,,
+dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,μέλιτος,μέλι,honey,,,
+dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,οἴνου,οἶνος,wine,,,
+dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,σμύρνης,σμύρνα,myrrh,,,
+dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,βαλσάμου καρποῦ,καρποβάλσαμον,balsam fruit,,,
+dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,χαλβάνης,χαλβάνη,galbanum,,,
+dioscorides-1-59-metopion,Dioscorides,1.59.1-2,ingredients,,ῥητίνης,ῥητίνη,resin,,,
+dioscorides-1-59-3-mendesion,Dioscorides,1.59.3,ingredients,,βαλανίνου ἐλαίου,βαλάνινον,balanos oil,,,
+dioscorides-1-59-3-mendesion,Dioscorides,1.59.3,ingredients,,σμύρνης,σμύρνα,myrrh,,,
+dioscorides-1-59-3-mendesion,Dioscorides,1.59.3,ingredients,,κασσίας,κασία,cassia,,,
+dioscorides-1-59-3-mendesion,Dioscorides,1.59.3,ingredients,,ῥητίνης,ῥητίνη,resin,,,
+dioscorides-1-59-3-mendesion,Dioscorides,1.59.3,ingredients,alternative,κινάμωμον,κινάμωμον,cinnamon,,,
+dioscorides-1-60-stakte,Dioscorides,1.60,ingredients,,σμύρνης,σμύρνα,myrrh,,,
+dioscorides-1-60-stakte,Dioscorides,1.60,working,,ὕδατος,ὕδωρ,water,ὀλίγου,,
+dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,ἐλαίου βαλανίνου,βαλάνινον,balanos oil,,,
+dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,ξυλοβαλσάμου,ξυλοβάλσαμον,balsam wood,,,
+dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,καλάμου,κάλαμος,kalamos,,,
+dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,σχοίνου,σχοῖνος,camel-grass,,,
+dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,κιναμώμου,κινάμωμον,cinnamon,,,
+dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,βαλσάμου καρποῦ,καρποβάλσαμον,balsam fruit,,,
+dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,σμύρνης,σμύρνα,myrrh,τετραπλασίονος παράὰ τὸ κινάμωμον,,
+dioscorides-1-61-kinamominon,Dioscorides,1.61,ingredients,,μέλι,μέλι,honey,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,μαλαβαθρίνου φύλλου,μαλάβαθρον,malabathron,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,βαλανίνῳ ἐλαίῳ,βαλάνινον,balanos oil,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,ὀμφακίνῳ,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,σχοῖνος,σχοῖνος,camel-grass,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,κόστος,κόστος,costus,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,ἄμωμον,ἄμωμον,amomum,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,νάρδος,νάρδος,nard,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,σμύρνα,σμύρνα,myrrh,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,,βάλσαμον,βάλσαμον,balsam,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,ὀμφακίνου ἐλαίου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,σχοίνου,σχοῖνος,camel-grass,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,καλάμου,κάλαμος,kalamos,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,κόστου,κόστος,costus,,,
+dioscorides-1-62-nardinon,Dioscorides,1.62,ingredients,alternative,νάρδου,νάρδος,nard,,,
+dioscorides-1-63-iasmelaion,Dioscorides,1.63.apparatus,ingredients,,ἰοῦ,ἴον,violets,οὐγγίων βʹ,2,oungia
+dioscorides-1-63-iasmelaion,Dioscorides,1.63.apparatus,ingredients,,σησαμίνου ἐλαίου,σησάμινον,sesame oil,Ἰταλικῷ ξέστῃ,1,xestes
+dioscorides-1-63-malabathrinon,Dioscorides,1.63,ingredients,,σμύρνης,σμύρνα,myrrh,πλεῖον,,
+dioscorides-1-71-5-burned-resin-with-water,Dioscorides,1.71.5,ingredients,,ῥητίνης,ῥητίνη,resin,χοῦν,1,chous
+dioscorides-1-71-5-burned-resin-with-water,Dioscorides,1.71.5,working,,ὀμερίου ὕδατος,ὕδωρ,water,δύο δὲ χοέας,2,chous
+dioscorides-1-71-6-burned-resin-without-water,Dioscorides,1.71.6,ingredients,,ῥητίνης,ῥητίνη,resin,,,
+dioscorides-1-71-6-burned-resin-without-water,Dioscorides,1.71.6,ingredients,alternative,ξηρὰς,ῥητίνη,resin,,,
+paul-7-20-4,Paul of Aegina,7.20.4,ingredients,,Ῥόδων,ῥόδον,rose,𐆄 γ,3,oungia
+paul-7-20-4,Paul of Aegina,7.20.4,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον,Unripe-olive oil,ξ̸ Ἰταλικὸν α,1,xestes
+aetius-1-113,Aetius of Amida,1.113,ingredients,,ῥόδων,ῥόδον,rose,𐆄 γ,3,oungia
+aetius-1-113,Aetius of Amida,1.113,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον,Unripe-olive oil,ξέστης ἰταλικὸς εἷς,1,xestes

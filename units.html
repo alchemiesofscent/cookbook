@@ -3,51 +3,72 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Units · Cookbook</title>
+<meta name="color-scheme" content="light dark">
+<title>Units · The Cookbook</title>
+<meta name="description" content="Ancient perfume recipes from Dioscorides, read from the Greek for making.">
+<link rel="preload" href="assets/fonts/Literata-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/RundText-Regular.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="assets/laboratory.css">
 <link rel="stylesheet" href="assets/cookbook.css">
-<script src="assets/laboratory.js" defer></script>
+<script src="assets/cookbook.js" defer></script>
 </head>
 <body>
-<div class="pg" >
+<a class="ck-skip" href="#main">Skip to content</a>
+<div class="pg">
   <header class="cn-bar">
     <div class="cn-in">
-      <a class="cn-sym" href="index.html" title="The Cookbook — Alchemies of Scent"><img src="assets/symbol.svg" alt="Alchemies of Scent"></a>
-      <nav class="cn-triad" aria-label="Register"><a href="index.html" aria-current="true">Cookbook</a><span class="is-pending" title="Draft for review">Draft</span></nav>
+      <a class="cn-sym" href="index.html" title="The Cookbook, Alchemies of Scent"><img src="assets/symbol.svg" alt="Alchemies of Scent" width="24" height="24"></a>
+      <nav class="cn-triad" aria-label="Sections"><span class="is-pending" title="The Laboratory, in preparation">Laboratory</span><a href="index.html" aria-current="true">Cookbook</a><span class="is-pending" title="Replications, in preparation">Replications</span></nav>
       <nav class="cn-nav" aria-label="The Cookbook">
-<a href="index.html#recipes">Recipes</a><a href="index.html#families">Families</a><a href="index.html#ingredients">Ingredients</a>        <button id="cn-menu-btn" class="cn-menu-btn" aria-expanded="false" aria-controls="cn-menu" aria-label="Menu"><svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M2 6.5h18M2 15.5h18" stroke="currentColor" stroke-width="1.5"></path></svg></button>
+<a href="index.html">Recipes</a><a href="families.html">Families</a><a href="ingredients.html">Ingredients</a>        <button type="button" class="cn-menu-btn" aria-expanded="false" aria-controls="ck-menu" aria-label="Menu" data-menu-open><svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M2 6.5h18M2 15.5h18" stroke="currentColor" stroke-width="1.5"></path></svg></button>
       </nav>
     </div>
   </header>
-  <div id="cn-menu" class="cn-ov" role="dialog" aria-modal="true" aria-label="The Cookbook menu">
-    <div class="cn-ov-hd"><img src="assets/symbol.svg" alt=""><button class="cn-menu-close" aria-label="Close menu"><svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M4 4l14 14M18 4L4 18" stroke="currentColor" stroke-width="1.5"></path></svg></button></div>
-    <nav class="cn-ov-nav" aria-label="The Cookbook"><a href="index.html#recipes">Recipes</a><a href="index.html#families">Families</a><a href="index.html#ingredients">Ingredients</a></nav>
-  </div>
-<nav class="crumb" aria-label="Breadcrumb"><a href="index.html">The Cookbook</a> › <span>Units</span></nav><div class="cb-wrap">
-  <header class="ck-pagehead ck-pagehead--tight">
-    <p class="eyebrow">Weights and measures</p>
-    <h1 class="cb-h1 cb-h1--index">Units</h1>
-    <p class="ck-deck serif">The units the recipes name, with the metric range each page calculates from, and its source. Amounts are kept as printed; metric figures are ranges, never single values.</p>
-  </header>
-  <div class="ck-tablewrap"><table class="ck-fam ck-units">
-    <thead><tr><th scope="col">Unit</th><th scope="col">English</th><th scope="col">Metric</th><th scope="col">Source</th></tr></thead>
-    <tbody><tr><th scope="row"><span lang="grc">λίτρα</span></th><td>pound</td><td>322–329 g</td><td class="meta">aos-perfume-corpus entities/units.json (Hultsch, Metrologicorum scriptorum reliquiae i)</td></tr><tr><th scope="row"><span lang="grc">οὐγγία</span></th><td>ounce</td><td>26.8–27.4 g</td><td class="meta">aos-perfume-corpus entities/units.json (1/12 of the litra)</td></tr><tr><th scope="row"><span lang="grc">δραχμή</span></th><td>drachma</td><td>3.35–3.43 g</td><td class="meta">aos-perfume-corpus entities/units.json (1/96 of the litra)</td></tr><tr><th scope="row"><span lang="grc">ὁλκή</span></th><td>holke</td><td>3.35–3.43 g</td><td class="meta">aos-perfume-corpus entities/units.json (= 1 drachma, after Sprengel 1829 and Berendes 1902)</td></tr><tr><th scope="row"><span lang="grc">μνᾶ</span></th><td>mina</td><td>437 g</td><td class="meta">Weights and Measures Calculator.xlsx (Attic mina) · the calculator gives the Attic figure; whether Dioscorides&#39; mina is Attic is not settled</td></tr><tr><th scope="row"><span lang="grc">ξέστης</span></th><td>sextarius</td><td>547 ml</td><td class="meta">Weights and Measures Calculator.xlsx (volume)</td></tr><tr><th scope="row"><span lang="grc">κοτύλη</span></th><td>kotyle</td><td>274 ml</td><td class="meta">Weights and Measures Calculator.xlsx (volume)</td></tr><tr><th scope="row"><span lang="grc">χοῦς</span></th><td>chous</td><td>3,282 ml</td><td class="meta">Weights and Measures Calculator.xlsx (volume)</td></tr><tr><th scope="row"><span lang="grc">χοῖνιξ</span></th><td>choinix</td><td>1,010–1,094 ml</td><td class="meta">Weights and Measures Calculator.xlsx (Sheet3 &#39;usually around 1.01 L&#39;, Sheet2 1.094 L)</td></tr><tr><th scope="row"><span lang="grc">ἀριθμός</span></th><td>by count</td><td>—</td><td class="meta">aos-perfume-corpus entities/units.json</td></tr></tbody>
+<nav class="crumb" aria-label="Breadcrumb"><a href="index.html">The Cookbook</a> › Units</nav>  <main id="main" class="cb-wrap" tabindex="-1">
+    <article class="cb-card">
+      <div class="cb-tabrow"><p class="cb-tab">Units</p><div class="cb-tabline"></div></div>
+      <header class="cb-head">    <h1 class="cb-h1">Units</h1>
+    <p class="ck-standfirst">The weights and measures the recipes name, with the metric range every page calculates from. The pound and the ounce are rendered in English; the other units keep their Greek names.</p>
+</header>
+      <div class="cb-body"><section class="cb-sec ck-full">
+<div class="ck-tablewrap"><table class="ck-table ck-units">
+    <thead><tr><th scope="col">Unit</th><th scope="col">Rendered</th><th scope="col" class="ck-r">Metric</th><th scope="col">Authority</th></tr></thead>
+    <tbody><tr><th scope="row"><span lang="grc">λίτρα</span> <span class="ck-tr">litra</span></th><td>pound</td><td class="ck-r ck-nowrap">322–329 g</td><td>Hultsch 1882</td></tr><tr><th scope="row"><span lang="grc">οὐγγία</span> <span class="ck-tr">oungia</span></th><td>ounce</td><td class="ck-r ck-nowrap">26.8–27.4 g</td><td>Hultsch 1882 (one twelfth of the pound)</td></tr><tr><th scope="row"><span lang="grc">δραχμή</span> <span class="ck-tr">drachme</span></th><td><span class="ck-muted">—</span></td><td class="ck-r ck-nowrap">3.35–3.43 g</td><td>Hultsch 1882 (one ninety-sixth of the pound)</td></tr><tr><th scope="row"><span lang="grc">ὁλκή</span> <span class="ck-tr">holke</span></th><td><span class="ck-muted">—</span></td><td class="ck-r ck-nowrap">3.35–3.43 g</td><td>equal to the drachma (Sprengel 1829; Berendes 1902)</td></tr><tr><th scope="row"><span lang="grc">μνᾶ</span> <span class="ck-tr">mna</span></th><td><span class="ck-muted">—</span></td><td class="ck-r ck-nowrap">437 g</td><td>the Attic mina (conventional value)</td></tr><tr><th scope="row"><span lang="grc">ξέστης</span> <span class="ck-tr">xestes</span></th><td><span class="ck-muted">—</span></td><td class="ck-r ck-nowrap">547 ml</td><td>conventional value</td></tr><tr><th scope="row"><span lang="grc">κοτύλη</span> <span class="ck-tr">kotyle</span></th><td><span class="ck-muted">—</span></td><td class="ck-r ck-nowrap">274 ml</td><td>conventional value</td></tr><tr><th scope="row"><span lang="grc">χοῦς</span> <span class="ck-tr">chous</span></th><td><span class="ck-muted">—</span></td><td class="ck-r ck-nowrap">3,282 ml</td><td>conventional value</td></tr><tr><th scope="row"><span lang="grc">χοῖνιξ</span> <span class="ck-tr">choinix</span></th><td><span class="ck-muted">—</span></td><td class="ck-r ck-nowrap">1,010–1,094 ml</td><td>conventional values, 1.01–1.09 l</td></tr></tbody>
   </table></div>
-  <p class="meta cb-p">Volumes are turned into grams, where a page needs to (the scaler, the family comparisons), as olive oil at 0.91–0.92 g per ml.</p>
+  <p class="ck-small ck-measure">Where a page needs a weight for a volume (the scaler, the family comparisons), it counts the volume as olive oil at 0.91–0.92 g per ml.</p>
+</section>
 </div>
+    </article>
+  </main>
   <footer class="cf">
     <div class="cf-top">
       <nav class="cf-cols" aria-label="Site">
-        <div class="cf-col"><p class="eyebrow">The Cookbook</p><a href="index.html#recipes">Recipes</a><a href="index.html#families">Families</a><a href="index.html#ingredients">Ingredients</a><a href="units.html">Units</a><a href="downloads.html">Downloads</a></div>
+        <div class="cf-col"><p class="eyebrow">The Cookbook</p><a href="index.html">Recipes</a><a href="families.html">Families</a><a href="ingredients.html">Ingredients</a><a href="units.html">Units</a><a href="downloads.html">Downloads</a></div>
+        <div class="cf-col"><p class="eyebrow">Research</p><span class="is-pending">The Laboratory</span><a href="https://alchemiesofscent.github.io/dioscorides-reader/">The Dioscorides reader</a><span class="is-pending">Replications</span></div>
         <div class="cf-col"><p class="eyebrow">Contact</p><span class="serif">alchemiesofscent@flu.cas.cz</span><span class="serif">Jilská 1, 110 00 Praha 1</span></div>
       </nav>
     </div>
     <div class="cf-band"><div class="cf-fund">
       <p class="meta">Funded by the Czech Science Foundation · Grant ID GAČR GM21-30494M<br>Hosted by the Institute of Philosophy of the Czech Academy of Sciences</p>
-      <div class="cf-logos"><img src="assets/partner-flu.png" alt="Institute of Philosophy of the Czech Academy of Sciences" style="height:76px"><img src="assets/partner-gacr.svg" alt="Czech Science Foundation" style="height:56px"></div>
+      <div class="cf-logos"><img src="assets/partner-flu.png" alt="Institute of Philosophy of the Czech Academy of Sciences" width="217" height="76" loading="lazy"><img src="assets/partner-gacr.svg" alt="Czech Science Foundation" width="135" height="56" loading="lazy"></div>
     </div></div>
-    <div class="cf-band"><div class="cf-meta"><span>© 2026 Alchemies of Scent</span><span>Draft for review · v0.1 in progress</span></div></div>
+    <div class="cf-band"><div class="cf-meta"><span>© 2026 Alchemies of Scent</span><span>Preliminary edition · October 2026</span></div></div>
   </footer>
 </div>
+<div id="ck-menu" class="ck-menu" role="dialog" aria-modal="true" aria-label="Menu" hidden>
+  <button type="button" class="ck-menu-x" aria-label="Close menu" data-menu-close><svg width="22" height="22" viewBox="0 0 22 22" aria-hidden="true"><path d="M4 4l14 14M18 4L4 18" stroke="currentColor" stroke-width="1.5"></path></svg></button>
+  <div class="ck-menu-in">
+    <img class="ck-menu-sym" src="assets/symbol.svg" alt="" width="24" height="24">
+    <nav class="ck-menu-sections" aria-label="Sections"><span class="is-pending">Laboratory</span><a href="index.html" aria-current="true">Cookbook</a><span class="is-pending">Replications</span></nav>
+    <nav class="ck-menu-nav" aria-label="The Cookbook"><a href="index.html">Recipes</a><a href="families.html">Families</a><a href="ingredients.html">Ingredients</a><a href="units.html" aria-current="true">Units</a><a href="downloads.html">Downloads</a></nav>
+  </div>
+</div>
+<nav class="ck-tabbar" aria-label="The Cookbook">
+  <a href="index.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z M5 17a3 3 0 0 1 3-3h11"/></svg><span>Recipes</span></a>
+  <a href="families.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg><span>Families</span></a>
+  <a href="ingredients.html"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19c0-8 5-14 15-15-1 10-7 15-15 15z M5 19l8-8"/></svg><span>Ingredients</span></a>
+  <a href="index.html#search" data-search-tab><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21"/></svg><span>Search</span></a>
+</nav>
+<div class="ck-vh" role="status" aria-live="polite" data-live></div>
 </body>
 </html>
