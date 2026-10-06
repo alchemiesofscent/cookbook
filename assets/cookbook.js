@@ -214,11 +214,22 @@
        all of them); the URL carries the choice (?kind=oil&ingredient=smyrna,kalamos) */
     var facets = { kind: '', author: '', family: '' }, ings = [];
     var fold = function (s) { return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/ς/g, 'σ'); };
-    var clear = $('[data-clear]');
+    var badge = $('[data-filter-n]'), active = $('[data-active]'), shownEl = $('[data-shown]');
+    var labelOf = function (k) {
+      var b = $('[data-facet="' + k + '"][data-value="' + facets[k] + '"] .ck-opt2-l');
+      return facets[k] && b ? b.textContent : '';
+    };
     var paint = function () {
       $$('[data-facet]').forEach(function (b) { b.setAttribute('aria-pressed', String(facets[b.dataset.facet] === b.dataset.value)); });
       $$('[data-ing]').forEach(function (b) { b.setAttribute('aria-pressed', String(ings.indexOf(b.dataset.ing) >= 0)); });
-      if (clear) clear.hidden = !ings.length;
+      var n = ings.length + Object.keys(facets).filter(function (k) { return facets[k]; }).length;
+      if (badge) { badge.hidden = !n; badge.textContent = n; }
+      if (active) {
+        var parts = ['kind', 'author', 'family'].map(labelOf).filter(Boolean);
+        if (ings.length) parts.push('with ' + ings.map(function (g) { var b = $('[data-ing="' + g + '"]'); return b ? b.dataset.label : g; }).join(', '));
+        active.hidden = !parts.length;
+        $('[data-active-text]', active).textContent = parts.join(' · ');
+      }
     };
     var toUrl = function () {
       try {
@@ -239,6 +250,7 @@
         if (el.tagName !== 'TR') { total++; if (ok) shown++; }
       });
       if (count) count.textContent = (shown === total ? total : shown + ' of ' + total) + ' ' + noun;
+      if (shownEl) { shownEl.textContent = shown; shownEl.nextSibling.nodeValue = shown === 1 ? ' recipe' : ' recipes'; }
       if (empty) empty.hidden = shown > 0;
     };
     var update = function () { paint(); run(); toUrl(); };
@@ -253,7 +265,16 @@
         update();
       });
     });
-    if (clear) clear.addEventListener('click', function () { ings = []; update(); });
+    $$('[data-reset]').forEach(function (b) {
+      b.addEventListener('click', function () { facets = { kind: '', author: '', family: '' }; ings = []; update(); });
+    });
+    /* the drawer: a sheet from the bottom on a phone, from the side on a desktop */
+    var drawer = $('#ck-drawer');
+    if (drawer && drawer.showModal) {
+      $$('[data-filters-open]').forEach(function (b) { b.addEventListener('click', function () { drawer.showModal(); }); });
+      $$('[data-filters-close]', drawer).forEach(function (b) { b.addEventListener('click', function () { drawer.close(); }); });
+      drawer.addEventListener('click', function (e) { if (e.target === drawer) drawer.close(); });
+    }
     try {
       var p0 = new URLSearchParams(location.search);
       Object.keys(facets).forEach(function (k) {
