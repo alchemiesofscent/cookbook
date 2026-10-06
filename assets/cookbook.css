@@ -474,3 +474,18 @@ button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:poin
 .ck-mgroup .ck-fsec-v.is-on{color:var(--accent);font-weight:700}
 .ck-mgroup[open]>.ck-opts{margin-bottom:10px}
 .ck-drawer-body{padding-top:4px}
+/* the in-page links in the tab row: no "current" highlight, and a little air above the card's rule (Sean) */
+@media (min-width:960px){
+  .ck-toc{padding-bottom:14px}
+  .ck-toc a{border-bottom:0;padding:6px 0}
+  .ck-toc a[aria-current="true"]{color:var(--ink-soft);font-weight:400;border-bottom:0}
+  .ck-toc a:hover{color:var(--ink)}
+}
+/* the family table, given room (Sean): cells clear of the ingredient column's rule, rows that breathe */
+.ck-fam th,.ck-fam td{padding:16px 24px 16px 0}
+.ck-fam td{padding-left:20px}
+.ck-fam thead th:not(.ck-pin){padding-left:20px}
+.ck-fam .ck-pin{padding-right:20px}
+.ck-fam .ck-bar{margin:6px 0 10px}
+.ck-fam .ck-cellamt{margin-bottom:2px}
+.ck-fam td{width:15.5rem;min-width:13rem}
