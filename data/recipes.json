@@ -16,6 +16,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-25-kyphi.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "28–29"
    },
+   "kind": "incense",
    "status": "draft",
    "summary": "Kyphi is an incense, not an oil. Raisins are ground with aged wine and myrrh, the other aromatics are pounded and worked in, and the mass is bound with honey boiled thick and melted resin. Dioscorides says the priests in Egypt use it in abundance.",
    "time": {
@@ -347,6 +348,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-30-omphakinon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "33–34"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "Dioscorides calls raw-pressed olive oil omphakinon and ranks it best for health, the fresh, mild, fragrant kind also serving for perfumes. When aged oil is lacking, the best oil to hand is boiled until it is as thick as honey and used instead. Dioscorides says the boiled oil has the same capacity as aged oil.",
    "time": {
@@ -455,6 +457,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-30-whitened-oil.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "34–35"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "Whitened oil is pale olive oil, no more than a year old, bleached in the sun in a wide earthenware vessel. It is beaten with a ladle every day until it foams, and on the eighth day soaked fenugreek and split resinous pine go in for eight days more. The oil is drawn off and stored over dried melilot and iris, or, if it is not yet white, sunned and worked again.",
    "time": {
@@ -723,6 +726,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-30-3-agrias-elaias.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "34"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "Wild-olive oil is made from wild olives. Dioscorides finds it more astringent than the raw-pressed oil and ranks it second for health.",
    "greek": "3 τὸ δὲ ἐκ τῆς ἀγρίας ἐλαίας ἔλαιον στυπτικώτερον, πρὸς μὲν τὴν ἐν ὑγιείᾳ χρῆσιν δεύτερον, κεφαλαλγοῦσι δὲ ἀντὶ ῥοδίνου ἁρμόζει, ἐπέχον καὶ ἱδρῶτας καὶ τρίχας ῥεούσας. ἀποσμήχει δὲ καὶ πίτυρα καὶ ἀχῶρας καὶ ψώρας καὶ λέπρας, βράδιόν τε πολιοῖ καθ᾿ ἑκάστην ἡμέραν ἐπαλειφόμενον.",
@@ -786,6 +790,7 @@
     "pages": "35"
    },
    "family": "sikyonion",
+   "kind": "oil",
    "status": "draft",
    "summary": "Sicyonian oil is fresh, pale, raw-pressed olive oil boiled with water in a tin-lined cauldron. It is brought to the boil twice over a gentle fire, cooled and ladled off, then boiled again with more water, finished as the whitened oil (1.30.3–4) and stored. Dioscorides says it is made chiefly in Sicyonia and named for it, and that women use it for a sheen on the face.",
    "time": {
@@ -916,6 +921,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-31-elaiomeli.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "36"
    },
+   "kind": "other",
    "status": "draft",
    "summary": "Olive-honey is a sap that runs from the trunks of olive trees, not a preparation. Dioscorides places it around Palmyra in Syria and gives it, 2 cyathoi in a kotyle of water, as a purge.",
    "greek": "ἐλαιόμελι κατὰ Πάλμυρα τῆς Συρίας ἐκ τοῦ στελέχους ἐλαιῶν μέλιτος παχύτερον ῥεῖ, γλυκὺ τῇ γεύσει, ὅπερ πινόμενον πλῆθος κυάθων δυεῖν μετὰ κοτύλης μιᾶς ὕδατος ἄγει κατὰ κοιλίαν ὠμὸν καὶ χολῶδες. ἔννωθροι δὲ γίνονται καὶ ἔκλυτοι οἱ λαμβάνοντες, ὅπερ οὐ δεῖ εὐλαβεῖσθαι, διεγείρειν δὲ αὐτοὺς μὴ ἐῶντας καταφέρεσθαι.",
@@ -960,6 +966,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-31-thalloi-oil.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "36"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "An oil is made from the fatty substance of young shoots. Dioscorides ranks the old, thick, rich oil that is not cloudy best.",
    "greek": "σκευάζεται δὲ καὶ ἐκ τοῦ λίπους τῶν θαλλῶν ἔλαιον. ἔστι δὲ αὐτοῦ κάλλιστον τὸ παλαιὸν καὶ παχὺ καὶ λιπαρόν, οὐ τεθολωμένον. θερμαίνει δὲ ἰδίως ποιοῦν πρὸς τὰ ἐπισκοτοῦντα ταῖς κόραις ἐγχριόμενον, καὶ λέπρας καὶ ἀλγήματα τὰ περὶ νεῦρα ἐγχριόμενον ὠφελεῖ.",
@@ -1023,6 +1030,7 @@
     "pages": "36–37"
    },
    "family": "kikinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Castor oil is boiled out of ripe castor seeds. The seeds are dried in the sun until the husks fall away, the kernels pounded and boiled in water, and the oil that rises skimmed off and stored. Dioscorides gives no quantities.",
    "time": {
@@ -1137,6 +1145,7 @@
     "pages": "37"
    },
    "family": "kikinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Castor oil can also be pressed from the seeds instead of boiled. The cleaned seeds are ground thoroughly in a mill, and the meal is put into baskets and pressed out. Dioscorides says this is the Egyptians' method, since they need the oil in abundance.",
    "greek": "οἱ δὲ Αἰγύπτιοι διὰ τὸ δαψιλοῦς 2 χρῄζειν ἑτέρως αὐτὸ σκευάζουσι· μετὰ γὰρ τὸ καθᾶραι εἰς μύλην ἀποδόντες τοὺς κρότωνας ἀλήθουσιν ἐπιμελῶς, εἰς τὰς σφυρίδας δὲ ἐμβαλόντες τὸ ἀληλεσμένον δι᾿ ὀργάνου ἐκθλίβουσιν. ὥριμοι δέ εἰσιν οἱ κρότωνες, ὅταν ὑπὸ τῶν περιεχόντων αὐτοὺς σφαιρίων ἀπολύωνται. ποιεῖ δὲ τὸ κίκινον πρὸς ψώρας καὶ ἀχῶρας καὶ τὰς ἐν ἕδρᾳ φλεγμονάς, πρός τε ὑστέρας μύσεις καὶ διαστροφάς, ἔτι δὲ οὐλὰς ἀπρεπεῖς καὶ ὠταλγίας, ἐμπλάστροις τε μιγὲν ἐμπρακτοτέρας αὐτὰς ἐργάζεται. ἄγει δὲ καὶ κατὰ κοιλίαν ὑδατῶδες ποθέν, ἐκκρίνει δὲ καὶ ἕλμινθας.",
@@ -1213,6 +1222,7 @@
     "pages": "37–38"
    },
    "family": "amygdalinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Almond oil is pressed from bitter almonds. The almonds are crushed to a paste, soaked in hot water, ground again and pressed out against a board, then wetted and pressed a second time. Four choinikes give one kotyle of oil; Dioscorides adds that some call it metopion.",
    "time": {
@@ -1402,6 +1412,7 @@
     "pages": "38"
    },
    "family": "balaninon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Balanos oil is made from balanos nuts the same way as almond oil (1.33). Dioscorides gives no quantities.",
    "greek": "ἐοικότως δὲ καὶ τὸ βαλάνινον ἐργάζεται. δύναμιν δὲ ἔχει καθαρτικὴν σπίλων, φακῶν, ἰόνθων, οὐλῶν μελανίας, κοιλίας τε μαλακτικήν. ἔστι δὲ κακοστόμαχον· ἁρμόζει δὲ καὶ ὠταλγίαις καὶ ἤχοις καὶ συριγμοῖς μετὰ χηνείου στέατος ἐγχεόμενον.",
@@ -1451,6 +1462,7 @@
     "pages": "38"
    },
    "family": "sesaminon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Sesame oil and royal-nut oil are pressed from their seeds the same way as almond oil (1.33). Dioscorides gives no quantities.",
    "greek": "ὁμοίως δὲ σκευάζεται τοῖς προειρημένοις τό τε σησάμινον ἐκ τοῦ σησάμου καὶ τὸ καρύινον ἐκ τῶν βασιλικῶν καρύων συντιθέμενον. δύναμιν δὲ ἔχουσι τὴν αὐτὴν τῷ βαλανίνῳ.",
@@ -1535,6 +1547,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-35-hyoskyaminon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "38–39"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "Henbane oil is made from dry, fresh white henbane seed, pounded and kneaded with hot water as for almond oil (1.33). The mass is worked in the sun, the drying portions mixed back in, until it turns black and smells foul, then pressed through a woven strainer and stored. Dioscorides gives no quantities.",
    "time": {
@@ -1651,6 +1664,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-36-knekikon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "39"
    },
+   "kind": "oil",
    "status": "draft",
    "report": true,
    "summary": "Safflower oil is pressed from safflower seed as almond oil is (1.33).",
@@ -1681,6 +1695,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-36-knidion.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "39"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "Cnidian-berry oil is made from Cnidian berries, peeled and pounded, the same way as almond oil (1.33). Dioscorides gives no quantities.",
    "greek": "ὁμοίως δὲ καὶ τὸ διὰ τοῦ Κνιδίου κόκκου σκευάζεται λεπισθέντος καὶ κοπέντος. καθαρτικὴν δὲ ἔχει δύναμιν κοιλίας πινόμενον.",
@@ -1747,6 +1762,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-37-melanthinon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "39"
    },
+   "kind": "oil",
    "status": "draft",
    "report": true,
    "summary": "Black-seed oil is made from black seed the same way as radish oil (1.37). Dioscorides gives no quantities.",
@@ -1778,6 +1794,7 @@
     "pages": "39"
    },
    "family": "raphaninon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Radish oil is made from radish seed the same way as almond oil (1.33). According to Dioscorides, the people of Egypt cook it with their side dishes. Dioscorides gives no quantities.",
    "greek": "τὸ δὲ ῥαφάνινον σκευάζεται ἐκ τοῦ αὐτῆς σπέρματος ὁμοίως ὥσπερ καὶ τὰ λοιπά. ἁρμόζει δὲ τοῖς ἐκ νόσου φθειριῶσι καὶ τὰς περὶ τὸ πρόσωπον σμήχει τραχύτητας. χρῶνται δὲ αὐτῷ οἱ ἐν Αἰγύπτῳ τοῖς προσοψήμασι συνέψοντες αὐτό.",
@@ -1839,6 +1856,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-38-sinapinon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "39"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "Mustard oil is made from mustard and oil. The mustard is ground and soaked in hot water, then the oil is mixed in and the whole is pressed out together. Dioscorides gives no quantities.",
    "greek": "τὸ δὲ σινάπινον σκευάζεται λεαινομένου τοῦ σινήπεως καὶ βρεχομένου ὕδατι θερμῷ, ἔπειτα μειγνυμένου ἐλαίου καὶ συνεκθλιβομένου. ποιεῖ δὲ πρὸς τὰ χρόνια ἀλγήματα μετασυγκριτικὸν ὄν.",
@@ -1937,6 +1955,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-39-myrsininon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "40"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "Myrtle oil is made from the juice of tender black-myrtle leaves and unripe-olive oil. The leaves are pounded and pressed, and the juice is warmed over coals with an equal amount of the oil until the two have boiled together, skimmed as it goes. Dioscorides also gives an easier way, boiling the leaves with water and oil, and a homemade one, steeping them in oil in the sun.",
    "time": {
@@ -2175,6 +2194,7 @@
     "pages": "40–41"
    },
    "family": "daphninon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Bay oil is made from bay berries ripe on the tree, boiled in water. The oily substance released from their skins is broken up by hand and gathered into a mussel shell. Dioscorides also describes bay leaves, and sometimes berries, boiled in unripe-olive oil made astringent with cyperus, schoinos and calamus.",
    "greek": "τὸ δὲ δάφνινον σκευάζεται διὰ τῶν δαφνίδων, ὅταν ὦσι δρυπεπεῖς, ἑψομένων μεθ᾿ ὕδατος· ἐκ γὰρ τοῦ περικειμένου λέπους ἀνίησι λιπαρίαν τινά, ἣν διακόψαντες χερσὶν εἰς μύακα ἀναλαμβάνουσιν, ἔνιοι δὲ ὀμφάκινον ἔλαιον προστύψαντες κυπέρῳ καὶ σχοίνῳ καὶ καλάμῳ καὶ μετὰ ταῦτα δάφνης φύλλα περιβαλόντες συνέψουσιν, οἱ δὲ καὶ δαφνίδας, ἕως ἂν κανὸν γένηται τῇ ὀσμῇ ἔνιοι δὲ καὶ στύρακα μίσγουσι καὶ μυρσίνην. ἀρίστη δὲ πρὸς σκευασίαν ἡ ὀρεινὴ καὶ πλατύφυυλλος δάφνη· 2 διαφέρει δὲ τοῦ δαφνίνου τὸ πρόσφατον, χλωρὸν τῇ χρόᾳ, πικρότατον, δριμύ. δύναμιν δὲ ἔχει θερμαντικήν, μαλακτικήν, ἀναστομωτικήν, κόπων λυτικήν· ἁρμόζει καὶ τοῖς περὶ τὰ νεῦρα πάθεσι πᾶσι καὶ φρίκαις καὶ ὠταλγίαις καὶ κατάρροις καὶ κεφαλαλγίαις. ἔστι δὲ καὶ ναυτιῶδες ποθέν.",
@@ -2412,6 +2432,7 @@
     "pages": "41"
    },
    "family": "schininon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Mastic-tree oil is made from the ripe fruit of the mastic tree. The fruit is boiled in water until it gives up its oil, as bay berries are (1.40), or else boiled in an oil first made astringent with aromatics, as in the second method for bay oil. Terebinth oil is made the same way.",
    "greek": "τὸ δὲ σχίνινον ὁμοίως ἐκ τοῦ καρποῦ τῆς σχίνου πεπείρου σκευασθέν ἤ ὡς τὸ δάφνινον προστυφθὲν ὑγιάζει ψώρας κτηνῶν καὶ κυνῶν, καὶ εἰς πεσσοὺς καὶ εἰς ἄκοπα καὶ λεπρικὰ ἐπιτηδείως μείγνυται· στέλλει δὲ καὶ ἱδρῶτας. καὶ τὸ τερεβίνθινον δὲ ὁμοίως σκευάζεται· ψύχει δὲ καὶ στύφει.",
@@ -2486,6 +2507,7 @@
     "pages": "41"
    },
    "family": "mastichinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Mastic oil is made from finely ground mastic. Dioscorides gives no quantities.",
    "greek": "τὸ δὲ μαστίχινον ἐκ τῆς μαστίχης λείας σκευαζέσθω. ποιεῖ δὲ πρὸς τὰ ἐν ὑστέρᾳ πάντα, ἠπίως θερμαῖνον, στῦφον, μαλάσσον, καὶ πρὸς τὰ ἐπὶ τὸν στόμαχον ἐπιρριπτόμενα σκιρρώματα καὶ κοιλιακὰ καὶ δυσεντερικὰ καὶ τὰ ἐπὶ τοῦ προσώπου, καθαῖρον καὶ εὔχροιαν περιποιοῦν. συντίθεται δὲ ἐν Χίῳ τῇ νήσῳ κάλλιστον.",
@@ -2547,6 +2569,7 @@
     "pages": "42–43"
    },
    "family": "rhodinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Olive oil is first boiled with schoinos and strained. The petals of a thousand roses are steeped in it overnight, worked with honey-coated hands, and pressed out. The pressed petals are pressed again with more of the astringed oil, giving lesser grades; for a stronger perfume, fresh roses are steeped in the first oil again, up to seven times.",
    "time": {
@@ -2931,6 +2954,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-44-elatinon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "43–44"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "Palm-spathe oil is unripe-olive oil steeped with crushed date-palm spathe, the two equal in weight. The spathe is left in the oil for three days, pressed out in a basket, and the oil stored clean.",
    "time": {
@@ -3041,6 +3065,7 @@
     "pages": "44"
    },
    "family": "melinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Quince oil is olive oil scented with quinces. The oil is left for a day with water, crushed palm spathe and schoinos, boiled and strained, then set under quinces laid on a mat over the mouth of the vessel and covered with cloths. The quinces sit above the oil, not in it, until it has drawn their capacity.",
    "time": {
@@ -3246,6 +3271,7 @@
     "pages": "44"
    },
    "family": "melinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "In this second quince oil the fruit goes into the oil itself. The quinces are wrapped in cloth for ten days to hold in their fragrance, then soaked in the oil for two days and nights and pressed out. Dioscorides gives no quantities.",
    "time": {
@@ -3353,6 +3379,7 @@
     "pages": "44–45"
    },
    "family": "oinanthinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Vine-flower oil is unripe-olive oil steeped with the dried, fragrant flowers of the grapevine. The flowers are stirred and turned in the oil, left two days, and pressed out. Dioscorides gives no quantities.",
    "time": {
@@ -3451,6 +3478,7 @@
     "pages": "45"
    },
    "family": "telinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Fenugreek oil is olive oil steeped with fenugreek, calamus and cyperus. The three steep in the oil for seven days, stirred three times a day, and are then pressed out. Dioscorides records others who use cardamom and balsam wood in place of the calamus and cyperus, or who make the oil astringent first and then steep the fenugreek in it.",
    "time": {
@@ -3666,6 +3694,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-48-sampsouchinon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "45–46"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "Marjoram oil is unripe-olive oil steeped with wild thyme, cassia, southernwood, water-mint flowers, myrtle leaves and marjoram, pounded together. The herbs steep for four days and are pressed out, then the same amount of fresh herbs is steeped for the same time and pressed out again. Each herb is taken by estimate, with an eye to its strength, and only enough oil is used not to overpower them.",
    "time": {
@@ -3876,6 +3905,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-49-okiminon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "46"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "Basil oil is made from basil leaves steeped in oil already aromatised as for henna oil (1.55). The leaves steep for a night and a day and are pressed out, then take one more pouring of oil and are pressed again, and fresh basil can be steeped in the oil already used, as for rose oil (1.43), up to three or four times. Dioscorides allows oil of unripe olives as a base but prefers the aromatised oil.",
    "time": {
@@ -4091,6 +4121,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-50-habrotoninon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "46–47"
    },
+   "kind": "oil",
    "status": "draft",
    "summary": "Southernwood oil is made from southernwood leaves and oil already aromatised as for henna oil (1.55). The leaves are steeped in the oil for a night and a day and pressed out. For an oil of several steepings, the first leaves are taken out and others are steeped and pressed in their place.",
    "time": {
@@ -4212,6 +4243,7 @@
     "pages": "47"
    },
    "family": "anethinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Dill oil is made from dill flowers steeped in olive oil. The flowers are steeped for one day and pressed out by hand, and the oil is stored. A double-steeped oil takes a second steeping of fresh dill flowers.",
    "time": {
@@ -4331,6 +4363,7 @@
     "pages": "47–49"
    },
    "family": "sousinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Lily oil is made by steeping lily petals in oil first made astringent with calamus, myrrh and cardamom. The petals of a thousand lilies are steeped in it for a day and a night and pressed, the oil is separated at once from the water pressed out with it and decanted with salt, and the same petals are pressed twice more with more oil and cardamom. Dioscorides ranks the three expressions in that order, says fresh lilies steeped in the first make it stronger, and finishes each preparation with myrrh, cinnamon and saffron.",
    "time": {
@@ -4994,6 +5027,7 @@
     "pages": "49"
    },
    "family": "krininon",
+   "kind": "oil",
    "status": "draft",
    "summary": "According to Dioscorides, some make plain lily oil from lilies and balanos oil, or another oil. The kind made in Phoenicia and Egypt, Dioscorides says, is reckoned superior. Dioscorides gives no quantities.",
    "greek": "ἔνιοι δὲ τὸ ἁπλοῦν ἐξ ἐλαίου βαλανίνου ἢ ἄλλου καὶ 5 κρίνου σκευάζουσι. δοκεῖ δὲ διαφέρειν τὸ ἐν Φοινίκῃ καὶ ἐν Αἰγύπτῳ γινόμενον· ἄριστον δέ ἐστιν αὐτοῦ τὸ ὄζον κρίνων. δύναμιν δὲ ἔχει θερμαντικήν, μαλακτικήν, ἀναστομωτικὴν τῶν περὶ μήτραν μύσεων καὶ φλεγμονῶν, καὶ καθόλου πάντων ἐστὶ χρησιμώτατον πρὸς τὰ γυναικεῖα. ἁρμόζει δὲ καὶ πρὸς ἀχῶρας, ἰόνθους, πίτυρα, ἐκζέματα, μώλωπάς τε ταχέως μεταβάλλει καὶ ὁμόχρους ποιεῖ, καὶ καθόλου ἐστὶν ἀραιωτικόν. ἄγει δὲ καὶ χολὴν κατὰ κοιλίαν πινόμενον, κινεῖ δὲ καὶ οὔρησιν. ἐστι δὲ κακοστόμαχον καὶ ναυτίας ποιητικόν.",
@@ -5094,6 +5128,7 @@
     "pages": "49"
    },
    "family": "narkissinon",
+   "kind": "unguent",
    "status": "draft",
    "summary": "Narcissus unguent is made from narcissus flowers steeped in washed oil first made astringent with aspalathos, calamus and myrrh. The oil is boiled with aspalathos, then with calamus and myrrh worked in fragrant old wine, cooled and strained; some of it is poured over as many narcissus flowers as possible, stirred for two days and pressed out. The unguent is decanted often, because Dioscorides says that it too spoils easily.",
    "time": {
@@ -5408,6 +5443,7 @@
     "pages": "50"
    },
    "family": "krokinon",
+   "kind": "unguent",
    "status": "draft",
    "summary": "Saffron unguent is made from saffron steeped in oil made astringent as for lily oil (1.52). The saffron is steeped for five days, stirred several times a day, and strained off on the sixth; the same saffron is steeped for ten days in as much oil again, and pounded myrrh is stirred into the oil in a mortar. Dioscorides ranks first the oil that smells strongly of saffron, the kind for medical use, and second the one with a scent of myrrh.",
    "time": {
@@ -5661,6 +5697,7 @@
     "pages": "50–51"
    },
    "family": "kyprinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Henna oil is made from henna flowers steeped in oil first made astringent with aspalathos, calamus, myrrh and cardamom. The oil is boiled with soaked aspalathos, then with calamus worked into myrrh and wine, strained over chopped cardamom and stirred until cool; strained again, it takes 46 lb 8 oz of henna flowers to every 28 lb and is pressed out through a basket. Dioscorides says each further steeping of fresh flowers, double or triple, makes it stronger.",
    "time": {
@@ -6114,6 +6151,7 @@
     "pages": "51–52"
    },
    "family": "irinon",
+   "kind": "unguent",
    "status": "draft",
    "summary": "Iris unguent is made by steeping iris in oil first made astringent and fragrant with palm spathe. Finely chopped spathe is boiled with the oil and water in a bronze vessel until the oil takes on the scent, and the oil is strained into a honey-coated bowl. Dioscorides ranks highest the unguent that smells of iris alone, such as is made at Perge in Pamphylia and Elis in Achaea.",
    "time": {
@@ -6340,6 +6378,7 @@
     "pages": "52"
    },
    "family": "irinon",
+   "kind": "unguent",
    "status": "draft",
    "summary": "In a second method, which Dioscorides attributes to others, iris unguent is made by steeping chopped iris in oil made astringent with balsam wood, calamus and myrrh. The oil is boiled with chopped balsam wood, which is taken out, calamus and a lump of myrrh moistened in wine are added, and 14 lb of the oil steep an equal weight of iris for two days and two nights before a hard pressing. Dioscorides says that repeating the steeping two or three times with the same weight of iris makes it more potent.",
    "time": {
@@ -6621,6 +6660,7 @@
     "pages": "53"
    },
    "family": "gleukinon",
+   "kind": "unguent",
    "status": "draft",
    "summary": "Simple must unguent is made from unripe-olive oil, grape must and aromatics (schoinos, calamus, Celtic nard, palm spathe, aspalathos, melilot and costus) in a vessel packed round with grape marc. The mixture is stirred twice a day for thirty days, then pressed out and stored. Dioscorides gives no quantities.",
    "time": {
@@ -6875,6 +6915,7 @@
     "pages": "53–54"
    },
    "family": "amarakinon",
+   "kind": "unguent",
    "status": "draft",
    "summary": "Marjoram unguent is made on unripe-olive oil and balanos oil. The oils are made astringent with balsam wood, schoinos and calamus, then perfumed with marjoram, costus, amomum, nard, cassia, balsam fruit and myrrh, with honey and wine to coat the vessels and knead the chopped aromatics. Dioscorides judges the unguent made at Cyzicus the finest.",
    "greek": "ἀμαράκινον δὲ ἐν Κυζίκῳ κάλλιστον γίνεται. σκευάζεται δὲ διά τε ὀμφακίνου ἐλαίου καὶ βαλανίνου, στυφομένων ξυλοβαλσάμῳ, σχοίνῳ, καλάμῳ, ἡδυνομένων δὲ ἀμαράκῳ, κόστῳ, ἀμώμῳ, νάρδῳ, κασσίᾳ, καρπῷ βαλσάμου καὶ σμύρνῃ. οἱ δὲ πολυτελέστερον αὐτὸ ποιοῦντες μίσγουσι καὶ κινάμωμον· παραλαμβάνεται δὲ μέλι καὶ οἶνος εἰς τὴν τῶν ἀγγείων χρίσιν καὶ φύραδιν τῶν κεκομμένων ἀρωμάτων. ἐστι δὲ θερμαντικόν, καρωτικόν, μαλακτικόν, ἀναστομωτικόν, 2 πυρωτικόν, οὐρητικόν, εὐχρηστοῦν εἴς τε τὰς σῆπας καὶ σύριγγας καὶ ὑδροκήλας μετὰ τὰς χειρουργίας, περιρρήττει τε τὰς ἐσχάρας καὶ τὰ τεθηριωμένα ἕλκη, πρός τε δυσουρίαν ἁρμόζει περιχριομένου τοῦ δακτυλίου, καὶ πρὸς τὰς φλεγμονὰς αὐτοῦ καὶ πρὸς αἱμορροίδων ἀναστόμωσιν περιχριόμενον, ἔμμηνά τε κινεῖ προστιθέμενον τῇ μήτρᾳ καὶ σκληρίας καὶ οἰδήματα ἐν ὑστέρᾳ διαφορεῖ, καὶ πρὸς τὰ μυότρωτα καὶ νευρότρωτα συμφέρει ἐν πιλήμασιν ἀραιοῖς βρεχόμενον καὶ ἐπιτιθέμενον.",
@@ -7210,6 +7251,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-58-3-hedychroun.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "54"
    },
+   "kind": "unguent",
    "status": "draft",
    "report": true,
    "summary": "Hedychroun is made as marjoram unguent is (1.58). Dioscorides places it on Cos and says it has the same properties as marjoram unguent and is more fragrant.",
@@ -7244,6 +7286,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-58-3-megalleion.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "54"
    },
+   "kind": "unguent",
    "status": "draft",
    "summary": "Megalleion is marjoram unguent made with more resin, the terebinth boiled down first. Dioscorides records it as no longer in use in his day. According to Dioscorides, resin goes into unguents for colour and thickness, not to preserve or sweeten them.",
    "time": {
@@ -7353,6 +7396,7 @@
     "pages": "54–55"
    },
    "family": "metopion",
+   "kind": "unguent",
    "status": "draft",
    "summary": "Metopion is compounded from bitter almonds, unripe-olive oil, cardamom, schoinos, calamus, honey, wine, myrrh, balsam fruit, galbanum and resin. Dioscorides says it is made in Egypt and named there for its galbanum, the wood that yields galbanum being called metopon. Dioscorides gives no quantities.",
    "greek": "σκευάζεται δὲ ἐν Αἰγύπτῳ μύρον, ἐπιχωρίως ὑπʼ αὐτῶν καλούμενον μετώπιον διὰ τὴν τῆς χαλβάνης μεῖξιν· τὸ γὰρ ξύλον, ἐξ οὗ γεννᾶται ἡ χαλβάνη, μέτωπον καλεῖται. διʼ ἀμυγδάλων δὲ πικρῶν καὶ ἐλαίου ὀμφακίνου καὶ καρδαμώμου καὶ σχοίνου καὶ καλάμου καὶ μέλιτος καὶ οἴνου καὶ σμύρνης καὶ βαλσάμου καρποῦ καὶ χαλβάνης καὶ ῥητίνης συντίθεται. δόκιμον δέ ἐστι τὸ βαρύοσμον καὶ λιπαρόν, ἐμφαῖνον μᾶλλον τοῦ καρδαμώμου καὶ τῆς σμύρνης ἤπερ τῆς χαλβάνης. 2 σφόδρα δὲ θερμαίνει καὶ πυροῖ καὶ ἀναστομοῖ ἐπισπᾶταί τε καὶ καθαίρει ἕλκη, πρός τε νεῦρα καὶ μύας διακοπέντα ποιεῖ, ὑδροκήλας τε σὺν σηπταῖς. μείγνυται δὲ καὶ μαλάγμασι καὶ κηρωταῖς, πρός τε ῥίγη καὶ ὀπισθοτονικῶς σπωμένους χρησιμεύει. κινεῖ δὲ καὶ ἱδρῶτας καὶ ἀναστομοῖ τὰ περὶ ὑστέραν καὶ σκληρίας τὰς περὶ αὐτὴν χαλᾷ, καὶ καθόλου μαλακτικὴν ἔχει τὴν δύναμιν.",
@@ -7593,6 +7637,7 @@
     "pages": "55"
    },
    "family": "mendesion",
+   "kind": "unguent",
    "status": "draft",
    "summary": "Mendesian unguent is made from balanos oil, myrrh, cassia and resin. Dioscorides says it acts like metopion, only more weakly. Dioscorides gives no quantities.",
    "greek": "καὶ τὸ Μενδήσιον δὲ λεγόμενον ἔκ τε βαλανίνου ἐλαίου 3 καὶ σμύρνης καὶ κασσίας καὶ ῥητίνης σκευάζεται. ἔνιοι δὲ μετὰ τὸν κατασταθμισμὸν κινάμωμον μικρὸν προσεμβάλλουσιν ἀνωφελῶς· οὐκ ἐκδίδωσι γὰρ τὰ μὴ συνεψηγμένα τὴν δύναμιν. ἐμφερῆ δὲ ἔχει τὴν ἐνέργειαν τῷ μετωπίῳ, ἥττονα μέντοι καὶ οὐχ οὕτως ἐπιτεταμένην.",
@@ -7727,6 +7772,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-60-stakte.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "55"
    },
+   "kind": "unguent",
    "status": "draft",
    "summary": "Stacte is pressed from fresh myrrh. The myrrh is pounded with a little water and pressed through an instrument, and the oily part that runs off makes a perfume on its own. Dioscorides calls it very fragrant and costly, and rates best the stacte that is unmixed with oil and strongest in the smallest amount.",
    "greek": "στακτὴ δὲ καλεῖται τῆς προσφάτου σμύρνης τὸ λιπαρόν, κεκομμένης μεθʼ ὕδατος ὀλίγου ἀποτεθλιμμένης τε διʼ ὀργάνου. εὐώδης δὲ λίαν καὶ πολυτελής ἐστι [καὶ] καθʼ ἑαυτὴν οὖσα μύρον τὸ καλούμενον στακτή. δόκιμος δέ ἐστιν ἡ ἀμιγὴς ἐλαίου καὶ ἐν ἐλαχίστῳ πλείστην δύναμιν κεκτημένη, οὖσαν θερμαντικήν, ἀναλογοῦσαν τῇ σμύρνῃ καὶ τοῖς θερμαίνουσι τῶν μύρων.",
@@ -7820,6 +7866,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-61-kinamominon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "55–56"
    },
+   "kind": "unguent",
    "status": "draft",
    "summary": "Cinnamon unguent has a base of balanos oil, made astringent with balsam wood, calamus and schoinos. It is perfumed with cinnamon, balsam fruit and four times as much myrrh as cinnamon, and honey goes into the kneading. Dioscorides wants it mild in scent, thick, very fragrant and bitter, its thickness coming from myrrh, not resin.",
    "greek": "κιναμώμινον δὲ ἔκ τε ἐλαίου βαλανίνου καὶ στυμμάτων ξυλοβαλσάμου, καλάμου, σχοίνου, ἡδυσμάτων δὲ κιναμώμου, βαλσάμου καρποῦ, σμύρνης τετραπλασίονος παράὰ τὸ κινάμωμον σκευάζεται· μείγνυται δὲ καὶ μέλι εἰς τὴν φύρασιν. δόκιμον δέ ἐστι τὸ μὴ δριμύ, μαλακὸν δὲ τῇ ὀσμῇ καὶ παρεμφαῖνον σμύρνης, παχύ τε καὶ εὐῶδες ἄγαν, τῇ γεύσει πικρόν. τὸ γὰρ τοιοῦτον οὐκ ἐκ ῥητίνης ἀλλʼ ἐκ σμύρνης ἔχει τὸ πάχος· ἡ γὰρ ῥητίνη οὐ προσδίδωσι πικρίαν οὐδὲ εὐωδίαν. δύναμιν δὲ ἔχει σφόδρα δριμεῖαν καὶ θερμαντικὴν καὶ 2 πικράν. ἀναστομοῖ γοῦν θερμαῖνον καὶ διαφορεῖ καὶ διαχεῖ καὶ ἐπισπᾶται ὑγρὰ καὶ πνεύματα· ἔστι δὲ καρηβαρικόν. ποιεῖ δὲ καὶ πρὸς τὰ περὶ μήτραν σὺν ἐλαίῳ διπλασίονι καὶ κηρῷ καὶ μυελῷ. οὕτως γὰρ ἀποβάλλει τὸ πολὺ τῆς δριμύτητος καὶ γίνεται μαλακτικόν· ἄλλως γὰρ συγκαίει καὶ σκληρύνει βιαιότατα πάντων τῶν παχέων μύρων. ποιεῖ καὶ τρὸς σύριγγας καὶ σῆ πας ἐναργῶς καὶ πρὸς ὑδροκήλας καὶ ἄνθρακας καὶ γαγγραίνας σὺν καρδαμώμῳ, πρός τε ῥίγη τὰ περιοδικὰ καὶ πρὸς τρόμους καὶ τοὺς ὑπὸ τῶν ἰοβόλων θηρίων δακνομένους ἐν συγχρίσματι, ἐπίθεμά τε σκορπιοπλήκτοις καὶ φαλαγγιοδήκτοις σὺν ὀλύνθοις λείοις.",
@@ -8067,6 +8114,7 @@
     "pages": "56–57"
    },
    "family": "nardinon",
+   "kind": "unguent",
    "status": "draft",
    "summary": "Nard unguent is made on balanos oil or unripe-olive oil, with or without malabathron leaf. The oil is made astringent with schoinos and perfumed with costus, amomum, nard, myrrh and balsam. A plain version uses unripe-olive oil, schoinos, calamus, costus and nard.",
    "greek": "νάρδινον δὲ μύρον ποικίλως σκευάζεται διὰ τοῦ μαλαβαθρίνου φύλλου καὶ δίχα τούτου. ὡς τὸ πολὺ δὲ μείγνυται τῷ βαλανίνῳ ἐλαίῳ ἢ ὀμφακίνῳ, πρὸς μὲν τὴν στύψιν τοῦ ἐλαίου σχοῖνος, πρὸς δὲ τὴν εὐωδίαν βάλλεται κόστος, ἄμωμον, νάρδος, σμύρνα, βάλσαμον. ἐστι δὲ χρηστὴ ἡ λεπτή, μὴ δριμεῖα, ἔχουσα τὴν εὐωδίαν τῆς ξηρᾶς νάρδου ἢ ἀμώμου. δύναμις δὲ αὐτῆς λεπτυντική, δριμεῖα, σμηκτική, θερμαντική. ὑγρὰ δέ ἐστι καὶ οὐ γλοιώδης, ἐὰν μὴ ῥητίνην ἔχῃ. σκευάζεται δὲ καὶ λιτὴ δι᾿ ὀμφακίνου ἐλαίου καὶ σχοίνου καὶ καλάμου καὶ κόστου καὶ νάρδου.",
@@ -8396,6 +8444,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-63-iasmelaion.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "57"
    },
+   "kind": "oil",
    "status": "draft-translation",
    "summary": "Iasmelaion is sesame oil steeped with the white flowers of the violet, 2 ounces to an Italian xestes. The flowers are replaced with fresh ones in turn, as for lily oil (1.52). According to Dioscorides it is called iasme and made by the Persians, who use it at banquets for its fragrance, though many find its heavy scent unpleasant.",
    "greek": "ἡ δὲ καλουμένη ἰάσμη παρὰ Πέρσαις σκευάζεται ἐκ τῶν ἀνθῶν τῶν λευκῶν τοῦ ἰοῦ, τούτων οὐγγίων βʹ ἐμβαλλομένων Ἰταλικῷ ξέστῃ σησαμίνου ἐλαίου καὶ ἀμειβομένων ἤγουν ἀλλασσομένων ὡς ἐπὶ τοῦ κρινίνου εἴρηται. ἡ δὲ τούτου χρῆσις παρὰ τὰς ἑστιάσεις εὐωδίας ἕνεκα παρὰ Πέρσαις παραλαμβάνεται. ἁρμόζει δὲ καὶ ὅλῳ τῷ σώματι κατὰ τὰ λουτρὰ ἐπὶ τῶι θερμασίας καὶ χαλάσεως δεομένων σωμάτων. βαρυτέραν δὲ ἔχει τὴν εὐωδίαν, ὡς πολλοὺς αὐτῆς μηδὲ (μή p) ἡδέως ἀντιλαμβάνεσθαι",
@@ -8506,6 +8555,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-63-malabathrinon.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "57"
    },
+   "kind": "unguent",
    "status": "draft",
    "summary": "Malabathron unguent takes the same astringents as nard unguent (1.62), with more myrrh. Dioscorides gives no quantities.",
    "greek": "τὸ δὲ μαλαβάθρινον ἔχει μὲν στύμματα ἃ καὶ ἡ νάρδος, σμύρνης δὲ πλεῖον· διὸ καὶ γίνεται θερμαντικόν, ἀναλογοῦν τῷ κροκίνῳ καὶ ἀμαρακίνῳ τὴν δύναμιν.",
@@ -8576,6 +8626,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-71-5-burned-resin-with-water.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "69–70"
    },
+   "kind": "other",
    "status": "draft",
    "summary": "Resin processed with water is liquid resin, strained while melted, boiled down with rainwater, 1 chous of resin to 2 of water. The two are boiled gently in a bronze vessel over coals, with constant stirring, until the resin is odourless, crumbly and dry, then cooled and stored in an unpitched earthenware jar. Dioscorides says it comes out exceptionally white.",
    "time": {
@@ -8719,6 +8770,7 @@
     "ingredients_from": "perfume-tables/corpus/preparations/dioscorides-1-71-6-burned-resin-without-water.json@44fed51d53cd338cef39894296c75c38354de9bf",
     "pages": "70"
    },
+   "kind": "other",
    "status": "draft",
    "summary": "Resin processed without water is resin boiled down over coals alone. It is heated gently at first, then over a heap of coals once it begins to thicken, and boiled without a break for three days and three nights, until it is odourless, crumbly and dry like resin boiled with water (1.71.5). Dry resins need only one full day.",
    "time": {
@@ -8849,6 +8901,7 @@
     "pages": "2.382"
    },
    "family": "rhodinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Rose oil is made from red rose petals and unripe-olive oil, 3 oz to an Italian sextarius. The petals, their nail-like bases removed and aired for a day and a night, are sealed in a jar with the oil and left outdoors in the sun for forty days. Paul says some lower the jar into a well instead, so that the cold keeps the fragrance, and others bury it.",
    "time": {
@@ -9001,6 +9054,7 @@
     "pages": "58–59"
    },
    "family": "rhodinon",
+   "kind": "oil",
    "status": "draft",
    "summary": "Rose oil is made from red roses and unripe-olive oil, 3 oz to an Italian sextarius. The roses, their calyces removed and cooled for a day and a night, go into the oil in a jar tied shut with linen and hide and set in the sun for twenty days, and the oil is strained and the jars stored on boards in rooms of even temperature. Aetius judges roses and oil alone the best preparation, and notes that some lower the jar into a well of cold water for forty days instead.",
    "time": {

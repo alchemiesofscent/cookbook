@@ -67,7 +67,7 @@
       $('[data-menu-close]', menu).focus();
     });
     $('[data-menu-close]', menu).addEventListener('click', close);
-    menu.addEventListener('click', function (e) { if (!e.target.closest('.ck-menu-sections, .ck-menu-nav, [data-menu-close]')) close(); });
+    menu.addEventListener('click', function (e) { if (!e.target.closest('.ck-menu-secs, .ck-menu-nav, [data-menu-close]')) close(); });
   }
 
   /* ---- recipe page ---- */
@@ -130,10 +130,10 @@
       var c = choices[lem], k = chosen[lem], w = $('.ck-ren-w', btn), o = null;
       if (c && k && k !== 'greek') c.opts.forEach(function (x) { if (x.k === k) o = x; });
       btn.dataset.mode = k === 'greek' ? 'greek' : (o ? 'chosen' : 'default');
-      if (k === 'greek') { btn.firstChild.nodeValue = ''; w.textContent = 'show a rendering'; }
-      else if (o && o.taxon) { btn.firstChild.nodeValue = 'identified as '; w.innerHTML = ''; var i = document.createElement('i'); i.textContent = o.word; w.appendChild(i); w.appendChild(document.createTextNode(' · ' + o.by)); }
-      else if (o) { btn.firstChild.nodeValue = 'rendered '; w.textContent = o.word + ' · ' + o.by; }
-      else { btn.firstChild.nodeValue = 'rendered '; w.textContent = btn.dataset.default; }
+      if (k === 'greek') { w.textContent = 'English'; }
+      else if (o && o.taxon) { w.innerHTML = ''; var i = document.createElement('i'); i.textContent = o.word; w.appendChild(i); w.appendChild(document.createTextNode(' · ' + o.by)); }
+      else if (o) { w.textContent = o.word + ' · ' + o.by; }
+      else { w.textContent = btn.dataset.default; }
     };
     var paintAll = function () { $$('[data-choose]').forEach(function (b) { label(b.dataset.choose, b); }); };
     var open = function (btn) {
@@ -160,8 +160,8 @@
       add('greek', 'Greek alone', 'no English beside it');
       add('default', c.ren, c.basis);
       var rens = c.opts.filter(function (x) { return !x.taxon; }), ids = c.opts.filter(function (x) { return x.taxon; });
-      if (rens.length) { head('Other renderings'); rens.forEach(function (x) { add(x.k, x.word, x.by); }); }
-      if (ids.length) { head('Identified as'); ids.forEach(function (x) { add(x.k, x.word, x.by, true); }); }
+      if (rens.length) { head('Other English words'); rens.forEach(function (x) { add(x.k, x.word, x.by); }); }
+      if (ids.length) { head('What scholars identify it as'); ids.forEach(function (x) { add(x.k, x.word, x.by, true); }); }
       var link = btn.closest('.ck-ing').querySelector('.ck-ing-grc');
       $('.ck-choose-more', dlg).href = link.getAttribute('href');
       dlg.showModal();
@@ -210,30 +210,59 @@
   if (q) {
     var items = $$('[data-item]'), count = $('[data-count]'), empty = $('[data-empty]');
     var noun = count ? count.textContent.replace(/^\d+\s*/, '') : '';
-    var filter = '';
-    var fold = function (s) { return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/ς/g, 'σ'); };
+    /* facets (round 12): one kind, one author, one family; ingredients add up (a recipe must have
+       all of them); the URL carries the choice (?kind=oil&ingredient=smyrna,kalamos) */
+    var facets = { kind: '', author: '', family: '' }, ings = [];
+    var fold = function (s) { return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/ς/g, 'σ'); };
+    var clear = $('[data-clear]');
+    var paint = function () {
+      $$('[data-facet]').forEach(function (b) { b.setAttribute('aria-pressed', String(facets[b.dataset.facet] === b.dataset.value)); });
+      $$('[data-ing]').forEach(function (b) { b.setAttribute('aria-pressed', String(ings.indexOf(b.dataset.ing) >= 0)); });
+      if (clear) clear.hidden = !ings.length;
+    };
+    var toUrl = function () {
+      try {
+        var p = new URLSearchParams();
+        Object.keys(facets).forEach(function (k) { if (facets[k]) p.set(k, facets[k]); });
+        if (ings.length) p.set('ingredient', ings.join(','));
+        var qs = p.toString().replace(/%2C/g, ',');
+        history.replaceState(null, '', location.pathname + (qs ? '?' + qs : '') + location.hash);
+      } catch (e) { /* a frame that forbids it: the filter still works */ }
+    };
     var run = function () {
       var words = fold(q.value.trim()).split(/\s+/).filter(Boolean), shown = 0, total = 0;
       items.forEach(function (el) {
         var hay = fold(el.dataset.search || ''), ok = words.every(function (w) { return hay.indexOf(w) >= 0; });
-        if (ok && filter) {
-          var f = filter.split(':'), key = f[0], val = f.slice(1).join(':');
-          ok = key === 'family' ? el.dataset.family === val : (el.dataset.lemmas || '').indexOf('|' + val + '|') >= 0;
-        }
+        Object.keys(facets).forEach(function (k) { if (ok && facets[k] && el.dataset[k] !== facets[k]) ok = false; });
+        if (ok) ok = ings.every(function (g) { return (el.dataset.ings || '').indexOf('|' + g + '|') >= 0; });
         el.hidden = !ok;
         if (el.tagName !== 'TR') { total++; if (ok) shown++; }
       });
       if (count) count.textContent = (shown === total ? total : shown + ' of ' + total) + ' ' + noun;
       if (empty) empty.hidden = shown > 0;
     };
+    var update = function () { paint(); run(); toUrl(); };
     q.addEventListener('input', run);
-    $$('[data-filter]').forEach(function (b) {
+    $$('[data-facet]').forEach(function (b) {
+      b.addEventListener('click', function () { facets[b.dataset.facet] = b.dataset.value; update(); });
+    });
+    $$('[data-ing]').forEach(function (b) {
       b.addEventListener('click', function () {
-        filter = b.dataset.filter;
-        $$('[data-filter]').forEach(function (x) { x.setAttribute('aria-pressed', String(x === b)); });
-        run();
+        var k = ings.indexOf(b.dataset.ing);
+        if (k >= 0) ings.splice(k, 1); else ings.push(b.dataset.ing);
+        update();
       });
     });
+    if (clear) clear.addEventListener('click', function () { ings = []; update(); });
+    try {
+      var p0 = new URLSearchParams(location.search);
+      Object.keys(facets).forEach(function (k) {
+        var v = p0.get(k) || '';
+        if (!v || $('[data-facet="' + k + '"][data-value="' + v + '"]')) facets[k] = v;
+      });
+      ings = (p0.get('ingredient') || '').split(',').filter(function (g) { return g && $('[data-ing="' + g + '"]'); });
+    } catch (e) { /* no query string here */ }
+    if ($('[data-facet]') || ings.length) { paint(); run(); }
     if (location.hash === '#search') { q.focus(); }
     $$('[data-search-tab]').forEach(function (a) { a.addEventListener('click', function (e) { e.preventDefault(); q.focus(); q.scrollIntoView({ block: 'center' }); }); });
 
