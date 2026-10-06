@@ -457,3 +457,20 @@ button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:poin
   .ck-drawer-body{padding:0 24px 16px}
 }
 @media (prefers-reduced-motion:reduce){.ck-drawer[open]{animation:none}}
+/* the drawer's sections collapse (Sean): each a row with its current choice at the right */
+.ck-fsec{border-bottom:1px solid var(--rule)}
+.ck-fsec>summary,.ck-mgroup>summary{display:flex;align-items:center;gap:12px;min-height:56px;cursor:pointer;list-style:none}
+.ck-fsec>summary::-webkit-details-marker,.ck-mgroup>summary::-webkit-details-marker{display:none}
+.ck-fsec>summary::after,.ck-mgroup>summary::after{content:"";flex:none;width:7px;height:7px;margin:0 4px 0 2px;border-right:1.5px solid var(--ink-muted);border-bottom:1.5px solid var(--ink-muted);transform:translateY(-2px) rotate(45deg);transition:transform var(--ease)}
+.ck-fsec[open]>summary::after,.ck-mgroup[open]>summary::after{transform:translateY(2px) rotate(225deg)}
+.ck-fsec-h{flex:1;font:700 .75rem/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--ink)}
+.ck-fsec-v{font:400 .9375rem/1.2 var(--sans);color:var(--ink-muted);text-align:right}
+.ck-fsec[open]>.ck-opts,.ck-fsec[open]>.ck-fsec-note{margin-bottom:12px}
+.ck-fsec-note{margin:0 0 4px!important}
+.ck-mgroup{border-top:1px solid var(--rule);margin-left:12px}
+.ck-mgroup>summary{min-height:48px}
+.ck-mgroup-h{flex:1;font:400 1rem/1.2 var(--sans);color:var(--ink)}
+.ck-mgroup .ck-fsec-v.is-on,.ck-fsec-v[data-sum]:not(:empty){color:var(--ink-muted)}
+.ck-mgroup .ck-fsec-v.is-on{color:var(--accent);font-weight:700}
+.ck-mgroup[open]>.ck-opts{margin-bottom:10px}
+.ck-drawer-body{padding-top:4px}

@@ -212,7 +212,7 @@
     var noun = count ? count.textContent.replace(/^\d+\s*/, '') : '';
     /* facets (round 12): one kind, one author, one family; ingredients add up (a recipe must have
        all of them); the URL carries the choice (?kind=oil&ingredient=smyrna,kalamos) */
-    var facets = { kind: '', author: '', family: '' }, ings = [];
+    var facets = { kind: '', author: '', family: '' }, ings = [], groups = [];
     var fold = function (s) { return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/ς/g, 'σ'); };
     var badge = $('[data-filter-n]'), active = $('[data-active]'), shownEl = $('[data-shown]');
     var labelOf = function (k) {
@@ -221,12 +221,30 @@
     };
     var paint = function () {
       $$('[data-facet]').forEach(function (b) { b.setAttribute('aria-pressed', String(facets[b.dataset.facet] === b.dataset.value)); });
-      $$('[data-ing]').forEach(function (b) { b.setAttribute('aria-pressed', String(ings.indexOf(b.dataset.ing) >= 0)); });
-      var n = ings.length + Object.keys(facets).filter(function (k) { return facets[k]; }).length;
+      $$('[data-group]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var k = groups.indexOf(b.dataset.group);
+        if (k >= 0) groups.splice(k, 1); else groups.push(b.dataset.group);
+        update();
+      });
+    });
+    $$('[data-ing]').forEach(function (b) { b.setAttribute('aria-pressed', String(ings.indexOf(b.dataset.ing) >= 0)); });
+      $$('[data-group]').forEach(function (b) { b.setAttribute('aria-pressed', String(groups.indexOf(b.dataset.group) >= 0)); });
+      var n = ings.length + groups.length + Object.keys(facets).filter(function (k) { return facets[k]; }).length;
+      ['kind', 'author', 'family'].forEach(function (k) { var el = $('[data-sum="' + k + '"]'); if (el) el.textContent = labelOf(k) || 'All'; });
+      var ingLabel = function (g) { var b = $('[data-ing="' + g + '"]'); return b ? b.dataset.label : g; };
+      var grpLabel = function (g) { var b = $('[data-group="' + g + '"]'); return b ? 'any ' + b.dataset.label : g; };
+      var mats = groups.map(grpLabel).concat(ings.map(ingLabel));
+      var ms = $('[data-sum="materials"]'); if (ms) ms.textContent = mats.length ? mats.length + ' chosen' : 'Any';
+      $$('[data-sum-group]').forEach(function (el) {
+        var g = el.dataset.sumGroup, k = (groups.indexOf(g) >= 0 ? 1 : 0) + $$('[data-g="' + g + '"]').filter(function (b) { return ings.indexOf(b.dataset.ing) >= 0; }).length;
+        el.textContent = k ? k + ' chosen' : $$('[data-g="' + g + '"]').length;
+        el.classList.toggle('is-on', !!k);
+      });
       if (badge) { badge.hidden = !n; badge.textContent = n; }
       if (active) {
         var parts = ['kind', 'author', 'family'].map(labelOf).filter(Boolean);
-        if (ings.length) parts.push('with ' + ings.map(function (g) { var b = $('[data-ing="' + g + '"]'); return b ? b.dataset.label : g; }).join(', '));
+        if (mats.length) parts.push('with ' + mats.join(', '));
         active.hidden = !parts.length;
         $('[data-active-text]', active).textContent = parts.join(' · ');
       }
@@ -235,6 +253,7 @@
       try {
         var p = new URLSearchParams();
         Object.keys(facets).forEach(function (k) { if (facets[k]) p.set(k, facets[k]); });
+        if (groups.length) p.set('group', groups.join(','));
         if (ings.length) p.set('ingredient', ings.join(','));
         var qs = p.toString().replace(/%2C/g, ',');
         history.replaceState(null, '', location.pathname + (qs ? '?' + qs : '') + location.hash);
@@ -246,6 +265,7 @@
         var hay = fold(el.dataset.search || ''), ok = words.every(function (w) { return hay.indexOf(w) >= 0; });
         Object.keys(facets).forEach(function (k) { if (ok && facets[k] && el.dataset[k] !== facets[k]) ok = false; });
         if (ok) ok = ings.every(function (g) { return (el.dataset.ings || '').indexOf('|' + g + '|') >= 0; });
+        if (ok) ok = groups.every(function (g) { return (el.dataset.groups || '').indexOf('|' + g + '|') >= 0; });
         el.hidden = !ok;
         if (el.tagName !== 'TR') { total++; if (ok) shown++; }
       });
@@ -266,7 +286,7 @@
       });
     });
     $$('[data-reset]').forEach(function (b) {
-      b.addEventListener('click', function () { facets = { kind: '', author: '', family: '' }; ings = []; update(); });
+      b.addEventListener('click', function () { facets = { kind: '', author: '', family: '' }; ings = []; groups = []; update(); });
     });
     /* the drawer: a sheet from the bottom on a phone, from the side on a desktop */
     var drawer = $('#ck-drawer');
@@ -282,8 +302,9 @@
         if (!v || $('[data-facet="' + k + '"][data-value="' + v + '"]')) facets[k] = v;
       });
       ings = (p0.get('ingredient') || '').split(',').filter(function (g) { return g && $('[data-ing="' + g + '"]'); });
+      groups = (p0.get('group') || '').split(',').filter(function (g) { return g && $('[data-group="' + g + '"]'); });
     } catch (e) { /* no query string here */ }
-    if ($('[data-facet]') || ings.length) { paint(); run(); }
+    if ($('[data-facet]') || ings.length || groups.length) { paint(); run(); }
     if (location.hash === '#search') { q.focus(); }
     $$('[data-search-tab]').forEach(function (a) { a.addEventListener('click', function (e) { e.preventDefault(); q.focus(); q.scrollIntoView({ block: 'center' }); }); });
 
