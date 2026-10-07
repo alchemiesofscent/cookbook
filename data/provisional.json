@@ -22,7 +22,7 @@
       "what": "the amount as printed, parsed into a number and a unit; relative amounts ('the same number') resolved to a presumed figure where flagged",
       "claimant": "the Cookbook's drafting, from perfume-tables preparations",
       "basis": "the printed amount, kept beside it in ingredients[].printed",
-      "home": "the corpus recipe's quantities, anchored to the occurrence of the amount",
+      "home": "the corpus recipe's quantities, anchored to the occurrence of the amount; a disputed amount (disputed: true) as competing readings (2026-10-07p)",
       "requirement": "REQ-022"
     },
     {
