@@ -1,238 +1,238 @@
-recipe,recipe_ulid,author,locator,list,role,form,headword,rendering,printed,quantity,unit
-dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,κυπέρου,κύπερος,cyperus,ἡμίξεστον,0.5,xestes
-dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,ἀρκευθίδος,ἀρκευθίς,juniper berries,τὸ αὐτό,,
-dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,σταφίδος,σταφίς,raisins,μνᾶς δεκαδύο,12,mna
-dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,ῥητίνης,ῥητίνη,resin,μνᾶς πέντε,5,mna
-dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,καλάμου ἀρωματίτου,κάλαμος,kalamos,ἑκάστου μνᾶν μίαν,1,mna
-dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,ἑκάστου μνᾶν μίαν,1,mna
-dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,σχοίνου,σχοῖνος,camel-grass,ἑκάστου μνᾶν μίαν,1,mna
-dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς δεκαδύο,12,drachme
-dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,οἴνου παλαιοῦ,οἶνος,wine,ξέστας ἐννέα,9,xestes
-dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,μέλιτος,μέλι,honey,μνᾶς δύο,2,mna
-dioscorides-1-30-omphakinon,01M4BPDCDJ3PT76YQPMDEXE0X3,Dioscorides,1.30.1-2,ingredients,,τοῦ παρόντος τὸ κρεῖσσον,ἔλαιον,oil,,,
-dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,ἔλαιον,ἔλαιον,oil,κοτύλαι ἑκατόν,100,kotyle
-dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,τήλεως,τῆλις,fenugreek,δραχμὰς πεντήκοντα,50,drachme
-dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,ὕδατι,ὕδωρ,water,,,
-dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,δαλὸν πιτυίνης,πίτυς,Pine firebrand,τὰς ἴσας ὁλκὰς,,
-dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,μελιλώτου,μελίλωτον,Melilot garlands,ὁλκῶν ἕνδεκα,11,holke
-dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,ἴρεως,ἶρις,iris,τῆς ἴσης,,
-dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,working,,οἴνῳ παλαιῷ,οἶνος,wine,,,
-dioscorides-1-30-3-agrias-elaias,01M4BPDCDHK2693YG02E6M09Z9,Dioscorides,1.30.3,ingredients,,ἀγρίας ἐλαίας,ἐλαία,Wild olives,,,
-dioscorides-1-30-5-sikyonion,01M4BPDCDHR3JX2Z8GSE5R8WDC,Dioscorides,1.30.5,ingredients,,ἐλαίου,ἔλαιον,oil,χοέα ἕνα,1,chous
-dioscorides-1-30-5-sikyonion,01M4BPDCDHR3JX2Z8GSE5R8WDC,Dioscorides,1.30.5,working,,ὕδατος,ὕδωρ,water,ἡμίχουν,0.5,chous
-dioscorides-1-31-thalloi-oil,01M4BPDCDKD7EX2HP4F12NN0FQ,Dioscorides,1.31,ingredients,,λίπους τῶν θαλλῶν,θαλλός,young shoots,,,
-dioscorides-1-32-kikinon,01M4BPDCDKSG6V2G8K92CARPT5,Dioscorides,1.32.1,ingredients,,κροτώνων,κρότων,castor seeds,ὅσον ἂν δόξῃ,,
-dioscorides-1-32-kikinon,01M4BPDCDKSG6V2G8K92CARPT5,Dioscorides,1.32.1,working,,ὕδωρ,ὕδωρ,water,,,
-dioscorides-1-32-2-kikinon-aigyption,01M4BPDCDKRVV6QKG2HVSB4AXV,Dioscorides,1.32.2,ingredients,,κρότωνας,κρότων,castor seeds,,,
-dioscorides-1-33-amygdalinon,01M4BPDCDMW1ZKNVVM4B5TJ6CT,Dioscorides,1.33,ingredients,,ἀμυγδάλων πικρῶν,ἀμύγδαλον,Bitter almonds,χοίνικας τέσσαρας,4,choinix
-dioscorides-1-33-amygdalinon,01M4BPDCDMW1ZKNVVM4B5TJ6CT,Dioscorides,1.33,ingredients,,ὕδατος,ὕδωρ,water,κοτύλας δύο,2,kotyle
-dioscorides-1-33-amygdalinon,01M4BPDCDMW1ZKNVVM4B5TJ6CT,Dioscorides,1.33,ingredients,,ὕδατος,ὕδωρ,water,κοτύλην μίαν,1,kotyle
-dioscorides-1-34-sesaminon-karyinon,01M4BPDCDMMXTN2ZW75BWQ4PDG,Dioscorides,1.34 (Wellmann 38.10),ingredients,,σησάμου,σήσαμον,sesame,,,
-dioscorides-1-34-sesaminon-karyinon,01M4BPDCDMMXTN2ZW75BWQ4PDG,Dioscorides,1.34 (Wellmann 38.10),ingredients,,βασιλικῶν καρύων,κάρυον,Royal nuts,,,
-dioscorides-1-35-hyoskyaminon,01M4BPDCDMV1E49GN9S55ARY3D,Dioscorides,1.35,ingredients,,λευκὸν καρπὸν,ὑοσκύαμος,White henbane seed,,,
-dioscorides-1-35-hyoskyaminon,01M4BPDCDMV1E49GN9S55ARY3D,Dioscorides,1.35,ingredients,,ὕδατι,ὕδωρ,water,,,
-dioscorides-1-36-knidion,01M4BPDCDNRNSMR40RYR2818S8,Dioscorides,1.36 (Wellmann 39.1–5),ingredients,,Κνιδίου κόκκου,κόκκος Κνίδιος,cnidian berries,,,
-dioscorides-1-37-raphaninon,01M4BPDCDPN2678VFT6HAHKP8P,Dioscorides,1.37 (Wellmann 39.5–10),ingredients,,σπέρματος,ῥάφανος,Radish seed,,,
-dioscorides-1-38-sinapinon,01M4BPDCDP30DE76E1T1X0ZKRF,Dioscorides,1.38,ingredients,,σινήπεως,σίναπι,mustard,,,
-dioscorides-1-38-sinapinon,01M4BPDCDP30DE76E1T1X0ZKRF,Dioscorides,1.38,ingredients,,ὕδατι,ὕδωρ,water,,,
-dioscorides-1-38-sinapinon,01M4BPDCDP30DE76E1T1X0ZKRF,Dioscorides,1.38,ingredients,,ἐλαίου,ἔλαιον,oil,,,
-dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,,μυρσίνης,μυρσίνη,myrtle,,,
-dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,ἴσον δὲ τῷ χυλῷ,,
-dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,ὕδατος,ὕδωρ,water,,,
-dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,ἐλαίου,ἔλαιον,oil,,,
-dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,σιδίοις,σίδιον,pomegranate rind,,,
-dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,κυπαρίσσῳ,κυπάρισσος,cypress,,,
-dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,κυπέρῳ,κύπερος,cyperus,,,
-dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,σχοίνῳ,σχοῖνος,camel-grass,,,
-dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,,δαφνίδων,δαφνίς,bay berries,,,
-dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
-dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,κυπέρῳ,κύπερος,cyperus,,,
-dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,σχοίνῳ,σχοῖνος,camel-grass,,,
-dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,καλάμῳ,κάλαμος,kalamos,,,
-dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,δάφνης φύλλα,δάφνη,bay leaves,,,
-dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,στύρακα,στύραξ,storax,,,
-dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,μυρσίνην,μυρσίνη,Myrtle,,,
-dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,working,,ὕδατος,ὕδωρ,water,,,
-dioscorides-1-41-schininon,01M4BPDCDQK89CGQ99DNEK3W9K,Dioscorides,1.41,ingredients,,σχίνου,σχῖνος,Mastic-tree fruit,,,
-dioscorides-1-42-mastichinon,01M4BPDCDQDBT1FEBW1T6V2HS7,Dioscorides,1.42.1,ingredients,,μαστίχης,μαστίχη,mastic,,,
-dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,,ῥόδων,ῥόδον,petals of unmoistened roses,ἀριθμῷ χιλίων,1000,count
-dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας εἴκοσι οὐγγίας πέντε,245,oungia
-dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,,σχοίνου,σχοῖνος,camel-grass,λίτρας πέντε οὐγγίας ὀκτώ,68,oungia
-dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ὀκτὼ οὐγγίας τρεῖς,99,oungia
-dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,alternative,κάλαμον,κάλαμος,kalamos,,,
-dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,alternative,ἀσπάλαθον,ἀσπάλαθος,aspalathos,,,
-dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,alternative,ἄγχουσαν,ἄγχουσα,anchousa,,,
-dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,alternative,ἅλας,ἅλς,salt,,,
-dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,working,,ὕδατι,ὕδωρ,water,,,
-dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,working,,μέλιτι,μέλι,honey,,,
-dioscorides-1-44-elatinon,01M4BPDCDRC78V0F5MC5Y3XTJT,Dioscorides,1.44,ingredients,,ἐλάτην,σπάθη,palm spathe,,,
-dioscorides-1-44-elatinon,01M4BPDCDRC78V0F5MC5Y3XTJT,Dioscorides,1.44,ingredients,,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,unripe-olive oil,ἑκάτερα ἰσόσταθμα,,
-dioscorides-1-45-melinon,01M4BPDCDSWT122R09HGEA8706,Dioscorides,1.45.1,ingredients,,ἐλαίου,ἔλαιον,oil,ξέστας ἕξ,6,xestes
-dioscorides-1-45-melinon,01M4BPDCDSWT122R09HGEA8706,Dioscorides,1.45.1,ingredients,,ὕδατος,ὕδωρ,water,ξέστας δέκα,10,xestes
-dioscorides-1-45-melinon,01M4BPDCDSWT122R09HGEA8706,Dioscorides,1.45.1,ingredients,,σπάθης,σπάθη,palm spathe,οὐγγίας τρεῖς,3,oungia
-dioscorides-1-45-melinon,01M4BPDCDSWT122R09HGEA8706,Dioscorides,1.45.1,ingredients,,σχοίνου,σχοῖνος,camel-grass,οὐγγίαν μίαν,1,oungia
-dioscorides-1-45-melinon,01M4BPDCDSWT122R09HGEA8706,Dioscorides,1.45.1,ingredients,,κυδώνια μῆλα,κυδώνιον μῆλον,quinces,,,
-dioscorides-1-45-2-melinon-allos,01M4BPDCDRKXD4J161K6H5B9W2,Dioscorides,1.45.2,ingredients,,μῆλα,κυδώνιον μῆλον,quinces,,,
-dioscorides-1-45-2-melinon-allos,01M4BPDCDRKXD4J161K6H5B9W2,Dioscorides,1.45.2,ingredients,,ἐλαίῳ,ἔλαιον,oil,,,
-dioscorides-1-46-oinanthinon,01M4BPDCDS96SWZVGGHCJR3W3F,Dioscorides,1.46,ingredients,,οἰνάνθην,οἰνάνθη,vine flowers,,,
-dioscorides-1-46-oinanthinon,01M4BPDCDS96SWZVGGHCJR3W3F,Dioscorides,1.46,ingredients,,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
-dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,,τήλεως,τῆλις,fenugreek,λίτρας ἐννέα,9,litra
-dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας πέντε,5,litra
-dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,,καλάμου,κάλαμος,kalamos,λίτραν μίαν,1,litra
-dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,,κυπέρου,κύπερος,cyperus,λίτρας δύο,2,litra
-dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,alternative,καρδάμωμον,καρδάμωμον,cardamom,,,
-dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,alternative,ξυλοβάλσαμον,ξυλοβάλσαμον,balsam wood,,,
-dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,ἑρπύλλου,ἕρπυλλος,wild thyme,,,
-dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,κασσίας,κασία,cassia,,,
-dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,ἁβροτόνου,ἀβρότονον,southernwood,,,
-dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,σισυμβρίου ἄνθους,σισύμβριον,water-mint,,,
-dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,μυρσίνης πετάλων,μυρσίνη,myrtle,,,
-dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,σαμψούχου,σάμψυχον,marjoram,,,
-dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,τοσοῦτον,,
-dioscorides-1-49-okiminon,01M4BPDCDT6Q4RT2ZCEKQ2RQ2N,Dioscorides,1.49,ingredients,,ἐλαίου,ἔλαιον,Aromatised oil,λίτρας εἴκοσι,20,litra
-dioscorides-1-49-okiminon,01M4BPDCDT6Q4RT2ZCEKQ2RQ2N,Dioscorides,1.49,ingredients,,ὠκίμου,ὤκιμον,basil,λίτρας ἕνδεκα οὐγγίας ὀκτὼ,140,oungia
-dioscorides-1-49-okiminon,01M4BPDCDT6Q4RT2ZCEKQ2RQ2N,Dioscorides,1.49,ingredients,,ἐλαίου,ἔλαιον,Aromatised oil,τὸ ἴσον πλῆθος,,
-dioscorides-1-49-okiminon,01M4BPDCDT6Q4RT2ZCEKQ2RQ2N,Dioscorides,1.49,ingredients,,ὠκίμου,ὤκιμον,basil,τὸ ἴσον,,
-dioscorides-1-49-okiminon,01M4BPDCDT6Q4RT2ZCEKQ2RQ2N,Dioscorides,1.49,ingredients,alternative,ὀμφοκίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
-dioscorides-1-50-habrotoninon,01M4BPDCDVAQ70WQ6QA8HBX7EK,Dioscorides,1.50,ingredients,,ἐλαίου,ἔλαιον,Aromatised oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-50-habrotoninon,01M4BPDCDVAQ70WQ6QA8HBX7EK,Dioscorides,1.50,ingredients,,ἁβροτόνου φύλλων,ἀβρότονον,southernwood,λίτρας ὀκτὼ,8,litra
-dioscorides-1-51-anethinon,01M4BPDCDVM7W878ZMR7VJ59MV,Dioscorides,1.51,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ὀκτὼ οὐγγίας ἐννέα,105,oungia
-dioscorides-1-51-anethinon,01M4BPDCDVM7W878ZMR7VJ59MV,Dioscorides,1.51,ingredients,,ἀνήθου ἄνθους,ἄνηθον,dill,λίτρας ἕνδεκα οὐγγίας ὀκτὼ,140,oungia
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,καλάμου,κάλαμος,kalamos,λίτρας πέντε οὐγγίας δέκα,70,oungia
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς πέντε,5,drachme
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,οἴνῳ εὐώδει,οἶνος,wine,,,
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,λιτρῶν τριῶν οὐγγιῶν ἓξ,42,oungia
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,oil,τρεῖς ἥμισυ λίτρας,3.5,litra
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,κρίνα,κρίνον,lily,ἀριθμῷ χίλια,1000,count
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,ἅλας,ἅλς,salt,,,
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,oil,τὸ ἴσον πλῆθος τῷ προτέρῳ,,
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,ὁλκὰς δέκα,10,holke
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,κρίνα,κρίνον,lily,χίλια,1000,count
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς δύο,2,drachme
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,κιναμώμου,κινάμωμον,cinnamon,δραχμὰς δύο,2,drachme
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,κρόκου,κρόκος,saffron,δραχμάς δέκα,10,drachme
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,alternative,κρόκου,κρόκος,saffron,τὸ ἴσον,,
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,alternative,κιναμώμου,κινάμωμον,cinnamon,τὸ ἴσον,,
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,alternative,ὕδατος,ὕδωρ,water,,,
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,working,,ὕδατι ὀμερίῳ,ὕδωρ,Rainwater,,,
-dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,working,,μέλιτι,μέλι,honey,,,
-dioscorides-1-52-5-sousinon-haploun,01M4BPDCDVQE73RM177RTYPCW7,Dioscorides,1.52.5,ingredients,,ἐλαίου βαλανίνου,βαλάνινον,balanos oil,,,
-dioscorides-1-52-5-sousinon-haploun,01M4BPDCDVQE73RM177RTYPCW7,Dioscorides,1.52.5,ingredients,alternative,ἄλλου,ἔλαιον,oil,,,
-dioscorides-1-52-5-sousinon-haploun,01M4BPDCDVQE73RM177RTYPCW7,Dioscorides,1.52.5,ingredients,,κρίνου,κρίνον,lily,,,
-dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,λίτρας ἓξ οὐγγίας δύο,74,oungia
-dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,καλάμου,κάλαμος,kalamos,λίτρας πέντε οὐγγίας ὀκτὼ,68,oungia
-dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,σμύρνης,σμύρνα,myrrh,χόνδρον,,
-dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,οἴνῳ παλαιῷ εὐώδει,οἶνος,wine,,,
-dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,,,
-dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,ναρκίσσου,νάρκισσος,narcissus,ὡς ὅτι πλεῖστον,,
-dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,working,,ὕδατι,ὕδωρ,water,,,
-dioscorides-1-54-krokinon,01M4BPDCDX58FWHMGV1X612S2R,Dioscorides,1.54,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,λίτρας τρεῖς ἥμισυ,3.5,litra
-dioscorides-1-54-krokinon,01M4BPDCDX58FWHMGV1X612S2R,Dioscorides,1.54,ingredients,,κρόκου,κρόκος,saffron,δραχμὰς πεντήκοντα,50,drachme
-dioscorides-1-54-krokinon,01M4BPDCDX58FWHMGV1X612S2R,Dioscorides,1.54,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,τὸ ἴσον πλῆθος,,
-dioscorides-1-54-krokinon,01M4BPDCDX58FWHMGV1X612S2R,Dioscorides,1.54,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς τεσσαράκοντα,40,drachme
-dioscorides-1-54-krokinon,01M4BPDCDX58FWHMGV1X612S2R,Dioscorides,1.54,ingredients,alternative,ἐλαίῳ,ἔλαιον,oil,,,
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,μέρος ἕν,,
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,λίτρας πέντε ἥμισυ,5.5,litra
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,καλάμου,κάλαμος,kalamos,λίτρας ἓξ ἥμισυ,6.5,litra
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,σμύρνης,σμύρνα,myrrh,λίτραν μίαν,1,litra
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,λίτρας τρεῖς οὐγγίας ἐννέα,45,oungia
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,οἴνῳ παλαιῷ εὐώδει,οἶνος,wine,,,
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,εἴκοσιν ὀκτὼ τοῦ ἐλαίου λίτρας,28,litra
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἄνθους κύπρου,κύπρου ἄνθος,henna blossom,λίτρας τεσσαράκοντα ἓξ οὐγγίας ὀκτώ,560,oungia
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἄνθους,κύπρου ἄνθος,henna blossom,τὸ ἴσον,,
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,alternative,κινάμωμον,κινάμωμον,cinnamon,,,
-dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,working,,ὕδατος ὀμβρίου,ὕδωρ,water,μέρος ἓν ἥμισυ,,
-dioscorides-1-56-irinon,01M4BPDCDY23JQG576V17MEYFM,Dioscorides,"1.56.1,3-4",ingredients,,σπάθης,σπάθη,palm spathe,λίτρας ἓξ οὐγγίας ὀκτώ,80,oungia
-dioscorides-1-56-irinon,01M4BPDCDY23JQG576V17MEYFM,Dioscorides,"1.56.1,3-4",ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-56-irinon,01M4BPDCDY23JQG576V17MEYFM,Dioscorides,"1.56.1,3-4",ingredients,,ἴρεως,ἶρις,iris,,,
-dioscorides-1-56-irinon,01M4BPDCDY23JQG576V17MEYFM,Dioscorides,"1.56.1,3-4",working,,ὕδατος,ὕδωρ,water,κοτύλαις δέκα,10,kotyle
-dioscorides-1-56-irinon,01M4BPDCDY23JQG576V17MEYFM,Dioscorides,"1.56.1,3-4",working,,μέλιτι,μέλι,honey,,,
-dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia
-dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,ξυλοβαλσάμου,ξυλοβάλσαμον,balsam wood,λίτρας πέντε οὐγγίας δύο,62,oungia
-dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,καλτάμου,κάλαμος,kalamos,λίτρας ἐννέα οὐγγίας δέκα,118,oungia
-dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,σμύρνης,σμύρνα,myrrh,χόνδρον,,
-dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,οἴνῳ παλαιῷ,οἶνος,wine,,,
-dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,λίτρας δέκα τέσσαρας,14,litra
-dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,ἴρεως,ἶρις,iris,ἴσον τῷ σταθμῷ,,
-dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,ἴρεως,ἶρις,iris,τὸν ἴσον σταθμὸν,,
-dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
-dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,σχοίνου,σχοῖνος,camel-grass,,,
-dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,καλάμου,κάλαμος,kalamos,,,
-dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,νάρδου Κελτικῆς,νάρδος κελτική,celtic nard,,,
-dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,σπάθης,σπάθη,palm spathe,,,
-dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,,,
-dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,μελιλώτου,μελίλωτον,melilot,,,
-dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,κόστου,κόστος,costus,,,
-dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,γλεύκους,γλεῦκος,must,,,
-dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,working,,στεμφύλων,στέμφυλα,grape pomace,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,ὀμφακίνου ἐλαίου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,βαλανίνου,βαλάνινον,balanos oil,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,ξυλοβαλσάμῳ,ξυλοβάλσαμον,balsam wood,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,σχοίνῳ,σχοῖνος,camel-grass,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,καλάμῳ,κάλαμος,kalamos,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,ἀμαράκῳ,ἀμάρακος,marjoram,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,κόστῳ,κόστος,costus,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,ἀμώμῳ,ἄμωμον,amomum,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,νάρδῳ,νάρδος,nard,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,κασσίᾳ,κασία,cassia,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,καρπῷ βαλσάμου,καρποβάλσαμον,balsam fruit,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,σμύρνῃ,σμύρνα,myrrh,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,alternative,κινάμωμον,κινάμωμον,cinnamon,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,working,,μέλι,μέλι,honey,,,
-dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,working,,οἶνος,οἶνος,wine,,,
-dioscorides-1-58-3-megalleion,01M4BPDCDZR3F5D3NY96AXAQ80,Dioscorides,1.58.3,ingredients,,ῥητίνη,ῥητίνη,resin,,,
-dioscorides-1-58-3-megalleion,01M4BPDCDZR3F5D3NY96AXAQ80,Dioscorides,1.58.3,ingredients,,τερεβινθίνη,τερμινθίνη,terebinth resin,,,
-dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,ἀμυγδάλων,ἀμύγδαλον,almonds,,,
-dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
-dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,,,
-dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,σχοίνου,σχοῖνος,camel-grass,,,
-dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,καλάμου,κάλαμος,kalamos,,,
-dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,μέλιτος,μέλι,honey,,,
-dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,οἴνου,οἶνος,wine,,,
-dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,σμύρνης,σμύρνα,myrrh,,,
-dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,βαλσάμου καρποῦ,καρποβάλσαμον,balsam fruit,,,
-dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,χαλβάνης,χαλβάνη,galbanum,,,
-dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,ῥητίνης,ῥητίνη,resin,,,
-dioscorides-1-59-3-mendesion,01M4BPDCE0VZXPV235YVZHMM5Q,Dioscorides,1.59.3,ingredients,,βαλανίνου ἐλαίου,βαλάνινον,balanos oil,,,
-dioscorides-1-59-3-mendesion,01M4BPDCE0VZXPV235YVZHMM5Q,Dioscorides,1.59.3,ingredients,,σμύρνης,σμύρνα,myrrh,,,
-dioscorides-1-59-3-mendesion,01M4BPDCE0VZXPV235YVZHMM5Q,Dioscorides,1.59.3,ingredients,,κασσίας,κασία,cassia,,,
-dioscorides-1-59-3-mendesion,01M4BPDCE0VZXPV235YVZHMM5Q,Dioscorides,1.59.3,ingredients,,ῥητίνης,ῥητίνη,resin,,,
-dioscorides-1-59-3-mendesion,01M4BPDCE0VZXPV235YVZHMM5Q,Dioscorides,1.59.3,ingredients,alternative,κινάμωμον,κινάμωμον,cinnamon,,,
-dioscorides-1-60-stakte,01M4BPDCE16G6KTAP4RJQHYCVS,Dioscorides,1.60,ingredients,,σμύρνης,σμύρνα,myrrh,,,
-dioscorides-1-60-stakte,01M4BPDCE16G6KTAP4RJQHYCVS,Dioscorides,1.60,working,,ὕδατος,ὕδωρ,water,ὀλίγου,,
-dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,ἐλαίου βαλανίνου,βαλάνινον,balanos oil,,,
-dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,ξυλοβαλσάμου,ξυλοβάλσαμον,balsam wood,,,
-dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,καλάμου,κάλαμος,kalamos,,,
-dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,σχοίνου,σχοῖνος,camel-grass,,,
-dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,κιναμώμου,κινάμωμον,cinnamon,,,
-dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,βαλσάμου καρποῦ,καρποβάλσαμον,balsam fruit,,,
-dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,σμύρνης,σμύρνα,myrrh,τετραπλασίονος παράὰ τὸ κινάμωμον,,
-dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,μέλι,μέλι,honey,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,μαλαβαθρίνου φύλλου,μαλάβαθρον,malabathron,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,βαλανίνῳ ἐλαίῳ,βαλάνινον,balanos oil,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,ὀμφακίνῳ,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,σχοῖνος,σχοῖνος,camel-grass,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,κόστος,κόστος,costus,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,ἄμωμον,ἄμωμον,amomum,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,νάρδος,νάρδος,nard,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,σμύρνα,σμύρνα,myrrh,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,βάλσαμον,βάλσαμον,balsam,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,ὀμφακίνου ἐλαίου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,σχοίνου,σχοῖνος,camel-grass,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,καλάμου,κάλαμος,kalamos,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,κόστου,κόστος,costus,,,
-dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,νάρδου,νάρδος,nard,,,
-dioscorides-1-63-iasmelaion,01M4BPDCE2VF3MP52PAPRN2Z4S,Dioscorides,1.63.apparatus,ingredients,,ἰοῦ,ἴον,violets,οὐγγίων βʹ,2,oungia
-dioscorides-1-63-iasmelaion,01M4BPDCE2VF3MP52PAPRN2Z4S,Dioscorides,1.63.apparatus,ingredients,,σησαμίνου ἐλαίου,σησάμινον,sesame oil,Ἰταλικῷ ξέστῃ,1,xestes
-dioscorides-1-63-malabathrinon,01M4BPDCE3HABZKDGR9CQP29WW,Dioscorides,1.63,ingredients,,σμύρνης,σμύρνα,myrrh,πλεῖον,,
-dioscorides-1-71-5-burned-resin-with-water,01M4BPDCE3YTYAKD46XMK2WT41,Dioscorides,1.71.5,ingredients,,ῥητίνης,ῥητίνη,resin,χοῦν,1,chous
-dioscorides-1-71-5-burned-resin-with-water,01M4BPDCE3YTYAKD46XMK2WT41,Dioscorides,1.71.5,working,,ὀμερίου ὕδατος,ὕδωρ,water,δύο δὲ χοέας,2,chous
-dioscorides-1-71-6-burned-resin-without-water,01M4BPDCE3ME53F7RVG93TN2ZS,Dioscorides,1.71.6,ingredients,,ῥητίνης,ῥητίνη,resin,,,
-dioscorides-1-71-6-burned-resin-without-water,01M4BPDCE3ME53F7RVG93TN2ZS,Dioscorides,1.71.6,ingredients,alternative,ξηρὰς,ῥητίνη,resin,,,
-paul-7-20-4,01M4BPDCEA23512PAYYV9E0X5N,Paul of Aegina,7.20.4,ingredients,,Ῥόδων,ῥόδον,rose,𐆄 γ,3,oungia
-paul-7-20-4,01M4BPDCEA23512PAYYV9E0X5N,Paul of Aegina,7.20.4,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον,Unripe-olive oil,ξ̸ Ἰταλικὸν α,1,xestes
-aetius-1-113,01M4BPDCDFETYPGEW719G50076,Aetius of Amida,1.113,ingredients,,ῥόδων,ῥόδον,rose,𐆄 γ,3,oungia
-aetius-1-113,01M4BPDCDFETYPGEW719G50076,Aetius of Amida,1.113,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον,Unripe-olive oil,ξέστης ἰταλικὸς εἷς,1,xestes
+recipe,recipe_ulid,author,locator,list,role,form,headword,rendering,printed,quantity,unit,occurrence
+dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,κυπέρου,κύπερος,cyperus,ἡμίξεστον,0.5,xestes,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@κυπέρου
+dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,ἀρκευθίδος,ἀρκευθίς,juniper berries,τὸ αὐτό,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@ἀρκευθίδος
+dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,σταφίδος,σταφίς,raisins,μνᾶς δεκαδύο,12,mna,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@σταφίδος
+dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,ῥητίνης,ῥητίνη,resin,μνᾶς πέντε,5,mna,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@ῥητίνης
+dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,καλάμου ἀρωματίτου,κάλαμος,kalamos,ἑκάστου μνᾶν μίαν,1,mna,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@καλάμου
+dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,ἑκάστου μνᾶν μίαν,1,mna,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@ἀσπαλάθου
+dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,σχοίνου,σχοῖνος,camel-grass,ἑκάστου μνᾶν μίαν,1,mna,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@σχοίνου
+dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς δεκαδύο,12,drachme,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@σμύρνης
+dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,οἴνου παλαιοῦ,οἶνος,wine,ξέστας ἐννέα,9,xestes,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@οἴνου
+dioscorides-1-25-kyphi,01M4BPDCDGX1Y8JX3TSD892DTT,Dioscorides,1.25.1-2,ingredients,,μέλιτος,μέλι,honey,μνᾶς δύο,2,mna,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@μέλιτος
+dioscorides-1-30-omphakinon,01M4BPDCDJ3PT76YQPMDEXE0X3,Dioscorides,1.30.1-2,ingredients,,τοῦ παρόντος τὸ κρεῖσσον,ἔλαιον,oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.2@τοῦ
+dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,ἔλαιον,ἔλαιον,oil,κοτύλαι ἑκατόν,100,kotyle,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.3@ἔλαιον[2]
+dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,τήλεως,τῆλις,fenugreek,δραχμὰς πεντήκοντα,50,drachme,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@τήλεως
+dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,ὕδατι,ὕδωρ,water,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@ὕδατι
+dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,δαλὸν πιτυίνης,πίτυς,Pine firebrand,τὰς ἴσας ὁλκὰς,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@δαλὸν
+dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,μελιλώτου,μελίλωτον,Melilot garlands,ὁλκῶν ἕνδεκα,11,holke,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@μελιλώτου
+dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,ingredients,,ἴρεως,ἶρις,iris,τῆς ἴσης,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@ἴρεως
+dioscorides-1-30-whitened-oil,01M4BPDCDJ30SCA33GZ62XSW7S,Dioscorides,1.30.3-4,working,,οἴνῳ παλαιῷ,οἶνος,wine,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@οἴνῳ
+dioscorides-1-30-3-agrias-elaias,01M4BPDCDHK2693YG02E6M09Z9,Dioscorides,1.30.3,ingredients,,ἀγρίας ἐλαίας,ἐλαία,Wild olives,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.3@ἀγρίας
+dioscorides-1-30-5-sikyonion,01M4BPDCDHR3JX2Z8GSE5R8WDC,Dioscorides,1.30.5,ingredients,,ἐλαίου,ἔλαιον,oil,χοέα ἕνα,1,chous,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.5@ἐλαίου
+dioscorides-1-30-5-sikyonion,01M4BPDCDHR3JX2Z8GSE5R8WDC,Dioscorides,1.30.5,working,,ὕδατος,ὕδωρ,water,ἡμίχουν,0.5,chous,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.5@ὕδατος
+dioscorides-1-31-thalloi-oil,01M4BPDCDKD7EX2HP4F12NN0FQ,Dioscorides,1.31,ingredients,,λίπους τῶν θαλλῶν,θαλλός,young shoots,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.31@λίπους
+dioscorides-1-32-kikinon,01M4BPDCDKSG6V2G8K92CARPT5,Dioscorides,1.32.1,ingredients,,κροτώνων,κρότων,castor seeds,ὅσον ἂν δόξῃ,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.1@κροτώνων
+dioscorides-1-32-kikinon,01M4BPDCDKSG6V2G8K92CARPT5,Dioscorides,1.32.1,working,,ὕδωρ,ὕδωρ,water,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.1@ὕδωρ
+dioscorides-1-32-2-kikinon-aigyption,01M4BPDCDKRVV6QKG2HVSB4AXV,Dioscorides,1.32.2,ingredients,,κρότωνας,κρότων,castor seeds,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.2@κρότωνας
+dioscorides-1-33-amygdalinon,01M4BPDCDMW1ZKNVVM4B5TJ6CT,Dioscorides,1.33,ingredients,,ἀμυγδάλων πικρῶν,ἀμύγδαλον,Bitter almonds,χοίνικας τέσσαρας,4,choinix,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.33.1@ἀμυγδάλων
+dioscorides-1-33-amygdalinon,01M4BPDCDMW1ZKNVVM4B5TJ6CT,Dioscorides,1.33,ingredients,,ὕδατος,ὕδωρ,water,κοτύλας δύο,2,kotyle,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.33.1@ὕδατος
+dioscorides-1-33-amygdalinon,01M4BPDCDMW1ZKNVVM4B5TJ6CT,Dioscorides,1.33,ingredients,,ὕδατος,ὕδωρ,water,κοτύλην μίαν,1,kotyle,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.33.1@ὕδατος[2]
+dioscorides-1-34-sesaminon-karyinon,01M4BPDCDMMXTN2ZW75BWQ4PDG,Dioscorides,1.34 (Wellmann 38.10),ingredients,,σησάμου,σήσαμον,sesame,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@σησάμου
+dioscorides-1-34-sesaminon-karyinon,01M4BPDCDMMXTN2ZW75BWQ4PDG,Dioscorides,1.34 (Wellmann 38.10),ingredients,,βασιλικῶν καρύων,κάρυον,Royal nuts,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@βασιλικῶν
+dioscorides-1-35-hyoskyaminon,01M4BPDCDMV1E49GN9S55ARY3D,Dioscorides,1.35,ingredients,,λευκὸν καρπὸν,ὑοσκύαμος,White henbane seed,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.35@λευκὸν
+dioscorides-1-35-hyoskyaminon,01M4BPDCDMV1E49GN9S55ARY3D,Dioscorides,1.35,ingredients,,ὕδατι,ὕδωρ,water,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.35@ὕδατι
+dioscorides-1-36-knidion,01M4BPDCDNRNSMR40RYR2818S8,Dioscorides,1.36 (Wellmann 39.1–5),ingredients,,Κνιδίου κόκκου,κόκκος Κνίδιος,cnidian berries,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.36@Κνιδίου
+dioscorides-1-37-raphaninon,01M4BPDCDPN2678VFT6HAHKP8P,Dioscorides,1.37 (Wellmann 39.5–10),ingredients,,σπέρματος,ῥάφανος,Radish seed,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.37@σπέρματος
+dioscorides-1-38-sinapinon,01M4BPDCDP30DE76E1T1X0ZKRF,Dioscorides,1.38,ingredients,,σινήπεως,σίναπι,mustard,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.38@σινήπεως
+dioscorides-1-38-sinapinon,01M4BPDCDP30DE76E1T1X0ZKRF,Dioscorides,1.38,ingredients,,ὕδατι,ὕδωρ,water,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.38@ὕδατι
+dioscorides-1-38-sinapinon,01M4BPDCDP30DE76E1T1X0ZKRF,Dioscorides,1.38,ingredients,,ἐλαίου,ἔλαιον,oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.38@ἐλαίου
+dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,,μυρσίνης,μυρσίνη,myrtle,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@μυρσίνης
+dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,ἴσον δὲ τῷ χυλῷ,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@ἐλαίου
+dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,ὕδατος,ὕδωρ,water,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@ὕδατος
+dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,ἐλαίου,ἔλαιον,oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@ἐλαίου[2]
+dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,σιδίοις,σίδιον,pomegranate rind,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@σιδίοις
+dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,κυπαρίσσῳ,κυπάρισσος,cypress,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@κυπαρίσσῳ
+dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,κυπέρῳ,κύπερος,cyperus,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@κυπέρῳ
+dioscorides-1-39-myrsininon,01M4BPDCDPG9VWTV33T7YKZG34,Dioscorides,1.39,ingredients,alternative,σχοίνῳ,σχοῖνος,camel-grass,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@σχοίνῳ
+dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,,δαφνίδων,δαφνίς,bay berries,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@δαφνίδων
+dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,unripe-olive oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@ὀμφάκινον
+dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,κυπέρῳ,κύπερος,cyperus,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@κυπέρῳ
+dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,σχοίνῳ,σχοῖνος,camel-grass,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@σχοίνῳ
+dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,καλάμῳ,κάλαμος,kalamos,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@καλάμῳ
+dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,δάφνης φύλλα,δάφνη,bay leaves,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@δάφνης
+dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,στύρακα,στύραξ,storax,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@στύρακα
+dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,ingredients,alternative,μυρσίνην,μυρσίνη,Myrtle,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@μυρσίνην
+dioscorides-1-40-daphninon,01M4BPDCDP6X75JAVXKZRVDQDV,Dioscorides,1.40,working,,ὕδατος,ὕδωρ,water,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@ὕδατος
+dioscorides-1-41-schininon,01M4BPDCDQK89CGQ99DNEK3W9K,Dioscorides,1.41,ingredients,,σχίνου,σχῖνος,Mastic-tree fruit,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.41@σχίνου
+dioscorides-1-42-mastichinon,01M4BPDCDQDBT1FEBW1T6V2HS7,Dioscorides,1.42.1,ingredients,,μαστίχης,μαστίχη,mastic,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.42.1@μαστίχης
+dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,,ῥόδων,ῥόδον,petals of unmoistened roses,ἀριθμῷ χιλίων,1000,count,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@ῥόδων
+dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας εἴκοσι οὐγγίας πέντε,245,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@ἐλαίου
+dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,,σχοίνου,σχοῖνος,camel-grass,λίτρας πέντε οὐγγίας ὀκτώ,68,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@σχοίνου
+dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ὀκτὼ οὐγγίας τρεῖς,99,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@ἐλαίου[2]
+dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,alternative,κάλαμον,κάλαμος,kalamos,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.3@κάλαμον
+dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,alternative,ἀσπάλαθον,ἀσπάλαθος,aspalathos,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.3@ἀσπάλαθον
+dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,alternative,ἄγχουσαν,ἄγχουσα,anchousa,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.3@ἄγχουσαν
+dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,ingredients,alternative,ἅλας,ἅλς,salt,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.3@ἅλας
+dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,working,,ὕδατι,ὕδωρ,water,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@ὕδατι
+dioscorides-1-43-rhodinon,01M4BPDCDQ9WPVZCX99W6GE3XX,Dioscorides,1.43,working,,μέλιτι,μέλι,honey,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@μέλιτι
+dioscorides-1-44-elatinon,01M4BPDCDRC78V0F5MC5Y3XTJT,Dioscorides,1.44,ingredients,,ἐλάτην,σπάθη,palm spathe,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.44@ἐλάτην
+dioscorides-1-44-elatinon,01M4BPDCDRC78V0F5MC5Y3XTJT,Dioscorides,1.44,ingredients,,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,unripe-olive oil,ἑκάτερα ἰσόσταθμα,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.44@ὀμφάκινον
+dioscorides-1-45-melinon,01M4BPDCDSWT122R09HGEA8706,Dioscorides,1.45.1,ingredients,,ἐλαίου,ἔλαιον,oil,ξέστας ἕξ,6,xestes,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@ἐλαίου
+dioscorides-1-45-melinon,01M4BPDCDSWT122R09HGEA8706,Dioscorides,1.45.1,ingredients,,ὕδατος,ὕδωρ,water,ξέστας δέκα,10,xestes,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@ὕδατος
+dioscorides-1-45-melinon,01M4BPDCDSWT122R09HGEA8706,Dioscorides,1.45.1,ingredients,,σπάθης,σπάθη,palm spathe,οὐγγίας τρεῖς,3,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@σπάθης
+dioscorides-1-45-melinon,01M4BPDCDSWT122R09HGEA8706,Dioscorides,1.45.1,ingredients,,σχοίνου,σχοῖνος,camel-grass,οὐγγίαν μίαν,1,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@σχοίνου
+dioscorides-1-45-melinon,01M4BPDCDSWT122R09HGEA8706,Dioscorides,1.45.1,ingredients,,κυδώνια μῆλα,κυδώνιον μῆλον,quinces,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@κυδώνια
+dioscorides-1-45-2-melinon-allos,01M4BPDCDRKXD4J161K6H5B9W2,Dioscorides,1.45.2,ingredients,,μῆλα,κυδώνιον μῆλον,quinces,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.2@μῆλα
+dioscorides-1-45-2-melinon-allos,01M4BPDCDRKXD4J161K6H5B9W2,Dioscorides,1.45.2,ingredients,,ἐλαίῳ,ἔλαιον,oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.2@ἐλαίῳ
+dioscorides-1-46-oinanthinon,01M4BPDCDS96SWZVGGHCJR3W3F,Dioscorides,1.46,ingredients,,οἰνάνθην,οἰνάνθη,vine flowers,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.46@οἰνάνθην
+dioscorides-1-46-oinanthinon,01M4BPDCDS96SWZVGGHCJR3W3F,Dioscorides,1.46,ingredients,,ὀμφάκινον ἔλαιον,ἔλαιον ὀμφάκινον,unripe-olive oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.46@ὀμφάκινον
+dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,,τήλεως,τῆλις,fenugreek,λίτρας ἐννέα,9,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@τήλεως
+dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας πέντε,5,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@ἐλαίου
+dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,,καλάμου,κάλαμος,kalamos,λίτραν μίαν,1,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@καλάμου
+dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,,κυπέρου,κύπερος,cyperus,λίτρας δύο,2,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@κυπέρου
+dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,alternative,καρδάμωμον,καρδάμωμον,cardamom,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@καρδάμωμον
+dioscorides-1-47-telinon,01M4BPDCDS8TV8E7V9X568JCC8,Dioscorides,1.47,ingredients,alternative,ξυλοβάλσαμον,ξυλοβάλσαμον,balsam wood,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@ξυλοβάλσαμον
+dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,ἑρπύλλου,ἕρπυλλος,wild thyme,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@ἑρπύλλου
+dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,κασσίας,κασία,cassia,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@κασσίας
+dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,ἁβροτόνου,ἀβρότονον,southernwood,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@ἁβροτόνου
+dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,σισυμβρίου ἄνθους,σισύμβριον,water-mint,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@σισυμβρίου
+dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,μυρσίνης πετάλων,μυρσίνη,myrtle,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@μυρσίνης
+dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,σαμψούχου,σάμψυχον,marjoram,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@σαμψούχου
+dioscorides-1-48-sampsouchinon,01M4BPDCDTAGK1ZR5BBR2W6SSP,Dioscorides,1.48,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,τοσοῦτον,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@ἐλαίου
+dioscorides-1-49-okiminon,01M4BPDCDT6Q4RT2ZCEKQ2RQ2N,Dioscorides,1.49,ingredients,,ἐλαίου,ἔλαιον,Aromatised oil,λίτρας εἴκοσι,20,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ἐλαίου
+dioscorides-1-49-okiminon,01M4BPDCDT6Q4RT2ZCEKQ2RQ2N,Dioscorides,1.49,ingredients,,ὠκίμου,ὤκιμον,basil,λίτρας ἕνδεκα οὐγγίας ὀκτὼ,140,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ὠκίμου
+dioscorides-1-49-okiminon,01M4BPDCDT6Q4RT2ZCEKQ2RQ2N,Dioscorides,1.49,ingredients,,ἐλαίου,ἔλαιον,Aromatised oil,τὸ ἴσον πλῆθος,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ἐλαίου[2]
+dioscorides-1-49-okiminon,01M4BPDCDT6Q4RT2ZCEKQ2RQ2N,Dioscorides,1.49,ingredients,,ὠκίμου,ὤκιμον,basil,τὸ ἴσον,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ὠκίμου[2]
+dioscorides-1-49-okiminon,01M4BPDCDT6Q4RT2ZCEKQ2RQ2N,Dioscorides,1.49,ingredients,alternative,ὀμφοκίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ὀμφοκίνου
+dioscorides-1-50-habrotoninon,01M4BPDCDVAQ70WQ6QA8HBX7EK,Dioscorides,1.50,ingredients,,ἐλαίου,ἔλαιον,Aromatised oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.50@ἐλαίου
+dioscorides-1-50-habrotoninon,01M4BPDCDVAQ70WQ6QA8HBX7EK,Dioscorides,1.50,ingredients,,ἁβροτόνου φύλλων,ἀβρότονον,southernwood,λίτρας ὀκτὼ,8,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.50@ἁβροτόνου
+dioscorides-1-51-anethinon,01M4BPDCDVM7W878ZMR7VJ59MV,Dioscorides,1.51,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ὀκτὼ οὐγγίας ἐννέα,105,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.51@ἐλαίου
+dioscorides-1-51-anethinon,01M4BPDCDVM7W878ZMR7VJ59MV,Dioscorides,1.51,ingredients,,ἀνήθου ἄνθους,ἄνηθον,dill,λίτρας ἕνδεκα οὐγγίας ὀκτὼ,140,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.51@ἀνήθου
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@ἐλαίου
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,καλάμου,κάλαμος,kalamos,λίτρας πέντε οὐγγίας δέκα,70,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@καλάμου
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς πέντε,5,drachme,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@σμύρνης
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,οἴνῳ εὐώδει,οἶνος,wine,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@οἴνῳ
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,λιτρῶν τριῶν οὐγγιῶν ἓξ,42,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@καρδαμώμου
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,oil,τρεῖς ἥμισυ λίτρας,3.5,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@ἐλαίου[2]
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,κρίνα,κρίνον,lily,ἀριθμῷ χίλια,1000,count,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@κρίνα
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,ἅλας,ἅλς,salt,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.2@ἅλας
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,ἐλαίου,ἔλαιον,oil,τὸ ἴσον πλῆθος τῷ προτέρῳ,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.2@ἐλαίου
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,ὁλκὰς δέκα,10,holke,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.2@καρδαμώμου
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,κρίνα,κρίνον,lily,χίλια,1000,count,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.3@κρίνα
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς δύο,2,drachme,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@σμύρνης
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,κιναμώμου,κινάμωμον,cinnamon,δραχμὰς δύο,2,drachme,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@κιναμώμου
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,,κρόκου,κρόκος,saffron,δραχμάς δέκα,10,drachme,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@κρόκου
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,alternative,κρόκου,κρόκος,saffron,τὸ ἴσον,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@κρόκου[2]
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,alternative,κιναμώμου,κινάμωμον,cinnamon,τὸ ἴσον,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@κιναμώμου[2]
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,ingredients,alternative,ὕδατος,ὕδωρ,water,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.2@ὕδατος
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,working,,ὕδατι ὀμερίῳ,ὕδωρ,Rainwater,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@ὕδατι
+dioscorides-1-52-sousinon,01M4BPDCDWVAYQJ74Z7N7RNA63,Dioscorides,1.52.1-4,working,,μέλιτι,μέλι,honey,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@μέλιτι
+dioscorides-1-52-5-sousinon-haploun,01M4BPDCDVQE73RM177RTYPCW7,Dioscorides,1.52.5,ingredients,,ἐλαίου βαλανίνου,βαλάνινον,balanos oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.5@ἐλαίου
+dioscorides-1-52-5-sousinon-haploun,01M4BPDCDVQE73RM177RTYPCW7,Dioscorides,1.52.5,ingredients,alternative,ἄλλου,ἔλαιον,oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.5@ἄλλου
+dioscorides-1-52-5-sousinon-haploun,01M4BPDCDVQE73RM177RTYPCW7,Dioscorides,1.52.5,ingredients,,κρίνου,κρίνον,lily,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.5@κρίνου
+dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ἐλαίου
+dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,λίτρας ἓξ οὐγγίας δύο,74,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ἀσπαλάθου
+dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,καλάμου,κάλαμος,kalamos,λίτρας πέντε οὐγγίας ὀκτὼ,68,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@καλάμου
+dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,σμύρνης,σμύρνα,myrrh,χόνδρον,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@σμύρνης
+dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,οἴνῳ παλαιῷ εὐώδει,οἶνος,wine,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@οἴνῳ
+dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ἐλαίου[2]
+dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,ingredients,,ναρκίσσου,νάρκισσος,narcissus,ὡς ὅτι πλεῖστον,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ναρκίσσου
+dioscorides-1-53-narkissinon,01M4BPDCDWHHXC8DRF93PWERJR,Dioscorides,1.53,working,,ὕδατι,ὕδωρ,water,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ὕδατι
+dioscorides-1-54-krokinon,01M4BPDCDX58FWHMGV1X612S2R,Dioscorides,1.54,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,λίτρας τρεῖς ἥμισυ,3.5,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@ἐλαίου
+dioscorides-1-54-krokinon,01M4BPDCDX58FWHMGV1X612S2R,Dioscorides,1.54,ingredients,,κρόκου,κρόκος,saffron,δραχμὰς πεντήκοντα,50,drachme,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@κρόκου
+dioscorides-1-54-krokinon,01M4BPDCDX58FWHMGV1X612S2R,Dioscorides,1.54,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,τὸ ἴσον πλῆθος,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@ἐλαίου[2]
+dioscorides-1-54-krokinon,01M4BPDCDX58FWHMGV1X612S2R,Dioscorides,1.54,ingredients,,σμύρνης,σμύρνα,myrrh,δραχμὰς τεσσαράκοντα,40,drachme,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@σμύρνης
+dioscorides-1-54-krokinon,01M4BPDCDX58FWHMGV1X612S2R,Dioscorides,1.54,ingredients,alternative,ἐλαίῳ,ἔλαιον,oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@ἐλαίῳ
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,μέρος ἕν,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ἐλαίου
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,λίτρας πέντε ἥμισυ,5.5,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ἀσπαλάθου
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,καλάμου,κάλαμος,kalamos,λίτρας ἓξ ἥμισυ,6.5,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@καλάμου
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,σμύρνης,σμύρνα,myrrh,λίτραν μίαν,1,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@σμύρνης
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,λίτρας τρεῖς οὐγγίας ἐννέα,45,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@καρδαμώμου
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ἐλαίου[2]
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,οἴνῳ παλαιῷ εὐώδει,οἶνος,wine,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@οἴνῳ
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,εἴκοσιν ὀκτὼ τοῦ ἐλαίου λίτρας,28,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ἐλαίου[3]
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἄνθους κύπρου,κύπρου ἄνθος,henna blossom,λίτρας τεσσαράκοντα ἓξ οὐγγίας ὀκτώ,560,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.2@ἄνθους
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,,ἄνθους,κύπρου ἄνθος,henna blossom,τὸ ἴσον,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.2@ἄνθους[2]
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,ingredients,alternative,κινάμωμον,κινάμωμον,cinnamon,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.3@κινάμωμον
+dioscorides-1-55-kyprinon,01M4BPDCDX4CJR62KCWQWY1GCP,Dioscorides,1.55,working,,ὕδατος ὀμβρίου,ὕδωρ,water,μέρος ἓν ἥμισυ,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ὕδατος
+dioscorides-1-56-irinon,01M4BPDCDY23JQG576V17MEYFM,Dioscorides,"1.56.1,3-4",ingredients,,σπάθης,σπάθη,palm spathe,λίτρας ἓξ οὐγγίας ὀκτώ,80,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@σπάθης
+dioscorides-1-56-irinon,01M4BPDCDY23JQG576V17MEYFM,Dioscorides,"1.56.1,3-4",ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@ἐλαίου
+dioscorides-1-56-irinon,01M4BPDCDY23JQG576V17MEYFM,Dioscorides,"1.56.1,3-4",ingredients,,ἴρεως,ἶρις,iris,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@ἴρεως
+dioscorides-1-56-irinon,01M4BPDCDY23JQG576V17MEYFM,Dioscorides,"1.56.1,3-4",working,,ὕδατος,ὕδωρ,water,κοτύλαις δέκα,10,kotyle,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@ὕδατος
+dioscorides-1-56-irinon,01M4BPDCDY23JQG576V17MEYFM,Dioscorides,"1.56.1,3-4",working,,μέλιτι,μέλι,honey,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@μέλιτι
+dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,ἐλαίου,ἔλαιον,oil,λίτρας ἐννέα οὐγγίας πέντε,113,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@ἐλαίου
+dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,ξυλοβαλσάμου,ξυλοβάλσαμον,balsam wood,λίτρας πέντε οὐγγίας δύο,62,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@ξυλοβαλσάμου
+dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,καλτάμου,κάλαμος,kalamos,λίτρας ἐννέα οὐγγίας δέκα,118,oungia,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@καλτάμου
+dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,σμύρνης,σμύρνα,myrrh,χόνδρον,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@σμύρνης
+dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,οἴνῳ παλαιῷ,οἶνος,wine,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@οἴνῳ
+dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,ἐλαίου,ἔλαιον,Prepared oil,λίτρας δέκα τέσσαρας,14,litra,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@ἐλαίου[2]
+dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,ἴρεως,ἶρις,iris,ἴσον τῷ σταθμῷ,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@ἴρεως
+dioscorides-1-56-2-irinon-allos,01M4BPDCDYGBAJDFAF9A912ZV3,Dioscorides,1.56.2,ingredients,,ἴρεως,ἶρις,iris,τὸν ἴσον σταθμὸν,,,
+dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@ἐλαίου
+dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,σχοίνου,σχοῖνος,camel-grass,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@σχοίνου
+dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,καλάμου,κάλαμος,kalamos,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@καλάμου
+dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,νάρδου Κελτικῆς,νάρδος κελτική,celtic nard,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@νάρδου
+dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,σπάθης,σπάθη,palm spathe,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@σπάθης
+dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,ἀσπαλάθου,ἀσπάλαθος,aspalathos,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@ἀσπαλάθου
+dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,μελιλώτου,μελίλωτον,melilot,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@μελιλώτου
+dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,κόστου,κόστος,costus,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@κόστου
+dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,ingredients,,γλεύκους,γλεῦκος,must,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@γλεύκους
+dioscorides-1-57-gleukinon,01M4BPDCDZF0FCWX3GB07R6DD6,Dioscorides,1.57,working,,στεμφύλων,στέμφυλα,grape pomace,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@στεμφύλων
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,ὀμφακίνου ἐλαίου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ὀμφακίνου
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,βαλανίνου,βαλάνινον,balanos oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@βαλανίνου
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,ξυλοβαλσάμῳ,ξυλοβάλσαμον,balsam wood,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ξυλοβαλσάμῳ
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,σχοίνῳ,σχοῖνος,camel-grass,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@σχοίνῳ
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,καλάμῳ,κάλαμος,kalamos,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@καλάμῳ
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,ἀμαράκῳ,ἀμάρακος,marjoram,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ἀμαράκῳ
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,κόστῳ,κόστος,costus,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@κόστῳ
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,ἀμώμῳ,ἄμωμον,amomum,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ἀμώμῳ
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,νάρδῳ,νάρδος,nard,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@νάρδῳ
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,κασσίᾳ,κασία,cassia,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@κασσίᾳ
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,καρπῷ βαλσάμου,καρποβάλσαμον,balsam fruit,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@καρπῷ
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,,σμύρνῃ,σμύρνα,myrrh,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@σμύρνῃ
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,ingredients,alternative,κινάμωμον,κινάμωμον,cinnamon,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@κινάμωμον
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,working,,μέλι,μέλι,honey,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@μέλι
+dioscorides-1-58-amarakinon,01M4BPDCE0SBB90DEBZ220BDB1,Dioscorides,1.58.1-2,working,,οἶνος,οἶνος,wine,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@οἶνος
+dioscorides-1-58-3-megalleion,01M4BPDCDZR3F5D3NY96AXAQ80,Dioscorides,1.58.3,ingredients,,ῥητίνη,ῥητίνη,resin,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@ῥητίνη
+dioscorides-1-58-3-megalleion,01M4BPDCDZR3F5D3NY96AXAQ80,Dioscorides,1.58.3,ingredients,,τερεβινθίνη,τερμινθίνη,terebinth resin,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@τερεβινθίνη
+dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,ἀμυγδάλων,ἀμύγδαλον,almonds,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@ἀμυγδάλων
+dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@ἐλαίου
+dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,καρδαμώμου,καρδάμωμον,cardamom,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@καρδαμώμου
+dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,σχοίνου,σχοῖνος,camel-grass,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@σχοίνου
+dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,καλάμου,κάλαμος,kalamos,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@καλάμου
+dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,μέλιτος,μέλι,honey,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@μέλιτος
+dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,οἴνου,οἶνος,wine,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@οἴνου
+dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,σμύρνης,σμύρνα,myrrh,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@σμύρνης
+dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,βαλσάμου καρποῦ,καρποβάλσαμον,balsam fruit,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@βαλσάμου
+dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,χαλβάνης,χαλβάνη,galbanum,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@χαλβάνης
+dioscorides-1-59-metopion,01M4BPDCE1AN5G24ZNJ32HZA7P,Dioscorides,1.59.1-2,ingredients,,ῥητίνης,ῥητίνη,resin,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@ῥητίνης
+dioscorides-1-59-3-mendesion,01M4BPDCE0VZXPV235YVZHMM5Q,Dioscorides,1.59.3,ingredients,,βαλανίνου ἐλαίου,βαλάνινον,balanos oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@βαλανίνου
+dioscorides-1-59-3-mendesion,01M4BPDCE0VZXPV235YVZHMM5Q,Dioscorides,1.59.3,ingredients,,σμύρνης,σμύρνα,myrrh,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@σμύρνης
+dioscorides-1-59-3-mendesion,01M4BPDCE0VZXPV235YVZHMM5Q,Dioscorides,1.59.3,ingredients,,κασσίας,κασία,cassia,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@κασσίας
+dioscorides-1-59-3-mendesion,01M4BPDCE0VZXPV235YVZHMM5Q,Dioscorides,1.59.3,ingredients,,ῥητίνης,ῥητίνη,resin,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@ῥητίνης
+dioscorides-1-59-3-mendesion,01M4BPDCE0VZXPV235YVZHMM5Q,Dioscorides,1.59.3,ingredients,alternative,κινάμωμον,κινάμωμον,cinnamon,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@κινάμωμον
+dioscorides-1-60-stakte,01M4BPDCE16G6KTAP4RJQHYCVS,Dioscorides,1.60,ingredients,,σμύρνης,σμύρνα,myrrh,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.60@σμύρνης
+dioscorides-1-60-stakte,01M4BPDCE16G6KTAP4RJQHYCVS,Dioscorides,1.60,working,,ὕδατος,ὕδωρ,water,ὀλίγου,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.60@ὕδατος
+dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,ἐλαίου βαλανίνου,βαλάνινον,balanos oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@ἐλαίου
+dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,ξυλοβαλσάμου,ξυλοβάλσαμον,balsam wood,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@ξυλοβαλσάμου
+dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,καλάμου,κάλαμος,kalamos,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@καλάμου
+dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,σχοίνου,σχοῖνος,camel-grass,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@σχοίνου
+dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,κιναμώμου,κινάμωμον,cinnamon,,,,
+dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,βαλσάμου καρποῦ,καρποβάλσαμον,balsam fruit,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@βαλσάμου
+dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,σμύρνης,σμύρνα,myrrh,τετραπλασίονος παράὰ τὸ κινάμωμον,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@σμύρνης
+dioscorides-1-61-kinamominon,01M4BPDCE1WSRRBBG5542MKX97,Dioscorides,1.61,ingredients,,μέλι,μέλι,honey,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@μέλι
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,μαλαβαθρίνου φύλλου,μαλάβαθρον,malabathron,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@μαλαβαθρίνου
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,βαλανίνῳ ἐλαίῳ,βαλάνινον,balanos oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@βαλανίνῳ
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,ὀμφακίνῳ,ἔλαιον ὀμφάκινον,unripe-olive oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@ὀμφακίνῳ
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,σχοῖνος,σχοῖνος,camel-grass,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@σχοῖνος
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,κόστος,κόστος,costus,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@κόστος
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,ἄμωμον,ἄμωμον,amomum,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@ἄμωμον
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,νάρδος,νάρδος,nard,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@νάρδος
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,σμύρνα,σμύρνα,myrrh,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@σμύρνα
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,,βάλσαμον,βάλσαμον,balsam,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@βάλσαμον
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,ὀμφακίνου ἐλαίου,ἔλαιον ὀμφάκινον,unripe-olive oil,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@ὀμφακίνου
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,σχοίνου,σχοῖνος,camel-grass,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@σχοίνου
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,καλάμου,κάλαμος,kalamos,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@καλάμου
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,κόστου,κόστος,costus,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@κόστου
+dioscorides-1-62-nardinon,01M4BPDCE23YCNS082KJC2BG2F,Dioscorides,1.62,ingredients,alternative,νάρδου,νάρδος,nard,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@νάρδου
+dioscorides-1-63-iasmelaion,01M4BPDCE2VF3MP52PAPRN2Z4S,Dioscorides,1.63.apparatus,ingredients,,ἰοῦ,ἴον,violets,οὐγγίων βʹ,2,oungia,
+dioscorides-1-63-iasmelaion,01M4BPDCE2VF3MP52PAPRN2Z4S,Dioscorides,1.63.apparatus,ingredients,,σησαμίνου ἐλαίου,σησάμινον,sesame oil,Ἰταλικῷ ξέστῃ,1,xestes,
+dioscorides-1-63-malabathrinon,01M4BPDCE3HABZKDGR9CQP29WW,Dioscorides,1.63,ingredients,,σμύρνης,σμύρνα,myrrh,πλεῖον,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.63@σμύρνης
+dioscorides-1-71-5-burned-resin-with-water,01M4BPDCE3YTYAKD46XMK2WT41,Dioscorides,1.71.5,ingredients,,ῥητίνης,ῥητίνη,resin,χοῦν,1,chous,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@ῥητίνης
+dioscorides-1-71-5-burned-resin-with-water,01M4BPDCE3YTYAKD46XMK2WT41,Dioscorides,1.71.5,working,,ὀμερίου ὕδατος,ὕδωρ,water,δύο δὲ χοέας,2,chous,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@ὀμερίου
+dioscorides-1-71-6-burned-resin-without-water,01M4BPDCE3ME53F7RVG93TN2ZS,Dioscorides,1.71.6,ingredients,,ῥητίνης,ῥητίνη,resin,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.6@ῥητίνης
+dioscorides-1-71-6-burned-resin-without-water,01M4BPDCE3ME53F7RVG93TN2ZS,Dioscorides,1.71.6,ingredients,alternative,ξηρὰς,ῥητίνη,resin,,,,urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.6@ξηρὰς
+paul-7-20-4,01M4BPDCEA23512PAYYV9E0X5N,Paul of Aegina,7.20.4,ingredients,,Ῥόδων,ῥόδον,rose,𐆄 γ,3,oungia,
+paul-7-20-4,01M4BPDCEA23512PAYYV9E0X5N,Paul of Aegina,7.20.4,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον,Unripe-olive oil,ξ̸ Ἰταλικὸν α,1,xestes,
+aetius-1-113,01M4BPDCDFETYPGEW719G50076,Aetius of Amida,1.113,ingredients,,ῥόδων,ῥόδον,rose,𐆄 γ,3,oungia,
+aetius-1-113,01M4BPDCDFETYPGEW719G50076,Aetius of Amida,1.113,ingredients,,ἐλαίου ὀμφακίνου,ἔλαιον,Unripe-olive oil,ξέστης ἰταλικὸς εἷς,1,xestes,

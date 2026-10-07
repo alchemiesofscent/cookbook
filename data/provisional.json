@@ -1,0 +1,101 @@
+{
+  "note": "What the Cookbook's files assert that is a claim or a normalization (the second layer of the 0.1 contract, docs/REQUIREMENTS.md), held here for now and marked provisional (REQ-004; Sean, 2026-10-07). Each entry names where the value lives today, what kind of assertion it is, who stands behind it and on what basis, where it is to live once the corpus can hold it, and the requirement that moves it. Nothing here is migrated yet; the build publishes this file with the data, and cookbook/checks.py fails if a file gains a field of this kind that is not listed.",
+  "fields": [
+    {
+      "where": "cookbook/recipes/*.json: kind",
+      "what": "a classification of the preparation (oil, unguent, incense, fat, other), used by the index's facet",
+      "claimant": "the Cookbook's drafting, 2026-10-06",
+      "basis": "none recorded",
+      "home": "a classification claim on the corpus recipe or its product term",
+      "requirement": "REQ-006"
+    },
+    {
+      "where": "cookbook/recipes/*.json: family; cookbook/families.json",
+      "what": "membership of a recipe family, and the family's English name",
+      "claimant": "perfume-tables corpus/clusters, as copied",
+      "basis": "the cluster files at the pinned commit",
+      "home": "cluster records in the corpus",
+      "requirement": "REQ-011"
+    },
+    {
+      "where": "cookbook/recipes/*.json: ingredients[].quantity, ingredients[].unit",
+      "what": "the amount as printed, parsed into a number and a unit; relative amounts ('the same number') resolved to a presumed figure where flagged",
+      "claimant": "the Cookbook's drafting, from perfume-tables preparations",
+      "basis": "the printed amount, kept beside it in ingredients[].printed",
+      "home": "the corpus recipe's quantities, anchored to the occurrence of the amount",
+      "requirement": "REQ-022"
+    },
+    {
+      "where": "cookbook/recipes/*.json: ingredients[].lemma",
+      "what": "the headword each ingredient form instantiates (a lemma assignment)",
+      "claimant": "perfume-tables preparations, corrected by the Cookbook's drafting (the corrections are flagged)",
+      "basis": "the form as it stands in the text",
+      "home": "lemma claims on the occurrence (2026-10-07d)",
+      "requirement": "REQ-022"
+    },
+    {
+      "where": "cookbook/recipes/*.json: ingredients[].rendering, ingredients[].name",
+      "what": "an English rendering chosen for one occurrence, overriding the headword's",
+      "claimant": "Alchemies of Scent (translation)",
+      "basis": "the approved English of the passage",
+      "home": "a renders claim on the occurrence",
+      "requirement": "REQ-009"
+    },
+    {
+      "where": "cookbook/lemmata.json: group",
+      "what": "the material group a headword is filed under in the filter (resin, flower, leaf …)",
+      "claimant": "the Cookbook's drafting, 2026-10-06",
+      "basis": "none recorded; each group mapped onto the corpus kinds in cookbook/REVIEW.md",
+      "home": "a classification claim on the material (Sean to rule on groups and kinds)",
+      "requirement": "REQ-006"
+    },
+    {
+      "where": "cookbook/lemmata.json: kind",
+      "what": "the record kind of a headword (raw material, processed material, product, tool, instrument)",
+      "claimant": "perfume-tables lexicon.json, as copied",
+      "basis": "the lexicon at the pinned commit",
+      "home": "the corpus term's kind",
+      "requirement": "REQ-005"
+    },
+    {
+      "where": "cookbook/lemmata.json: name, rendering, basis, renderings",
+      "what": "a headword's English name, the rendering shown, its basis, and the translators' renderings",
+      "claimant": "Alchemies of Scent and the translators named in each entry",
+      "basis": "perfume-tables lexicon.json and the approved English, as recorded in basis",
+      "home": "renders claims, one per translator and occurrence",
+      "requirement": "REQ-009"
+    },
+    {
+      "where": "cookbook/lemmata.json: lsj",
+      "what": "the headword's entry in LSJ (Logeion)",
+      "claimant": "the Cookbook's drafting",
+      "basis": "the headword spelling",
+      "home": "the corpus term's lexicon link (the lexicon's glosses as renderings, from extraction-pipeline)",
+      "requirement": "REQ-005"
+    },
+    {
+      "where": "cookbook/units.json: units[].grams, units[].litres, units[].authority",
+      "what": "the metric value of each ancient unit",
+      "claimant": "Hultsch 1882 for the litra and oungia (from the corpus's units); the project's Weights and Measures Calculator for the rest",
+      "basis": "for the mina and the volume units, a spreadsheet that cites no source ('conventional value')",
+      "home": "unit records in the corpus, each value a normalization claim with its authority",
+      "requirement": "REQ-008"
+    },
+    {
+      "where": "cookbook/units.json: oil_density",
+      "what": "0.91–0.92 g/ml, used to turn a volume of oil into grams on the family pages",
+      "claimant": "the Cookbook's drafting",
+      "basis": "an assumed figure, from neither units source",
+      "home": "a normalization claim (subject: olive oil; value with range; basis; claimant)",
+      "requirement": "REQ-007"
+    },
+    {
+      "where": "cookbook/identifications.json",
+      "what": "scholars' identifications of the headwords",
+      "claimant": "the scholars named in each entry, as extracted by extraction-pipeline (machine-extracted, unreviewed there)",
+      "basis": "a join of the pipeline's bundles on the bare Greek spelling, accents stripped",
+      "home": "the pipeline's claims read by id and joined through lemmas (2026-10-07f)",
+      "requirement": "REQ-010"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
- "note": "The Cookbook, Alchemies of Scent, preliminary edition, October 2026: every recipe record.",
+ "note": "The Cookbook, Alchemies of Scent, preliminary edition, October 2026: every recipe record. Which fields are working estimates or groupings, and where each will be recorded once settled: provisional.json.",
  "recipes": [
   {
    "id": "dioscorides-1-25-kyphi",
@@ -39,46 +39,18 @@
      "quantity": 0.5,
      "unit": "xestes",
      "note": "pounded and sifted",
-     "_amount": {
-      "printed": "ἡμίξεστον",
-      "en": "½ xestes",
-      "en_html": "½ <i>xestes</i>",
-      "metric": "274 ml",
-      "g": [
-       248.88500000000002,
-       251.62
-      ],
-      "ml": [
-       273.5,
-       273.5
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "cyperus",
-     "_tr": "kyperou",
-     "_slug": "kyperos",
-     "_share": 1.7377828230650951
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@κυπέρου"
+     }
     },
     {
      "form": "ἀρκευθίδος",
      "lemma": "ἀρκευθίς",
      "printed": "τὸ αὐτό",
      "note": "large; pounded and sifted",
-     "flag": "equal amount: no unit; the same as the cyperus, i.e. half a xestes",
-     "_amount": {
-      "printed": "τὸ αὐτό",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "juniper berries",
-     "_tr": "arkeuthidos",
-     "_slug": "arkeuthis"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@ἀρκευθίδος"
+     }
     },
     {
      "form": "σταφίδος",
@@ -87,23 +59,9 @@
      "quantity": 12,
      "unit": "mna",
      "note": "plump raisins with the seeds removed",
-     "_amount": {
-      "printed": "μνᾶς δεκαδύο",
-      "en": "12 mnai",
-      "en_html": "12 <i>mnai</i>",
-      "metric": "5.2 kg",
-      "g": [
-       5239.200000000001,
-       5239.200000000001
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "raisins",
-     "_tr": "staphidos",
-     "_slug": "staphis",
-     "_share": 36.38162162856574
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@σταφίδος"
+     }
     },
     {
      "form": "ῥητίνης",
@@ -112,23 +70,9 @@
      "quantity": 5,
      "unit": "mna",
      "note": "purified; melted before it is mixed into the boiled honey",
-     "_amount": {
-      "printed": "μνᾶς πέντε",
-      "en": "5 mnai",
-      "en_html": "5 <i>mnai</i>",
-      "metric": "2.2 kg",
-      "g": [
-       2183.0,
-       2183.0
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "resin",
-     "_tr": "rhetines",
-     "_slug": "rhetine",
-     "_share": 15.159009011902388
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@ῥητίνης"
+     }
     },
     {
      "form": "καλάμου ἀρωματίτου",
@@ -137,23 +81,10 @@
      "quantity": 1,
      "unit": "mna",
      "note": "aromatic reed; pounded and sifted",
-     "_amount": {
-      "printed": "ἑκάστου μνᾶν μίαν",
-      "en": "1 mna",
-      "en_html": "1 <i>mna</i>",
-      "metric": "437 g",
-      "g": [
-       436.6,
-       436.6
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamou aromatitou",
-     "_slug": "kalamos",
-     "_share": 3.031801802380478
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@καλάμου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@ἀρωματίτου"
+     }
     },
     {
      "form": "ἀσπαλάθου",
@@ -162,23 +93,9 @@
      "quantity": 1,
      "unit": "mna",
      "note": "pounded and sifted",
-     "_amount": {
-      "printed": "ἑκάστου μνᾶν μίαν",
-      "en": "1 mna",
-      "en_html": "1 <i>mna</i>",
-      "metric": "437 g",
-      "g": [
-       436.6,
-       436.6
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "aspalathos",
-     "_tr": "aspalathou",
-     "_slug": "aspalathos",
-     "_share": 3.031801802380478
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@ἀσπαλάθου"
+     }
     },
     {
      "form": "σχοίνου",
@@ -187,23 +104,9 @@
      "quantity": 1,
      "unit": "mna",
      "note": "pounded and sifted",
-     "_amount": {
-      "printed": "ἑκάστου μνᾶν μίαν",
-      "en": "1 mna",
-      "en_html": "1 <i>mna</i>",
-      "metric": "437 g",
-      "g": [
-       436.6,
-       436.6
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "camel-grass",
-     "_tr": "schoinou",
-     "_slug": "schoinos",
-     "_share": 3.031801802380478
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@σχοίνου"
+     }
     },
     {
      "form": "σμύρνης",
@@ -212,23 +115,9 @@
      "quantity": 12,
      "unit": "drachme",
      "note": "ground with the raisins and the wine",
-     "_amount": {
-      "printed": "δραχμὰς δεκαδύο",
-      "en": "12 drachmai",
-      "en_html": "12 <i>drachmai</i>",
-      "metric": "40–41 g",
-      "g": [
-       40.2,
-       41.160000000000004
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna",
-     "_share": 0.28248670939266574
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@σμύρνης"
+     }
     },
     {
      "form": "οἴνου παλαιοῦ",
@@ -237,26 +126,10 @@
      "quantity": 9,
      "unit": "xestes",
      "note": "aged; the raisins and myrrh are ground with it",
-     "_amount": {
-      "printed": "ξέστας ἐννέα",
-      "en": "9 xestai",
-      "en_html": "9 <i>xestai</i>",
-      "metric": "4.9 l",
-      "g": [
-       4479.93,
-       4529.16
-      ],
-      "ml": [
-       4923.0,
-       4923.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "wine",
-     "_tr": "oinou palaiou",
-     "_slug": "oinos",
-     "_share": 31.28009081517171
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@οἴνου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@παλαιοῦ"
+     }
     },
     {
      "form": "μέλιτος",
@@ -265,23 +138,9 @@
      "quantity": 2,
      "unit": "mna",
      "note": "boiled to a glue-like consistency",
-     "_amount": {
-      "printed": "μνᾶς δύο",
-      "en": "2 mnai",
-      "en_html": "2 <i>mnai</i>",
-      "metric": "873 g",
-      "g": [
-       873.2,
-       873.2
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "honey",
-     "_tr": "melitos",
-     "_slug": "meli",
-     "_share": 6.063603604760956
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@μέλιτος"
+     }
     }
    ],
    "steps": [
@@ -299,7 +158,7 @@
      "verb": "mix",
      "note": {
       "label": "The other ingredients",
-      "text": "½ xestes each of cyperus and juniper berries, and 1 mna each of aromatic reed, aspalathos and rush; the resin and honey go in later."
+      "text": "½ xestes of cyperus and the same amount of juniper berries (Dioscorides says only \"the same\"), and 1 mna each of aromatic reed, aspalathos and rush; the resin and honey go in later."
      },
      "_html": "Pound and sift the other ingredients and mix them into the raisin paste."
     },
@@ -331,6 +190,12 @@
     "The opening on its use (pleasing to the gods, used by the Egyptian priests, mixed into antidotes, given to asthmatics in drink) stands in this chapter and stays with the recipe.",
     "Wellmann prints the section number 2 inside a sentence (ἐκγιγαρτίσας τὴν σταφίδα 2 κόψον); the whole chapter is one recipe, so nothing is cut.",
     "Reader pass: the nine plain steps are grouped into five; the honey and resin steps are merged."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@κῦφι",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.2@ὀστράκινον"
+    }
    ]
   },
   {
@@ -370,19 +235,10 @@
      "lemma": "ἔλαιον",
      "note": "the best oil available",
      "use": "to imitate aged oil",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "tou parontos to kreisson",
-     "_slug": "elaion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.2@τοῦ",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.2@κρεῖσσον"
+     }
     }
    ],
    "steps": [
@@ -421,8 +277,7 @@
      "form": "πτισάνης χυλῷ",
      "lemma": "πτισάνη",
      "printed": "ἴσῳ",
-     "note": "barley-gruel liquid, drunk with a cotyle of the oil as a purge; perfume-tables lemma χυλός (juice) changed to πτισάνη, the substance",
-     "flag": "equal amount: no unit; equal to the cotyle of oil"
+     "note": "barley-gruel liquid, drunk with a cotyle of the oil as a purge; perfume-tables lemma χυλός (juice) changed to πτισάνη, the substance"
     },
     {
      "form": "ὕδατι",
@@ -441,7 +296,12 @@
     "The doses in the uses passage (a cotyle of oil as a purge, six cyathoi boiled with rue) are of the oil itself and are not listed as ingredients.",
     "Section 6 of the chapter (grime from baths, palaestra, gymnasium walls and statues) belongs to none of the four recipes and is left out of all of them."
    ],
-   "flag": "perfume-tables gives the locator as 1.30, overlapping the three later recipes of the chapter; cut to 1.30.1-2. The only procedure in it is the imitation of aged oil, not a preparation of omphakinon."
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.1@ἔλαιον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.2@δύναμιν"
+    }
+   ]
   },
   {
    "id": "dioscorides-1-30-whitened-oil",
@@ -490,26 +350,9 @@
      "quantity": 100,
      "unit": "kotyle",
      "note": "pale in colour and no more than a year old",
-     "_amount": {
-      "printed": "κοτύλαι ἑκατόν",
-      "en": "100 kotylai",
-      "en_html": "100 <i>kotylai</i>",
-      "metric": "27.4 l",
-      "g": [
-       24934.000000000004,
-       25208.000000000004
-      ],
-      "ml": [
-       27400.000000000004,
-       27400.000000000004
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaion",
-     "_slug": "elaion",
-     "_share": 99.18193006587997
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.3@ἔλαιον[2]"
+     }
     },
     {
      "form": "τήλεως",
@@ -518,63 +361,29 @@
      "quantity": 50,
      "unit": "drachme",
      "note": "clean; soaked soft in warm water",
-     "_amount": {
-      "printed": "δραχμὰς πεντήκοντα",
-      "en": "50 drachmai",
-      "en_html": "50 <i>drachmai</i>",
-      "metric": "168–172 g",
-      "g": [
-       167.5,
-       171.5
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "fenugreek",
-     "_tr": "teleos",
-     "_slug": "telis",
-     "_share": 0.6705491263278949
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@τήλεως"
+     }
     },
     {
      "form": "ὕδατι",
      "lemma": "ὕδωρ",
      "note": "warm; goes into the oil with the fenugreek, not drained off",
      "use": "for soaking the fenugreek",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydati",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@ὕδατι"
+     }
     },
     {
      "form": "δαλὸν πιτυίνης",
      "lemma": "πίτυς",
      "printed": "τὰς ἴσας ὁλκὰς",
      "note": "a firebrand of the most resinous pine, split into fine pieces",
-     "flag": "equal weight: no unit; presumably equal to the fifty drachmai of fenugreek",
      "name": "Pine firebrand",
-     "_amount": {
-      "printed": "τὰς ἴσας ὁλκὰς",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Pine firebrand",
-     "_tr": "dalon pityines",
-     "_slug": "pitys"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@δαλὸν",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@πιτυίνης"
+     }
     },
     {
      "form": "μελιλώτου",
@@ -585,44 +394,19 @@
      "note": "dried melilot garlands",
      "name": "Melilot garlands",
      "use": "laid in the bottom of the storage vessel",
-     "_amount": {
-      "printed": "ὁλκῶν ἕνδεκα",
-      "en": "11 holkai",
-      "en_html": "11 <i>holkai</i>",
-      "metric": "37–38 g",
-      "g": [
-       36.85,
-       37.730000000000004
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Melilot garlands",
-     "_tr": "melilotou",
-     "_slug": "meliloton",
-     "_share": 0.1475208077921369
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@μελιλώτου"
+     }
     },
     {
      "form": "ἴρεως",
      "lemma": "ἶρις",
      "printed": "τῆς ἴσης",
      "note": "with the melilot",
-     "flag": "equal amount: no unit; equal to the melilot, eleven holkai",
      "use": "laid in the bottom of the storage vessel",
-     "_amount": {
-      "printed": "τῆς ἴσης",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "iris",
-     "_tr": "ireos",
-     "_slug": "iris"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@ἴρεως"
+     }
     }
    ],
    "working": [
@@ -630,21 +414,11 @@
      "form": "οἴνῳ παλαιῷ",
      "lemma": "οἶνος",
      "note": "aged",
-     "flag": "not in perfume-tables; a rinse for the vessel, not mixed in as such",
      "use": "for rinsing the new storage vessel",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "wine",
-     "_tr": "oino palaio",
-     "_slug": "oinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@οἴνῳ",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@παλαιῷ"
+     }
     }
    ],
    "steps": [
@@ -673,7 +447,7 @@
      "verb": "add",
      "note": {
       "label": "An equal weight",
-      "text": "50 drachmas, the weight of the fenugreek."
+      "text": "Probably 50 drachmas, the weight of the fenugreek; Dioscorides says only \"an equal weight\"."
      },
      "_html": "Soak 50 <i>drachmai</i> <span class=\"ck-m\">(<data value=\"167.5,171.5\" data-g>168–172 g</data>)</span> of clean fenugreek in warm water on the eighth day. When it is soft, add it to the oil with its water, along with an equal weight of a firebrand of the most resinous pine, split into fine pieces."
     },
@@ -711,6 +485,12 @@
     "Wellmann prints the section number 4 inside a sentence (τῇ δὲ ὀγδόῃ 4 ἡμέρᾳ); section 4 really begins at τῇ δὲ ὀγδόῃ.",
     "Reader pass: the aged wine, used only to rinse the storage vessel, is moved to the working materials. The warm water stays an ingredient: it goes into the oil with the fenugreek.",
     "Former flag, settled by round 3 item 1 (titles as names): title.en \"Oil is whitened\" is copied from the approved English (\"Oil is whitened as follows\"), awkward as a page title. Locator 1.30.3-4: the recipe begins in the middle of section 3, after the wild-olive oil."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.3@λευκαίνεται",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@γένηται"
+    }
    ]
   },
   {
@@ -741,19 +521,10 @@
      "lemma": "ἐλαία",
      "note": "the wild olive",
      "name": "Wild olives",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Wild olives",
-     "_tr": "agrias elaias",
-     "_slug": "elaia"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.3@ἀγρίας",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.3@ἐλαίας"
+     }
     }
    ],
    "steps": [
@@ -776,7 +547,12 @@
     "The passage is about the oil's quality and uses (more astringent; for headache in place of rose oil; against sweating, falling hair, dandruff and scaly conditions; slows greying). It gives no method.",
     "Method and amounts: not stated."
    ],
-   "flag": "no method in the text: the single step only says the oil is made from the wild olive. Locator 1.30.3 covers the first part of the section only; the whitened oil begins in the same section."
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.3@τὸ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.3@ἐπαλειφόμενον"
+    }
+   ]
   },
   {
    "id": "dioscorides-1-30-5-sikyonion",
@@ -817,25 +593,9 @@
      "quantity": 1,
      "unit": "chous",
      "note": "fresh, raw-pressed and pale",
-     "_amount": {
-      "printed": "χοέα ἕνα",
-      "en": "1 chous",
-      "en_html": "1 <i>chous</i>",
-      "metric": "3.3 l",
-      "g": [
-       2986.62,
-       3019.44
-      ],
-      "ml": [
-       3282.0,
-       3282.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.5@ἐλαίου"
+     }
     }
    ],
    "working": [
@@ -847,25 +607,9 @@
      "unit": "chous",
      "use": "for boiling the oil in; the oil is ladled off it",
      "note": "½ chous for the first boil; more, unmeasured, for the second",
-     "_amount": {
-      "printed": "ἡμίχουν",
-      "en": "½ chous",
-      "en_html": "½ <i>chous</i>",
-      "metric": "1.6 l",
-      "g": [
-       1493.31,
-       1509.72
-      ],
-      "ml": [
-       1641.0,
-       1641.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydatos",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.5@ὕδατος"
+     }
     }
    ],
    "steps": [
@@ -908,6 +652,12 @@
     "\"From the oil described above\" (διὰ τοῦ προειρημένου) and \"the remaining steps as indicated above\" (τὰ λοιπὰ … καθὼς ὑποδέδεικται) point back to the whitened oil (dioscorides-1-30-whitened-oil), presumably its sunning and storage.",
     "The Greek keeps Wellmann's bracketed words [ἐπὶ τῷ προσώπῳ], the English \"[on the face]\".",
     "Reader pass: the water is moved to the working materials, since the oil is ladled off it; the second water (ἄλλο ὕδωρ, no amount) is folded into the first."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.5@ἔνεστι",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.5@στιλβώθρῳ"
+    }
    ]
   },
   {
@@ -954,7 +704,12 @@
     "Olive-honey flows of itself from the trunks of olive trees around Palmyra; the text gives no preparation, only a dose and its effects.",
     "The cut ends before σκευάζεται δὲ καὶ ἐκ τοῦ λίπους, where the oil from the young shoots (dioscorides-1-31-thalloi-oil) begins. Wellmann prints no section numbers in 1.31, so both recipes have the locator 1.31."
    ],
-   "flag": "no preparation in the text (a natural exudation), so no steps; the only item, water, belongs to the dose. Perhaps a report rather than a recipe."
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.31@ἐλαιόμελι",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.31@καταφέρεσθαι"
+    }
+   ]
   },
   {
    "id": "dioscorides-1-31-thalloi-oil",
@@ -983,19 +738,10 @@
      "form": "λίπους τῶν θαλλῶν",
      "lemma": "θαλλός",
      "note": "the fatty substance of the young shoots",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "young shoots",
-     "_tr": "lipous ton thallon",
-     "_slug": "thallos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.31@λίπους",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.31@θαλλῶν"
+     }
     }
    ],
    "steps": [
@@ -1018,6 +764,12 @@
     "The passage gives no method; the rest is on the best kind (old, thick, rich, not cloudy) and its uses.",
     "Former flag, settled by round 3 item 1 (titles as names): title.en is the approved English's sentence \"An oil is also prepared from the fatty substance of the young shoots\", awkward as a page title; no method in the text beyond the single step. Locator 1.31 is shared with olive-honey (no section numbers in Wellmann).",
     "Method and amounts: not stated."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.31@σκευάζεται",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.31@ὠφελεῖ"
+    }
    ]
   },
   {
@@ -1058,20 +810,9 @@
      "lemma": "κρότων",
      "printed": "ὅσον ἂν δόξῃ",
      "note": "ripe castor seeds; dried in the sun until the husk falls away, the kernels pounded",
-     "flag": "as much as seems fit: no amount",
-     "_amount": {
-      "printed": "ὅσον ἂν δόξῃ",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "castor seeds",
-     "_tr": "krotonon",
-     "_slug": "kroton"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.1@κροτώνων"
+     }
     }
    ],
    "working": [
@@ -1080,19 +821,9 @@
      "lemma": "ὕδωρ",
      "note": "in the tin-lined cauldron; no amount given",
      "use": "for boiling the pounded kernels",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydor",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.1@ὕδωρ"
+     }
     }
    ],
    "steps": [
@@ -1134,6 +865,12 @@
    "notes": [
     "The cut ends before οἱ δὲ Αἰγύπτιοι, where the Egyptian method (dioscorides-1-32-2-kikinon-aigyption) begins; the uses at the end of the chapter stand in section 2 and stay with that recipe.",
     "Reader pass: the water, which the oil is skimmed off, is moved to the working materials."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.1@κίκινον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.1@ἀποτίθεσο"
+    }
    ]
   },
   {
@@ -1164,19 +901,9 @@
      "form": "κρότωνας",
      "lemma": "κρότων",
      "note": "cleaned, then milled; ripe when they come free from the capsules enclosing them",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "castor seeds",
-     "_tr": "krotonas",
-     "_slug": "kroton"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.2@κρότωνας"
+     }
     }
    ],
    "steps": [
@@ -1212,6 +939,12 @@
     "The uses of castor oil (scabies, scalp eruptions, uterine complaints, scars, earache, in plasters, as a purge and against worms) stand in section 2 and stay with this recipe.",
     "Former flag, settled by round 3 item 1 (titles as names): title.en is the chapter title \"Castor Oil\": the approved English gives this method no name of its own (\"Because the Egyptians require it in abundance, they prepare it differently\").",
     "Amounts: not stated."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.2@οἱ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.2@ἕλμινθας"
+    }
    ]
   },
   {
@@ -1255,26 +988,10 @@
      "unit": "choinix",
      "name": "Bitter almonds",
      "note": "cleaned and dried, then crushed to a paste",
-     "_amount": {
-      "printed": "χοίνικας τέσσαρας",
-      "en": "4 choinikes",
-      "en_html": "4 <i>choinikes</i>",
-      "metric": "4–4.4 l",
-      "g": [
-       3676.4,
-       4025.92
-      ],
-      "ml": [
-       4040.0,
-       4376.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "Bitter almonds",
-     "_tr": "amygdalon pikron",
-     "_slug": "amygdalon",
-     "_share": 83.66103373891282
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.33.1@ἀμυγδάλων",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.33.1@πικρῶν"
+     }
     },
     {
      "form": "ὕδατος",
@@ -1284,26 +1001,9 @@
      "unit": "kotyle",
      "note": "hot",
      "use": "for soaking the paste before the first pressing",
-     "_amount": {
-      "printed": "κοτύλας δύο",
-      "en": "2 kotylai",
-      "en_html": "2 <i>kotylai</i>",
-      "metric": "548 ml",
-      "g": [
-       498.68,
-       504.16
-      ],
-      "ml": [
-       548.0,
-       548.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydatos",
-     "_slug": "hydor",
-     "_share": 10.89264417405812
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.33.1@ὕδατος"
+     }
     },
     {
      "form": "ὕδατος",
@@ -1313,26 +1013,9 @@
      "unit": "kotyle",
      "note": "poured onto the pressed mass",
      "use": "for the second pressing",
-     "_amount": {
-      "printed": "κοτύλην μίαν",
-      "en": "1 kotyle",
-      "en_html": "1 <i>kotyle</i>",
-      "metric": "274 ml",
-      "g": [
-       249.34,
-       252.08
-      ],
-      "ml": [
-       274.0,
-       274.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydatos",
-     "_slug": "hydor",
-     "_share": 5.44632208702906
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.33.1@ὕδατος[2]"
+     }
     }
    ],
    "steps": [
@@ -1403,6 +1086,12 @@
     "Four choinikes yield one kotyle (ἀποδίδωσι δὲ κοτύλην μίαν τὸ τετραχοίνικον).",
     "Wellmann prints the section number 2 inside a sentence (πνίγας ὑστερικὰς 2 διαστροφάς); the whole chapter is one recipe, so nothing is cut.",
     "The six plain steps are grouped as four: cleaning with crushing, and soaking with the second grinding. Both waters stay among the ingredients, each with its own amount: they are pressed out with the oil, not thrown away."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.33.1@ἀμυγδάλινον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.33.2@σμήχει"
+    }
    ]
   },
   {
@@ -1454,6 +1143,12 @@
     "Chapter 1.34 holds two entries. The Greek and English stop before ὁμοίως δὲ σκευάζεται τοῖς προειρημένοις (\"Sesame oil is similarly prepared …\"), ported as dioscorides-1-34-sesaminon-karyinon. Wellmann prints no section number inside the chapter; the locator gives perfume-tables' Wellmann page and lines.",
     "The text gives no method of its own: ἐοικότως ('likewise', 'in the corresponding manner') points back to the oils just described, presumably almond oil (1.33). The nut (βάλανος) is named only in the name of the oil, so no ingredient of the preparation is listed; goose fat belongs to the uses passage.",
     "Method and amounts: as for almond oil (1.33)."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@ἐοικότως",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@ἐγχεόμενον"
+    }
    ]
   },
   {
@@ -1484,38 +1179,19 @@
      "form": "σησάμου",
      "lemma": "σήσαμον",
      "use": "for sesame oil",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "sesame",
-     "_tr": "sesamou",
-     "_slug": "sesamon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@σησάμου"
+     }
     },
     {
      "form": "βασιλικῶν καρύων",
      "lemma": "κάρυον",
      "name": "Royal nuts",
      "use": "for royal-nut oil",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Royal nuts",
-     "_tr": "basilikon karyon",
-     "_slug": "karyon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@βασιλικῶν",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@καρύων"
+     }
     }
    ],
    "steps": [
@@ -1541,6 +1217,12 @@
     "One entry covers two oils, sesame oil and royal-nut oil, made like the oils described before. Both have the same capacity as balanos oil.",
     "Former flag, settled by round 3 item 1 (titles as names): title.en is 'Sesame oil', copied from the approved English; the passage also covers royal-nut oil (καρύινον), which the title does not name",
     "Method and amounts: as for almond oil (1.33)."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@ὁμοίως",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@βαλανίνῳ"
+    }
    ]
   },
   {
@@ -1580,38 +1262,19 @@
      "lemma": "ὑοσκύαμος",
      "name": "White henbane seed",
      "note": "Dry and fresh; pounded.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "White henbane seed",
-     "_tr": "leukon karpon",
-     "_slug": "hyoskyamos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.35@λευκὸν",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.35@καρπὸν"
+     }
     },
     {
      "form": "ὕδατι",
      "lemma": "ὕδωρ",
      "note": "Hot.",
      "use": "for kneading the pounded seed",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydati",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.35@ὕδατι"
+     }
     }
    ],
    "steps": [
@@ -1660,6 +1323,12 @@
     "The method refers to almond oil (1.33) for the kneading.",
     "The five plain steps are grouped as three: pounding with kneading, and pressing with storing.",
     "The sunning step can also be read: keep the mass in the sun, and mix back into it the parts that dry under your hands."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.35@καὶ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.35@ὄν"
+    }
    ]
   },
   {
@@ -1691,6 +1360,12 @@
     "A report, not a recipe: safflower oil is said to be prepared in the same manner as Cnidian-berry oil, with the same capacity but milder. The text names no ingredient (the safflower, κνῆκος, only in the name of the oil).",
     "Chapter 1.36 holds two entries; this is the second, from ὡσαύτως δὲ καὶ κνήκινον to the end of the chapter. The Cnidian-berry oil before it is ported as dioscorides-1-36-knidion. The locator gives perfume-tables' Wellmann page and line.",
     "Method and amounts: as for Cnidian-berry oil (1.36) and, through it, almond oil (1.33)."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.36@ὡσαύτως",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.36@μᾶλλον"
+    }
    ]
   },
   {
@@ -1720,19 +1395,10 @@
      "form": "Κνιδίου κόκκου",
      "lemma": "κόκκος Κνίδιος",
      "note": "Peeled and pounded.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cnidian berries",
-     "_tr": "Knidiou kokkou",
-     "_slug": "kokkos-knidios"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.36@Κνιδίου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.36@κόκκου"
+     }
     }
    ],
    "steps": [
@@ -1760,6 +1426,12 @@
     "Chapter 1.36 holds two entries. The Greek and English stop before ὡσαύτως δὲ καὶ κνήκινον σκευάζεται (\"Safflower oil is prepared …\"), ported as the report dioscorides-1-36-knekikon. Wellmann prints no section number inside the chapter; the locator gives perfume-tables' Wellmann page and lines.",
     "ὁμοίως ('in the same way') points back to the oils just described (1.33-1.35).",
     "Method and amounts: as for almond oil (1.33)."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.36@ὁμοίως",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.36@πινόμενον"
+    }
    ]
   },
   {
@@ -1791,6 +1463,12 @@
     "A report, not a recipe: black-seed oil is said to have the same capacity and preparation as radish oil. The text names no ingredient (the black seed, μελάνθιον, only in the name of the oil).",
     "Chapter 1.37 holds two entries; this is the last sentence of the chapter. The radish oil before it is ported as dioscorides-1-37-raphaninon. The locator gives perfume-tables' Wellmann page and line.",
     "Method: as for radish oil (1.37)."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.37@καὶ[3]",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.37@ῥαφανίνῳ"
+    }
    ]
   },
   {
@@ -1822,19 +1500,9 @@
      "lemma": "ῥάφανος",
      "name": "Radish seed",
      "note": "The seed of the radish.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Radish seed",
-     "_tr": "spermatos",
-     "_slug": "rhaphanos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.37@σπέρματος"
+     }
     }
    ],
    "steps": [
@@ -1855,6 +1523,12 @@
     "Chapter 1.37 holds two entries. The Greek and English stop before καὶ τὸ μελάνθινον (\"Black-seed oil has …\"), ported as the report dioscorides-1-37-melanthinon. Wellmann prints no section number inside the chapter; the locator gives perfume-tables' Wellmann page and lines.",
     "The Egyptians cook the oil with their side dishes (τοῖς προσοψήμασι): a use, not an ingredient.",
     "Method and amounts: as for almond oil (1.33)."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.37@τὸ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.37@αὐτό"
+    }
    ]
   },
   {
@@ -1884,56 +1558,26 @@
      "form": "σινήπεως",
      "lemma": "σίναπι",
      "note": "Ground, then soaked in hot water.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "mustard",
-     "_tr": "sinepeos",
-     "_slug": "sinapi"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.38@σινήπεως"
+     }
     },
     {
      "form": "ὕδατι",
      "lemma": "ὕδωρ",
      "note": "Hot.",
      "use": "for soaking the mustard",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydati",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.38@ὕδατι"
+     }
     },
     {
      "form": "ἐλαίου",
      "lemma": "ἔλαιον",
      "note": "Plain oil, ordinarily olive oil.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.38@ἐλαίου"
+     }
     }
    ],
    "steps": [
@@ -1955,6 +1599,12 @@
    "uses": "chronic pains, as an alterative.",
    "notes": [
     "The four plain steps are grouped as two. The water stays among the ingredients: it is pressed out with the oil."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.38@τὸ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.38@ὄν"
+    }
    ]
   },
   {
@@ -1993,77 +1643,37 @@
      "form": "μυρσίνης",
      "lemma": "μυρσίνη",
      "note": "The tender leaves of black myrtle, wild or cultivated, pounded and pressed for their juice. The other ways use the leaves themselves.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrtle",
-     "_tr": "myrsines",
-     "_slug": "myrsine"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@μυρσίνης"
+     }
     },
     {
      "form": "ἐλαίου ὀμφακίνου",
      "lemma": "ἔλαιον ὀμφάκινον",
      "printed": "ἴσον δὲ τῷ χυλῷ",
      "note": "As much oil as there is juice from the leaves.",
-     "flag": "equal amount: no unit; as much oil as the juice pressed from the leaves",
-     "_amount": {
-      "printed": "ἴσον δὲ τῷ χυλῷ",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "elaiou omphakinou",
-     "_slug": "elaion-omphakinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@ἐλαίου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@ὀμφακίνου"
+     }
     },
     {
      "form": "ὕδατος",
      "lemma": "ὕδωρ",
      "role": "alternative",
      "note": "In the easier way, boiled with the leaves and oil.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydatos",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@ὕδατος"
+     }
     },
     {
      "form": "ἐλαίου",
      "lemma": "ἔλαιον",
      "role": "alternative",
      "note": "Plain oil, for the easier way (boiled with leaves and water) and the ordinary way (leaves steeped in it in the sun).",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@ἐλαίου[2]"
+     }
     },
     {
      "form": "σιδίοις",
@@ -2071,19 +1681,9 @@
      "role": "alternative",
      "note": "Some first make the oil astringent with it.",
      "use": "for making the oil astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "pomegranate rind",
-     "_tr": "sidiois",
-     "_slug": "sidion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@σιδίοις"
+     }
     },
     {
      "form": "κυπαρίσσῳ",
@@ -2091,19 +1691,9 @@
      "role": "alternative",
      "note": "Some first make the oil astringent with it.",
      "use": "for making the oil astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cypress",
-     "_tr": "kyparisso",
-     "_slug": "kyparissos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@κυπαρίσσῳ"
+     }
     },
     {
      "form": "κυπέρῳ",
@@ -2111,19 +1701,9 @@
      "role": "alternative",
      "note": "Some first make the oil astringent with it.",
      "use": "for making the oil astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cyperus",
-     "_tr": "kypero",
-     "_slug": "kyperos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@κυπέρῳ"
+     }
     },
     {
      "form": "σχοίνῳ",
@@ -2131,19 +1711,9 @@
      "role": "alternative",
      "note": "Some first make the oil astringent with it.",
      "use": "for making the oil astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "camel-grass",
-     "_tr": "schoino",
-     "_slug": "schoinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@σχοίνῳ"
+     }
     }
    ],
    "steps": [
@@ -2194,6 +1764,12 @@
     "The more effective oil is somewhat bitter and oily to the taste, green, translucent and fragrant with myrtle.",
     "Wellmann's section number 2 falls at the start of the passage on quality and uses; the whole chapter is one recipe, so nothing is cut.",
     "The myrtle leaves of the two other ways (φύλλων, φύλλα) are folded into the one myrtle-leaf ingredient, and the oil of the ordinary way (ἔλαιον) into the plain-oil item of the easier way; none has an amount of its own."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@μυρσίνινον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.2@χρείαν"
+    }
    ]
   },
   {
@@ -2224,38 +1800,19 @@
      "form": "δαφνίδων",
      "lemma": "δαφνίς",
      "note": "Ripe on the tree. In the other way, some add berries to the oil as well as leaves.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "bay berries",
-     "_tr": "daphnidon",
-     "_slug": "daphnis"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@δαφνίδων"
+     }
     },
     {
      "form": "ὀμφάκινον ἔλαιον",
      "lemma": "ἔλαιον ὀμφάκινον",
      "role": "alternative",
      "note": "Others make it astringent with cyperus, schoinos and calamus, then boil bay leaves in it.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "omphakinon elaion",
-     "_slug": "elaion-omphakinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@ὀμφάκινον",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@ἔλαιον"
+     }
     },
     {
      "form": "κυπέρῳ",
@@ -2263,19 +1820,9 @@
      "role": "alternative",
      "note": "Others use it to make the unripe-olive oil astringent.",
      "use": "for making the oil astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cyperus",
-     "_tr": "kypero",
-     "_slug": "kyperos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@κυπέρῳ"
+     }
     },
     {
      "form": "σχοίνῳ",
@@ -2283,19 +1830,9 @@
      "role": "alternative",
      "note": "Others use it to make the unripe-olive oil astringent.",
      "use": "for making the oil astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "camel-grass",
-     "_tr": "schoino",
-     "_slug": "schoinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@σχοίνῳ"
+     }
     },
     {
      "form": "καλάμῳ",
@@ -2303,57 +1840,28 @@
      "role": "alternative",
      "note": "Others use it to make the unripe-olive oil astringent.",
      "use": "for making the oil astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamo",
-     "_slug": "kalamos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@καλάμῳ"
+     }
     },
     {
      "form": "δάφνης φύλλα",
      "lemma": "δάφνη",
      "role": "alternative",
      "note": "Others boil the leaves in the prepared oil.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "bay leaves",
-     "_tr": "daphnes phylla",
-     "_slug": "daphne"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@δάφνης",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@φύλλα"
+     }
     },
     {
      "form": "στύρακα",
      "lemma": "στύραξ",
      "role": "alternative",
      "note": "Some also mix in storax.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "storax",
-     "_tr": "styraka",
-     "_slug": "styrax"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@στύρακα"
+     }
     },
     {
      "form": "μυρσίνην",
@@ -2361,19 +1869,9 @@
      "role": "alternative",
      "note": "Some also mix in myrtle.",
      "name": "Myrtle",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Myrtle",
-     "_tr": "myrsinen",
-     "_slug": "myrsine"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@μυρσίνην"
+     }
     }
    ],
    "working": [
@@ -2381,19 +1879,9 @@
      "form": "ὕδατος",
      "lemma": "ὕδωρ",
      "use": "for boiling the berries",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydatos",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@ὕδατος"
+     }
     }
    ],
    "steps": [
@@ -2433,6 +1921,12 @@
     "The Greek prints κανὸν (presumably for ἱκανὸν, 'sufficiently'), has no stop before ἔνιοι δὲ καὶ στύρακα, and prints πλατύφυυλλος: all copied as they stand.",
     "Wellmann's section number 2 falls at the start of the passage on quality and uses (δάφνη· 2 διαφέρει); the whole chapter is one recipe, so nothing is cut.",
     "The water for boiling the berries is moved to the working materials; the bay berries of the others' method (δαφνίδας) are folded into the one bay-berry ingredient."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@τὸ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.2@ποθέν"
+    }
    ]
   },
   {
@@ -2464,19 +1958,9 @@
      "lemma": "σχῖνος",
      "note": "The ripe fruit.",
      "name": "Mastic-tree fruit",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Mastic-tree fruit",
-     "_tr": "schinou",
-     "_slug": "schinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.41@σχίνου"
+     }
     }
    ],
    "steps": [
@@ -2509,6 +1993,12 @@
     "Method: as for bay oil (1.40). No base oil and no amounts are named.",
     "The chapter ends with terebinth oil, prepared in the same way (it cools and astringes); it is not a separate recipe in perfume-tables and is kept here.",
     "The second plain step (\"or else make it astringent by the procedure used for bay oil\") is an alternative and is moved to Other ways."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.41@τὸ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.41@στύφει"
+    }
    ]
   },
   {
@@ -2539,19 +2029,9 @@
      "form": "μαστίχης",
      "lemma": "μαστίχη",
      "note": "Finely ground.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "mastic",
-     "_tr": "mastiches",
-     "_slug": "mastiche"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.42.1@μαστίχης"
+     }
     }
    ],
    "steps": [
@@ -2572,6 +2052,12 @@
    "notes": [
     "The Greek and English stop before the general account of perfumes that opens section 2 (ἐπεὶ δὲ καὶ τὰ μύρα …). Wellmann prints the section number 2 later, inside that sentence (μειγνύμενα 2 φαρμάκοις); the cut is at the sentence boundary.",
     "No base oil is named."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.42.1@τὸ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.42.1@κάλλιστον"
+    }
    ]
   },
   {
@@ -2620,19 +2106,9 @@
      "unit": "count",
      "note": "The petals of 1,000 fresh roses, picked dry; the same number again for each further infusion.",
      "rendering": "petals of unmoistened roses",
-     "_amount": {
-      "printed": "ἀριθμῷ χιλίων",
-      "en": "1,000 by count",
-      "en_html": "<data value=\"1000\" data-count>1,000</data> by count",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": 1000
-     },
-     "_ren": "petals of unmoistened roses",
-     "_tr": "rhodon",
-     "_slug": "rhodon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@ῥόδων"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -2642,23 +2118,9 @@
      "unit": "oungia",
      "note": "Dioscorides says only “oil”, which ordinarily means olive oil.",
      "rendering": "oil",
-     "_amount": {
-      "printed": "λίτρας εἴκοσι οὐγγίας πέντε",
-      "en": "20 pounds 5 ounces",
-      "en_html": "20 pounds 5 ounces",
-      "metric": "6.6–6.7 kg",
-      "g": [
-       6566.0,
-       6713.0
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 59.46601941747572
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@ἐλαίου"
+     }
     },
     {
      "form": "σχοίνου",
@@ -2669,23 +2131,9 @@
      "note": "A fragrant grass or a rush: its identification is uncertain.",
      "use": "for preparing the oil",
      "rendering": "camel-grass",
-     "_amount": {
-      "printed": "λίτρας πέντε οὐγγίας ὀκτώ",
-      "en": "5 pounds 8 ounces",
-      "en_html": "5 pounds 8 ounces",
-      "metric": "1.8–1.9 kg",
-      "g": [
-       1822.4,
-       1863.1999999999998
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "camel-grass",
-     "_tr": "schoinou",
-     "_slug": "schoinos",
-     "_share": 16.504854368932037
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@σχοίνου"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -2694,26 +2142,11 @@
      "quantity": 99,
      "unit": "oungia",
      "note": "The same oil prepared with schoinos as in step 1.",
-     "flag": "the text does not say whether this is a further batch of oil made astringent in the same way",
      "use": "for the second pressing",
      "rendering": "oil",
-     "_amount": {
-      "printed": "λίτρας ὀκτὼ οὐγγίας τρεῖς",
-      "en": "8 pounds 3 ounces",
-      "en_html": "8 pounds 3 ounces",
-      "metric": "2.7 kg",
-      "g": [
-       2653.2000000000003,
-       2712.6
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 24.029126213592235
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@ἐλαίου[2]"
+     }
     },
     {
      "form": "κάλαμον",
@@ -2721,19 +2154,9 @@
      "role": "alternative",
      "note": "some make the oil astringent with calamus and aspalathos",
      "rendering": "kalamos",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamon",
-     "_slug": "kalamos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.3@κάλαμον"
+     }
     },
     {
      "form": "ἀσπάλαθον",
@@ -2741,19 +2164,9 @@
      "role": "alternative",
      "note": "some make the oil astringent with calamus and aspalathos",
      "rendering": "aspalathos",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "aspalathos",
-     "_tr": "aspalathon",
-     "_slug": "aspalathos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.3@ἀσπάλαθον"
+     }
     },
     {
      "form": "ἄγχουσαν",
@@ -2761,19 +2174,9 @@
      "role": "alternative",
      "note": "some add it for colour",
      "rendering": "anchousa",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "anchousa",
-     "_tr": "anchousan",
-     "_slug": "anchousa"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.3@ἄγχουσαν"
+     }
     },
     {
      "form": "ἅλας",
@@ -2781,19 +2184,9 @@
      "role": "alternative",
      "note": "some add it against spoilage",
      "rendering": "salt",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "salt",
-     "_tr": "halas",
-     "_slug": "hals"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.3@ἅλας"
+     }
     }
    ],
    "working": [
@@ -2802,38 +2195,18 @@
      "lemma": "ὕδωρ",
      "use": "for mixing the schoinos",
      "rendering": "water",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydati",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@ὕδατι"
+     }
     },
     {
      "form": "μέλιτι",
      "lemma": "μέλι",
      "use": "for coating the hands, bowls and press",
      "rendering": "honey",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "honey",
-     "_tr": "meliti",
-     "_slug": "meli"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@μέλιτι"
+     }
     }
    ],
    "steps": [
@@ -2873,7 +2246,7 @@
      "verb": "press",
      "note": {
       "label": "How much oil to prepare",
-      "text": "All of the first 20 lb 5 oz goes into the first infusion, but this pressing needs 8 lb 3 oz more (one manuscript says 20). Prepare extra oil if you want lower grades. At the same proportion, that is about 2 lb 3 oz (0.7 kg) of schoinos to 8 lb 3 oz of oil."
+      "text": "Dioscorides never says. All of the first 20 lb 5 oz goes into the first infusion, but this pressing needs 8 lb 3 oz more (one manuscript says 20). Prepare extra oil if you want lower grades. At the same proportion, that is about 2 lb 3 oz (0.7 kg) of schoinos to 8 lb 3 oz of oil."
      },
      "_html": "Put the pressed petals in a small tub, pour 8 lb 3 oz <span class=\"ck-m\">(<data value=\"2656.4,2714.2\" data-g>2.7 kg</data>)</span> of the astringed oil over them, and press again. This is the second grade."
     },
@@ -2960,6 +2333,12 @@
     "Wellmann prints the section numbers 3 and 4 inside sentences (ἄχρι 3 δὲ, ἐμβρέγματα 4 καί); the whole chapter is one recipe, so nothing is cut.",
     "Reader fields (summary, time, working, titled steps with side notes, other ways, what to aim for) are taken from the earlier cookbook page, recipes/dioscorides-1-43-rhodinon/cookbook.en.json, which Sean approved on 2026-10-02.",
     "The further rose charges (τὸν ἴσον ἀριθμὸν, νεαρὰ ῥόδα, and the roses steeped alone in the others' method) are folded into the one rose-petal ingredient, as on the approved page."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@ῥοδίνου",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.4@χρήσιμον"
+    }
    ]
   },
   {
@@ -2998,39 +2377,19 @@
      "form": "ἐλάτην",
      "lemma": "σπάθη",
      "note": "Crushed and torn apart.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "palm spathe",
-     "_tr": "elaten",
-     "_slug": "spathe"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.44@ἐλάτην"
+     }
     },
     {
      "form": "ὀμφάκινον ἔλαιον",
      "lemma": "ἔλαιον ὀμφάκινον",
      "printed": "ἑκάτερα ἰσόσταθμα",
-     "flag": "equal weight: no unit; the oil and the palm spathe are to be equal in weight",
      "note": "Equal in weight to the spathe.",
-     "_amount": {
-      "printed": "ἑκάτερα ἰσόσταθμα",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "omphakinon elaion",
-     "_slug": "elaion-omphakinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.44@ὀμφάκινον",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.44@ἔλαιον"
+     }
     }
    ],
    "steps": [
@@ -3071,6 +2430,12 @@
    "notes": [
     "The English renders ἐλάτη as date-palm spathe.",
     "No absolute quantities: spathe and oil are equal in weight."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.44@ἐλατίνου",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.44@μαλάσσει"
+    }
    ]
   },
   {
@@ -3120,26 +2485,9 @@
      "printed": "ξέστας ἕξ",
      "quantity": 6,
      "unit": "xestes",
-     "_amount": {
-      "printed": "ξέστας ἕξ",
-      "en": "6 xestai",
-      "en_html": "6 <i>xestai</i>",
-      "metric": "3.3 l",
-      "g": [
-       2986.62,
-       3019.44
-      ],
-      "ml": [
-       3282.0,
-       3282.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 36.99916712663617
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@ἐλαίου"
+     }
     },
     {
      "form": "ὕδατος",
@@ -3148,26 +2496,9 @@
      "quantity": 10,
      "unit": "xestes",
      "use": "boiled with the oil",
-     "_amount": {
-      "printed": "ξέστας δέκα",
-      "en": "10 xestai",
-      "en_html": "10 <i>xestai</i>",
-      "metric": "5.5 l",
-      "g": [
-       4977.700000000001,
-       5032.4000000000015
-      ],
-      "ml": [
-       5470.000000000001,
-       5470.000000000001
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydatos",
-     "_slug": "hydor",
-     "_share": 61.665278544393644
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@ὕδατος"
+     }
     },
     {
      "form": "σπάθης",
@@ -3176,23 +2507,9 @@
      "quantity": 3,
      "unit": "oungia",
      "note": "Crushed.",
-     "_amount": {
-      "printed": "οὐγγίας τρεῖς",
-      "en": "3 ounces",
-      "en_html": "3 ounces",
-      "metric": "80–82 g",
-      "g": [
-       80.4,
-       82.19999999999999
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "palm spathe",
-     "_tr": "spathes",
-     "_slug": "spathe",
-     "_share": 1.0016657467276453
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@σπάθης"
+     }
     },
     {
      "form": "σχοίνου",
@@ -3200,42 +2517,19 @@
      "printed": "οὐγγίαν μίαν",
      "quantity": 1,
      "unit": "oungia",
-     "_amount": {
-      "printed": "οὐγγίαν μίαν",
-      "en": "1 ounce",
-      "en_html": "1 ounce",
-      "metric": "27 g",
-      "g": [
-       26.8,
-       27.4
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "camel-grass",
-     "_tr": "schoinou",
-     "_slug": "schoinos",
-     "_share": 0.3338885822425485
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@σχοίνου"
+     }
     },
     {
      "form": "κυδώνια μῆλα",
      "lemma": "κυδώνιον μῆλον",
      "note": "Set over the oil on a mat, not put into it.",
      "use": "to scent the oil",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "quinces",
-     "_tr": "kydonia mela",
-     "_slug": "kydonion-melon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@κυδώνια",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@μῆλα"
+     }
     }
    ],
    "steps": [
@@ -3278,6 +2572,12 @@
    ],
    "notes": [
     "Chapter 1.45 holds two recipes; this is section 1. The Greek and English stop before section 2 (ἔνιοι δὲ τὰ μῆλα …, \"2. Others envelop …\"), which is ported as dioscorides-1-45-2-melinon-allos together with the passage on uses that follows it."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@μηλίνον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@ἔλαιον[2]"
+    }
    ]
   },
   {
@@ -3321,38 +2621,17 @@
      "form": "μῆλα",
      "lemma": "κυδώνιον μῆλον",
      "note": "Wrapped in cloth for ten days first.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "quinces",
-     "_tr": "mela",
-     "_slug": "kydonion-melon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.2@μῆλα"
+     }
     },
     {
      "form": "ἐλαίῳ",
      "lemma": "ἔλαιον",
      "note": "Perhaps the prepared oil of 1.45.1, or plain olive oil.",
-     "flag": "τῷ ἐλαίῳ, \"the oil\": perhaps the oil prepared as in 1.45.1, or plain olive oil; the text does not say",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaio",
-     "_slug": "elaion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.2@ἐλαίῳ"
+     }
     }
    ],
    "steps": [
@@ -3387,6 +2666,12 @@
    "notes": [
     "Section 2 of chapter 1.45: the method some use instead of 1.45.1. The passage on capacity and uses (δύναμιν δὲ ἔχει …) stands in this section and stays with it.",
     "Former flag, settled by round 3 item 1 (titles as names): title.en is the chapter title \"Preparation of Quince Oil\": the approved English gives this variant no name of its own (\"Others envelop the quinces …\")"
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.2@ἔνιοι",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.2@μήλων"
+    }
    ]
   },
   {
@@ -3426,36 +2711,17 @@
      "form": "οἰνάνθην",
      "lemma": "οἰνάνθη",
      "note": "The fragrant flower of the grapevine, dried.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "vine flowers",
-     "_tr": "oinanthen",
-     "_slug": "oinanthe"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.46@οἰνάνθην"
+     }
     },
     {
      "form": "ὀμφάκινον ἔλαιον",
      "lemma": "ἔλαιον ὀμφάκινον",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "omphakinon elaion",
-     "_slug": "elaion-omphakinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.46@ὀμφάκινον",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.46@ἔλαιον"
+     }
     }
    ],
    "steps": [
@@ -3487,7 +2753,13 @@
     ]
    },
    "uses": "the same ends as rose oil (1.43), as an astringent, except that it does not loosen or soften the bowels.",
-   "notes": []
+   "notes": [],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.46@οἰνανθίνου",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.46@οἰνάνθην[2]"
+    }
+   ]
   },
   {
    "id": "dioscorides-1-47-telinon",
@@ -3528,23 +2800,9 @@
      "printed": "λίτρας ἐννέα",
      "quantity": 9,
      "unit": "litra",
-     "_amount": {
-      "printed": "λίτρας ἐννέα",
-      "en": "9 pounds",
-      "en_html": "9 pounds",
-      "metric": "2.9–3 kg",
-      "g": [
-       2898,
-       2961
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "fenugreek",
-     "_tr": "teleos",
-     "_slug": "telis",
-     "_share": 52.94117647058824
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@τήλεως"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -3552,23 +2810,9 @@
      "printed": "λίτρας πέντε",
      "quantity": 5,
      "unit": "litra",
-     "_amount": {
-      "printed": "λίτρας πέντε",
-      "en": "5 pounds",
-      "en_html": "5 pounds",
-      "metric": "1.6 kg",
-      "g": [
-       1610,
-       1645
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 29.411764705882355
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@ἐλαίου"
+     }
     },
     {
      "form": "καλάμου",
@@ -3576,23 +2820,9 @@
      "printed": "λίτραν μίαν",
      "quantity": 1,
      "unit": "litra",
-     "_amount": {
-      "printed": "λίτραν μίαν",
-      "en": "1 pound",
-      "en_html": "1 pound",
-      "metric": "322–329 g",
-      "g": [
-       322,
-       329
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamou",
-     "_slug": "kalamos",
-     "_share": 5.88235294117647
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@καλάμου"
+     }
     },
     {
      "form": "κυπέρου",
@@ -3600,61 +2830,27 @@
      "printed": "λίτρας δύο",
      "quantity": 2,
      "unit": "litra",
-     "_amount": {
-      "printed": "λίτρας δύο",
-      "en": "2 pounds",
-      "en_html": "2 pounds",
-      "metric": "644–658 g",
-      "g": [
-       644,
-       658
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cyperus",
-     "_tr": "kyperou",
-     "_slug": "kyperos",
-     "_share": 11.76470588235294
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@κυπέρου"
+     }
     },
     {
      "form": "καρδάμωμον",
      "lemma": "καρδάμωμον",
      "role": "alternative",
      "note": "Some use it instead of the calamus.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cardamom",
-     "_tr": "kardamomon",
-     "_slug": "kardamomon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@καρδάμωμον"
+     }
     },
     {
      "form": "ξυλοβάλσαμον",
      "lemma": "ξυλοβάλσαμον",
      "role": "alternative",
      "note": "Some use it instead of the cyperus.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balsam wood",
-     "_tr": "xylobalsamon",
-     "_slug": "xylobalsamon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@ξυλοβάλσαμον"
+     }
     }
    ],
    "steps": [
@@ -3698,14 +2894,19 @@
     {
      "form": "κηροῦ",
      "lemma": "κηρός",
-     "note": "with wax for burns and chilblains",
-     "flag": "not in perfume-tables"
+     "note": "with wax for burns and chilblains"
     }
    ],
    "notes": [
     "Some steep cardamom instead of the aromatic reed and balsam wood instead of the cyperus.",
     "Others first make the oil astringent with these ingredients, then steep the fenugreek in it and press it out.",
     "Wellmann prints the section number 2 inside a sentence (μάλιστα 2 δέ); the whole chapter is one recipe, so nothing is cut."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@τηλίνου",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.2@κάλλιστον"
+    }
    ]
   },
   {
@@ -3747,126 +2948,58 @@
      "form": "ἑρπύλλου",
      "lemma": "ἕρπυλλος",
      "note": "Like each herb here, taken by estimate; the same herbs again, fresh, for the second steeping.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "wild thyme",
-     "_tr": "herpyllou",
-     "_slug": "herpyllos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@ἑρπύλλου"
+     }
     },
     {
      "form": "κασσίας",
      "lemma": "κασία",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cassia",
-     "_tr": "kassias",
-     "_slug": "kasia"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@κασσίας"
+     }
     },
     {
      "form": "ἁβροτόνου",
      "lemma": "ἀβρότονον",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "southernwood",
-     "_tr": "habrotonou",
-     "_slug": "abrotonon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@ἁβροτόνου"
+     }
     },
     {
      "form": "σισυμβρίου ἄνθους",
      "lemma": "σισύμβριον",
      "note": "The flowers.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water-mint",
-     "_tr": "sisymbriou anthous",
-     "_slug": "sisymbrion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@σισυμβρίου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@ἄνθους"
+     }
     },
     {
      "form": "μυρσίνης πετάλων",
      "lemma": "μυρσίνη",
      "note": "The leaves.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrtle",
-     "_tr": "myrsines petalon",
-     "_slug": "myrsine"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@μυρσίνης",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@πετάλων"
+     }
     },
     {
      "form": "σαμψούχου",
      "lemma": "σάμψυχον",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "marjoram",
-     "_tr": "sampsouchou",
-     "_slug": "sampsychon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@σαμψούχου"
+     }
     },
     {
      "form": "ἐλαίου ὀμφακίνου",
      "lemma": "ἔλαιον ὀμφάκινον",
      "printed": "τοσοῦτον",
      "note": "Only so much that it does not overpower the strength of the herbs steeped in it.",
-     "flag": "not in perfume-tables; relative amount: no unit",
-     "_amount": {
-      "printed": "τοσοῦτον",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "elaiou omphakinou",
-     "_slug": "elaion-omphakinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@ἐλαίου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@ὀμφακίνου"
+     }
     }
    ],
    "steps": [
@@ -3918,6 +3051,12 @@
     "No weights are given: each herb is taken by estimate (στοχασμῷ) with regard to its capacity.",
     "Choose oil that is dark olive in colour, smells strongly of marjoram and is moderately pungent.",
     "The six plain steps are regrouped into four titled steps."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@σαμψουχίνου",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.2@σπωμένων"
+    }
    ]
   },
   {
@@ -3963,23 +3102,9 @@
      "unit": "litra",
      "name": "Aromatised oil",
      "note": "Oil already aromatised as for henna oil (kyprinon); Dioscorides describes it in 1.55.",
-     "_amount": {
-      "printed": "λίτρας εἴκοσι",
-      "en": "20 pounds",
-      "en_html": "20 pounds",
-      "metric": "6.4–6.6 kg",
-      "g": [
-       6440,
-       6580
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Aromatised oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 63.17934782608695
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ἐλαίου"
+     }
     },
     {
      "form": "ὠκίμου",
@@ -3988,23 +3113,9 @@
      "quantity": 140,
      "unit": "oungia",
      "note": "The leaves, stripped and weighed.",
-     "_amount": {
-      "printed": "λίτρας ἕνδεκα οὐγγίας ὀκτὼ",
-      "en": "11 pounds 8 ounces",
-      "en_html": "11 pounds 8 ounces",
-      "metric": "3.8 kg",
-      "g": [
-       3752.0,
-       3836.0
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "basil",
-     "_tr": "okimou",
-     "_slug": "okimon",
-     "_share": 36.82065217391305
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ὠκίμου"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -4013,20 +3124,9 @@
      "name": "Aromatised oil",
      "use": "for the second-grade oil",
      "note": "The same amount again, poured over the pressed leaves.",
-     "flag": "not in perfume-tables; equal amount: no unit; presumably the same 20 litrai as the first charge",
-     "_amount": {
-      "printed": "τὸ ἴσον πλῆθος",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Aromatised oil",
-     "_tr": "elaiou",
-     "_slug": "elaion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ἐλαίου[2]"
+     }
     },
     {
      "form": "ὠκίμου",
@@ -4034,40 +3134,18 @@
      "printed": "τὸ ἴσον",
      "use": "for a stronger oil",
      "note": "Fresh basil, the same amount again, steeped in the oil already used; fresh again for each further steeping.",
-     "flag": "equal amount: no unit; presumably the same 11 litrai 8 ounces as the first charge",
-     "_amount": {
-      "printed": "τὸ ἴσον",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "basil",
-     "_tr": "okimou",
-     "_slug": "okimon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ὠκίμου[2]"
+     }
     },
     {
      "form": "ὀμφοκίνου",
      "lemma": "ἔλαιον ὀμφάκινον",
      "role": "alternative",
-     "note": "An alternative base; Dioscorides prefers the aromatised oil.",
-     "flag": "not in perfume-tables; the Greek prints ὀμφοκίνου, presumably for ὀμφακίνου",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "omphokinou",
-     "_slug": "elaion-omphakinon"
+     "note": "An alternative base; Dioscorides prefers the aromatised oil. Our Greek text reads ὀμφοκίνου; we read ὀμφακίνου, \"of unripe-olive oil\".",
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ὀμφοκίνου"
+     }
     }
    ],
    "steps": [
@@ -4135,6 +3213,12 @@
    "notes": [
     "The second pressing is called the second-grade oil (δευτερεῖον): the material will not take a third steeping.",
     "The nine plain steps are regrouped into five titled steps."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ὠκιμίνον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ἐνεργοῦν"
+    }
    ]
   },
   {
@@ -4176,23 +3260,9 @@
      "unit": "oungia",
      "name": "Aromatised oil",
      "note": "Oil already aromatised as for henna oil (kyprinon, 1.55).",
-     "_amount": {
-      "printed": "λίτρας ἐννέα οὐγγίας πέντε",
-      "en": "9 pounds 5 ounces",
-      "en_html": "9 pounds 5 ounces",
-      "metric": "3–3.1 kg",
-      "g": [
-       3028.4,
-       3096.2
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Aromatised oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 54.044085205513305
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.50@ἐλαίου"
+     }
     },
     {
      "form": "ἁβροτόνου φύλλων",
@@ -4201,23 +3271,10 @@
      "quantity": 8,
      "unit": "litra",
      "note": "The leaves; other leaves again for each further steeping.",
-     "_amount": {
-      "printed": "λίτρας ὀκτὼ",
-      "en": "8 pounds",
-      "en_html": "8 pounds",
-      "metric": "2.6 kg",
-      "g": [
-       2576,
-       2632
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "southernwood",
-     "_tr": "habrotonou phyllon",
-     "_slug": "abrotonon",
-     "_share": 45.9559147944867
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.50@ἁβροτόνου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.50@φύλλων"
+     }
     }
    ],
    "steps": [
@@ -4257,6 +3314,12 @@
    "notes": [
     "The further leaves (φύλλα, no amount) are folded into the one southernwood-leaf ingredient.",
     "Amount of leaves for each further steeping: not stated."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.50@ἁβροτονίνου",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.50@δεύτερα"
+    }
    ]
   },
   {
@@ -4297,23 +3360,9 @@
      "printed": "λίτρας ὀκτὼ οὐγγίας ἐννέα",
      "quantity": 105,
      "unit": "oungia",
-     "_amount": {
-      "printed": "λίτρας ὀκτὼ οὐγγίας ἐννέα",
-      "en": "8 pounds 9 ounces",
-      "en_html": "8 pounds 9 ounces",
-      "metric": "2.8–2.9 kg",
-      "g": [
-       2814.0,
-       2877.0
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 42.857142857142854
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.51@ἐλαίου"
+     }
     },
     {
      "form": "ἀνήθου ἄνθους",
@@ -4322,23 +3371,10 @@
      "quantity": 140,
      "unit": "oungia",
      "note": "The flowers; fresh flowers again for a double steeping.",
-     "_amount": {
-      "printed": "λίτρας ἕνδεκα οὐγγίας ὀκτὼ",
-      "en": "11 pounds 8 ounces",
-      "en_html": "11 pounds 8 ounces",
-      "metric": "3.8 kg",
-      "g": [
-       3752.0,
-       3836.0
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "dill",
-     "_tr": "anethou anthous",
-     "_slug": "anethon",
-     "_share": 57.14285714285714
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.51@ἀνήθου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.51@ἄνθους"
+     }
     }
    ],
    "steps": [
@@ -4378,6 +3414,12 @@
    "notes": [
     "The fresh flowers of the double steeping (ἀνήθου ἄνθος, no amount) are folded into the one dill-flower ingredient.",
     "Amount of fresh flowers for the double steeping: not stated."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.51@ἀνηθίνου",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.51@ὠφελοῦν"
+    }
    ]
   },
   {
@@ -4426,23 +3468,9 @@
      "use": "for the astringed oil",
      "note": "Dioscorides says only “oil”.",
      "rendering": "oil",
-     "_amount": {
-      "printed": "λίτρας ἐννέα οὐγγίας πέντε",
-      "en": "9 pounds 5 ounces",
-      "en_html": "9 pounds 5 ounces",
-      "metric": "3–3.1 kg",
-      "g": [
-       3028.4,
-       3096.2
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 41.748806417398086
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@ἐλαίου"
+     }
     },
     {
      "form": "καλάμου",
@@ -4452,23 +3480,9 @@
      "unit": "oungia",
      "use": "for the astringed oil",
      "rendering": "kalamos",
-     "_amount": {
-      "printed": "λίτρας πέντε οὐγγίας δέκα",
-      "en": "5 pounds 10 ounces",
-      "en_html": "5 pounds 10 ounces",
-      "metric": "1.9 kg",
-      "g": [
-       1876.0,
-       1918.0
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamou",
-     "_slug": "kalamos",
-     "_share": 25.86209247095457
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@καλάμου"
+     }
     },
     {
      "form": "σμύρνης",
@@ -4478,23 +3492,9 @@
      "unit": "drachme",
      "use": "for the astringed oil",
      "rendering": "myrrh",
-     "_amount": {
-      "printed": "δραχμὰς πέντε",
-      "en": "5 drachmai",
-      "en_html": "5 <i>drachmai</i>",
-      "metric": "17 g",
-      "g": [
-       16.75,
-       17.150000000000002
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna",
-     "_share": 0.23108195433984183
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@σμύρνης"
+     }
     },
     {
      "form": "οἴνῳ εὐώδει",
@@ -4502,19 +3502,10 @@
      "use": "for the astringed oil",
      "note": "Fragrant.",
      "rendering": "wine",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "wine",
-     "_tr": "oino euodei",
-     "_slug": "oinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@οἴνῳ",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@εὐώδει"
+     }
     },
     {
      "form": "καρδαμώμου",
@@ -4525,23 +3516,9 @@
      "use": "for the astringed oil",
      "note": "Chopped and soaked in rainwater.",
      "rendering": "cardamom",
-     "_amount": {
-      "printed": "λιτρῶν τριῶν οὐγγιῶν ἓξ",
-      "en": "3 pounds 6 ounces",
-      "en_html": "3 pounds 6 ounces",
-      "metric": "1.1–1.2 kg",
-      "g": [
-       1125.6000000000001,
-       1150.8
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cardamom",
-     "_tr": "kardamomou",
-     "_slug": "kardamomon",
-     "_share": 15.51725548257274
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@καρδαμώμου"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -4552,23 +3529,9 @@
      "use": "for the first steeping",
      "note": "Taken from the astringed oil just made.",
      "rendering": "oil",
-     "_amount": {
-      "printed": "τρεῖς ἥμισυ λίτρας",
-      "en": "3½ pounds",
-      "en_html": "3½ pounds",
-      "metric": "1.1–1.2 kg",
-      "g": [
-       1127.0,
-       1151.5
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 15.531570293903526
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@ἐλαίου[2]"
+     }
     },
     {
      "form": "κρίνα",
@@ -4579,39 +3542,18 @@
      "use": "for the first steeping",
      "note": "The petals, stripped off.",
      "rendering": "lily",
-     "_amount": {
-      "printed": "ἀριθμῷ χίλια",
-      "en": "1,000 by count",
-      "en_html": "<data value=\"1000\" data-count>1,000</data> by count",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": 1000
-     },
-     "_ren": "lily",
-     "_tr": "krina",
-     "_slug": "krinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@κρίνα"
+     }
     },
     {
      "form": "ἅλας",
      "lemma": "ἅλς",
      "note": "Fine; sprinkled on the oil while it is decanted, and added again at the third pressing.",
-     "flag": "not in perfume-tables",
      "rendering": "salt",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "salt",
-     "_tr": "halas",
-     "_slug": "hals"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.2@ἅλας"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -4619,21 +3561,10 @@
      "printed": "τὸ ἴσον πλῆθος τῷ προτέρῳ",
      "use": "for the second pressing",
      "note": "The same amount again, over the pressed petals; oil is poured on a third time, with no amount given.",
-     "flag": "not in perfume-tables; equal amount: no unit; the same as the first charge, presumably 3½ litrai",
      "rendering": "oil",
-     "_amount": {
-      "printed": "τὸ ἴσον πλῆθος τῷ προτέρῳ",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.2@ἐλαίου"
+     }
     },
     {
      "form": "καρδαμώμου",
@@ -4644,23 +3575,9 @@
      "use": "for the second pressing",
      "note": "Chopped; cardamom is added again, with no amount given, at the third pressing and with the second thousand lilies.",
      "rendering": "cardamom",
-     "_amount": {
-      "printed": "ὁλκὰς δέκα",
-      "en": "10 holkai",
-      "en_html": "10 <i>holkai</i>",
-      "metric": "34 g",
-      "g": [
-       33.5,
-       34.300000000000004
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cardamom",
-     "_tr": "kardamomou",
-     "_slug": "kardamomon",
-     "_share": 0.46216390867968365
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.2@καρδαμώμου"
+     }
     },
     {
      "form": "κρίνα",
@@ -4671,19 +3588,9 @@
      "use": "for a stronger oil",
      "note": "A second thousand, petals stripped, steeped in the first expression; fresh lilies each further time.",
      "rendering": "lily",
-     "_amount": {
-      "printed": "χίλια",
-      "en": "1,000 by count",
-      "en_html": "<data value=\"1000\" data-count>1,000</data> by count",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": 1000
-     },
-     "_ren": "lily",
-     "_tr": "krina",
-     "_slug": "krinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.3@κρίνα"
+     }
     },
     {
      "form": "σμύρνης",
@@ -4694,23 +3601,9 @@
      "use": "to finish, in each preparation",
      "note": "Good myrrh (χρηστῆς).",
      "rendering": "myrrh",
-     "_amount": {
-      "printed": "δραχμὰς δύο",
-      "en": "2 drachmai",
-      "en_html": "2 <i>drachmai</i>",
-      "metric": "6.7–6.9 g",
-      "g": [
-       6.7,
-       6.86
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna",
-     "_share": 0.09243278173593672
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@σμύρνης"
+     }
     },
     {
      "form": "κιναμώμου",
@@ -4719,25 +3612,10 @@
      "quantity": 2,
      "unit": "drachme",
      "use": "to finish, in each preparation",
-     "flag": "perfume-tables reads καρδαμώμου here; the oribasius-app Greek and the approved English have cinnamon",
      "rendering": "cinnamon",
-     "_amount": {
-      "printed": "δραχμὰς δύο",
-      "en": "2 drachmai",
-      "en_html": "2 <i>drachmai</i>",
-      "metric": "6.7–6.9 g",
-      "g": [
-       6.7,
-       6.86
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cinnamon",
-     "_tr": "kinamomou",
-     "_slug": "kinamomon",
-     "_share": 0.09243278173593672
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@κιναμώμου"
+     }
     },
     {
      "form": "κρόκου",
@@ -4747,23 +3625,9 @@
      "unit": "drachme",
      "use": "to finish, in each preparation",
      "rendering": "saffron",
-     "_amount": {
-      "printed": "δραχμάς δέκα",
-      "en": "10 drachmai",
-      "en_html": "10 <i>drachmai</i>",
-      "metric": "34 g",
-      "g": [
-       33.5,
-       34.300000000000004
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "saffron",
-     "_tr": "krokou",
-     "_slug": "krokos",
-     "_share": 0.46216390867968365
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@κρόκου"
+     }
     },
     {
      "form": "κρόκου",
@@ -4771,21 +3635,10 @@
      "printed": "τὸ ἴσον",
      "role": "alternative",
      "note": "Others finish with saffron and cinnamon in equal parts, pounded and sifted.",
-     "flag": "equal amount: saffron equal to the cinnamon; no unit",
      "rendering": "saffron",
-     "_amount": {
-      "printed": "τὸ ἴσον",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "saffron",
-     "_tr": "krokou",
-     "_slug": "krokos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@κρόκου[2]"
+     }
     },
     {
      "form": "κιναμώμου",
@@ -4793,21 +3646,10 @@
      "printed": "τὸ ἴσον",
      "role": "alternative",
      "note": "Equal to the saffron, pounded and sifted.",
-     "flag": "equal amount: cinnamon equal to the saffron; no unit",
      "rendering": "cinnamon",
-     "_amount": {
-      "printed": "τὸ ἴσον",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cinnamon",
-     "_tr": "kinamomou",
-     "_slug": "kinamomon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@κιναμώμου[2]"
+     }
     },
     {
      "form": "ὕδατος",
@@ -4815,19 +3657,9 @@
      "role": "alternative",
      "note": "Others put it in the basin with the saffron and cinnamon.",
      "rendering": "water",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydatos",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.2@ὕδατος"
+     }
     }
    ],
    "working": [
@@ -4836,40 +3668,20 @@
      "lemma": "ὕδωρ",
      "name": "Rainwater",
      "use": "for soaking the cardamom",
-     "flag": "the Greek prints ὀμερίῳ; presumably ὀμβρίῳ (rainwater, as the English has): check Wellmann",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Rainwater",
-     "_tr": "hydati omerio",
-     "_slug": "hydor"
+     "note": "Our Greek text reads ὀμερίῳ; we read ὀμβρίῳ, \"rain-\".",
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@ὕδατι",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@ὀμερίῳ"
+     }
     },
     {
      "form": "μέλιτι",
      "lemma": "μέλι",
      "use": "for coating the hands and vessels",
-     "flag": "not in perfume-tables; a coating for hands and vessels rather than a charge",
      "rendering": "honey",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "honey",
-     "_tr": "meliti",
-     "_slug": "meli"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@μέλιτι"
+     }
     }
    ],
    "steps": [
@@ -5043,6 +3855,12 @@
     "Rainwater and honey are moved to the working materials.",
     "The Greek calls the 3½ litrai taken for the lilies \"astringed oil\" (ἐκ τοῦ ἐστυμμένου ἐλαίου); the English says \"the expressed oil\".",
     "“Each preparation” (ἐν ἑκάστῃ σκευασίᾳ) in the finish may mean each grade or each batch."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@σουσίνου",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@τρίτου"
+    }
    ]
   },
   {
@@ -5074,56 +3892,27 @@
      "form": "ἐλαίου βαλανίνου",
      "lemma": "βαλάνινον",
      "note": "Or another oil.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balanos oil",
-     "_tr": "elaiou balaninou",
-     "_slug": "balaninon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.5@ἐλαίου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.5@βαλανίνου"
+     }
     },
     {
      "form": "ἄλλου",
      "lemma": "ἔλαιον",
      "role": "alternative",
      "note": "Another oil instead of balanos oil.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "allou",
-     "_slug": "elaion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.5@ἄλλου"
+     }
     },
     {
      "form": "κρίνου",
      "lemma": "κρίνον",
      "rendering": "lily",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "lily",
-     "_tr": "krinou",
-     "_slug": "krinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.5@κρίνου"
+     }
     }
    ],
    "steps": [
@@ -5147,6 +3936,12 @@
     "The rest of the chapter (where it is made, the best kind, its capacity and uses) is kept with this recipe as cut; it may describe σουσῖνον in general.",
     "Former flag, settled by round 3 item 1 (titles as names): title.en is the approved English's phrase 'the simple form', awkward as a page title",
     "Method: none beyond the ingredients."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.5@ἔνιοι",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.5@ποιητικόν"
+    }
    ]
   },
   {
@@ -5192,23 +3987,9 @@
      "quantity": 113,
      "unit": "oungia",
      "note": "Washed.",
-     "_amount": {
-      "printed": "λίτρας ἐννέα οὐγγίας πέντε",
-      "en": "9 pounds 5 ounces",
-      "en_html": "9 pounds 5 ounces",
-      "metric": "3–3.1 kg",
-      "g": [
-       3028.4,
-       3096.2
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 44.313725490196084
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ἐλαίου"
+     }
     },
     {
      "form": "ἀσπαλάθου",
@@ -5218,23 +3999,9 @@
      "unit": "oungia",
      "use": "for the astringent base",
      "note": "Chopped and soaked in water.",
-     "_amount": {
-      "printed": "λίτρας ἓξ οὐγγίας δύο",
-      "en": "6 pounds 2 ounces",
-      "en_html": "6 pounds 2 ounces",
-      "metric": "2 kg",
-      "g": [
-       1983.2,
-       2027.6
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "aspalathos",
-     "_tr": "aspalathou",
-     "_slug": "aspalathos",
-     "_share": 29.01960784313726
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ἀσπαλάθου"
+     }
     },
     {
      "form": "καλάμου",
@@ -5244,23 +4011,9 @@
      "unit": "oungia",
      "use": "for the astringent base",
      "note": "Pounded and sifted with the myrrh.",
-     "_amount": {
-      "printed": "λίτρας πέντε οὐγγίας ὀκτὼ",
-      "en": "5 pounds 8 ounces",
-      "en_html": "5 pounds 8 ounces",
-      "metric": "1.8–1.9 kg",
-      "g": [
-       1822.4,
-       1863.1999999999998
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamou",
-     "_slug": "kalamos",
-     "_share": 26.666666666666668
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@καλάμου"
+     }
     },
     {
      "form": "σμύρνης",
@@ -5268,39 +4021,19 @@
      "printed": "χόνδρον",
      "use": "for the astringent base",
      "note": "A lump, pounded and sifted with the calamus.",
-     "flag": "a lump (χόνδρον): no unit",
-     "_amount": {
-      "printed": "χόνδρον",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@σμύρνης"
+     }
     },
     {
      "form": "οἴνῳ παλαιῷ εὐώδει",
      "lemma": "οἶνος",
      "use": "for working the calamus and myrrh",
      "note": "Fragrant old wine.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "wine",
-     "_tr": "oino palaio euodei",
-     "_slug": "oinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@οἴνῳ",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@εὐώδει"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -5308,40 +4041,18 @@
      "name": "Prepared oil",
      "use": "for the narcissus",
      "note": "Some of the astringent oil just made; amount unknown.",
-     "flag": "not in perfume-tables; the amount is lost in the lacuna",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Prepared oil",
-     "_tr": "elaiou",
-     "_slug": "elaion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ἐλαίου[2]"
+     }
     },
     {
      "form": "ναρκίσσου",
      "lemma": "νάρκισσος",
      "printed": "ὡς ὅτι πλεῖστον",
      "note": "The flowers, as many as possible.",
-     "flag": "as much as possible: no unit",
-     "_amount": {
-      "printed": "ὡς ὅτι πλεῖστον",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "narcissus",
-     "_tr": "narkissou",
-     "_slug": "narkissos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ναρκίσσου"
+     }
     }
    ],
    "working": [
@@ -5349,19 +4060,9 @@
      "form": "ὕδατι",
      "lemma": "ὕδωρ",
      "use": "for soaking the aspalathos",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydati",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ὕδατι"
+     }
     }
    ],
    "steps": [
@@ -5463,6 +4164,12 @@
     "The Greek has a lacuna where the amount of oil taken for the narcissus stood; the approved English marks it too.",
     "The water for soaking the aspalathos is moved to the working materials; the twelve plain steps are regrouped into five titled steps.",
     "The other two-thirds of the washed oil have no stated point of addition."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ναρκίσσινον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@κεφαλαλγές"
+    }
    ]
   },
   {
@@ -5513,23 +4220,9 @@
      "unit": "litra",
      "name": "Prepared oil",
      "note": "Oil made astringent as for lily oil (1.52).",
-     "_amount": {
-      "printed": "λίτρας τρεῖς ἥμισυ",
-      "en": "3½ pounds",
-      "en_html": "3½ pounds",
-      "metric": "1.1–1.2 kg",
-      "g": [
-       1127.0,
-       1151.5
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Prepared oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 78.87631114342092
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@ἐλαίου"
+     }
     },
     {
      "form": "κρόκου",
@@ -5538,23 +4231,9 @@
      "quantity": 50,
      "unit": "drachme",
      "note": "Used for both steepings.",
-     "_amount": {
-      "printed": "δραχμὰς πεντήκοντα",
-      "en": "50 drachmai",
-      "en_html": "50 <i>drachmai</i>",
-      "metric": "168–172 g",
-      "g": [
-       167.5,
-       171.5
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "saffron",
-     "_tr": "krokou",
-     "_slug": "krokos",
-     "_share": 11.735382698099492
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@κρόκου"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -5563,20 +4242,9 @@
      "name": "Prepared oil",
      "use": "for the second steeping",
      "note": "The same amount of the astringed oil again, over the same saffron.",
-     "flag": "equal amount: no unit; presumably the same 3½ litrai as the first charge",
-     "_amount": {
-      "printed": "τὸ ἴσον πλῆθος",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Prepared oil",
-     "_tr": "elaiou",
-     "_slug": "elaion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@ἐλαίου[2]"
+     }
     },
     {
      "form": "σμύρνης",
@@ -5586,42 +4254,18 @@
      "unit": "drachme",
      "use": "to finish",
      "note": "Pounded and sifted.",
-     "_amount": {
-      "printed": "δραχμὰς τεσσαράκοντα",
-      "en": "40 drachmai",
-      "en_html": "40 <i>drachmai</i>",
-      "metric": "134–137 g",
-      "g": [
-       134.0,
-       137.20000000000002
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna",
-     "_share": 9.388306158479596
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@σμύρνης"
+     }
     },
     {
      "form": "ἐλαίῳ",
      "lemma": "ἔλαιον",
      "role": "alternative",
      "note": "Some use oil aromatised for henna oil (kyprinon, 1.55) instead.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaio",
-     "_slug": "elaion"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@ἐλαίῳ"
+     }
     }
    ],
    "steps": [
@@ -5706,8 +4350,7 @@
     {
      "form": "ἐλαίῳ διπλασίονι",
      "lemma": "ἔλαιον",
-     "printed": "διπλασίονι",
-     "flag": "twice as much: no unit"
+     "printed": "διπλασίονι"
     },
     {
      "form": "ὕδατος",
@@ -5717,6 +4360,12 @@
    "notes": [
     "The approved English ends: the unguents called onychinon, boutyrinon and styrakinon correspond to it, similar in preparation and capacity. This is not shown in the reader fields.",
     "Whether the myrrh goes into the second oil only or into both: not stated."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@κρόκινον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.2@ὄντα"
+    }
    ]
   },
   {
@@ -5765,20 +4414,10 @@
      "lemma": "ἔλαιον ὀμφάκινον",
      "printed": "μέρος ἕν",
      "note": "Thoroughly washed.",
-     "flag": "relative amount (one part to one and a half parts of rainwater): no unit",
-     "_amount": {
-      "printed": "μέρος ἕν",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "elaiou omphakinou",
-     "_slug": "elaion-omphakinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ἐλαίου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ὀμφακίνου"
+     }
     },
     {
      "form": "ἀσπαλάθου",
@@ -5787,23 +4426,9 @@
      "quantity": 5.5,
      "unit": "litra",
      "note": "Chopped and soaked in water; boiled with the oil, then taken out.",
-     "_amount": {
-      "printed": "λίτρας πέντε ἥμισυ",
-      "en": "5½ pounds",
-      "en_html": "5½ pounds",
-      "metric": "1.8 kg",
-      "g": [
-       1771.0,
-       1809.5
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "aspalathos",
-     "_tr": "aspalathou",
-     "_slug": "aspalathos",
-     "_share": 5.4575301875116216
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ἀσπαλάθου"
+     }
     },
     {
      "form": "καλάμου",
@@ -5812,23 +4437,9 @@
      "quantity": 6.5,
      "unit": "litra",
      "note": "Chopped and worked into the dissolved myrrh.",
-     "_amount": {
-      "printed": "λίτρας ἓξ ἥμισυ",
-      "en": "6½ pounds",
-      "en_html": "6½ pounds",
-      "metric": "2.1 kg",
-      "g": [
-       2093.0,
-       2138.5
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamou",
-     "_slug": "kalamos",
-     "_share": 6.449808403422826
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@καλάμου"
+     }
     },
     {
      "form": "σμύρνης",
@@ -5837,23 +4448,9 @@
      "quantity": 1,
      "unit": "litra",
      "note": "Dissolved in fragrant old wine.",
-     "_amount": {
-      "printed": "λίτραν μίαν",
-      "en": "1 pound",
-      "en_html": "1 pound",
-      "metric": "322–329 g",
-      "g": [
-       322,
-       329
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna",
-     "_share": 0.9922782159112039
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@σμύρνης"
+     }
     },
     {
      "form": "καρδαμώμου",
@@ -5862,23 +4459,9 @@
      "quantity": 45,
      "unit": "oungia",
      "note": "Chopped and worked with the rest of the rainwater.",
-     "_amount": {
-      "printed": "λίτρας τρεῖς οὐγγίας ἐννέα",
-      "en": "3 pounds 9 ounces",
-      "en_html": "3 pounds 9 ounces",
-      "metric": "1.2 kg",
-      "g": [
-       1206.0,
-       1233.0
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cardamom",
-     "_tr": "kardamomou",
-     "_slug": "kardamomon",
-     "_share": 3.7176137766627133
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@καρδαμώμου"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -5887,42 +4470,19 @@
      "quantity": 113,
      "unit": "oungia",
      "note": "Dioscorides says only “oil” here.",
-     "_amount": {
-      "printed": "λίτρας ἐννέα οὐγγίας πέντε",
-      "en": "9 pounds 5 ounces",
-      "en_html": "9 pounds 5 ounces",
-      "metric": "3–3.1 kg",
-      "g": [
-       3028.4,
-       3096.2
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 9.335341261397481
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ἐλαίου[2]"
+     }
     },
     {
      "form": "οἴνῳ παλαιῷ εὐώδει",
      "lemma": "οἶνος",
      "note": "Fragrant and old.",
      "use": "for dissolving the myrrh",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "wine",
-     "_tr": "oino palaio euodei",
-     "_slug": "oinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@οἴνῳ",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@εὐώδει"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -5930,26 +4490,11 @@
      "printed": "εἴκοσιν ὀκτὼ τοῦ ἐλαίου λίτρας",
      "quantity": 28,
      "unit": "litra",
-     "note": "The strained, aromatised oil: 46 pounds 8 ounces of henna flowers go to every 28 pounds of it.",
-     "flag": "not in perfume-tables; the oil made above is only 9 litrai 5 ounces, so the 28 litrai is a ratio or a larger batch: the text does not say",
+     "note": "The strained, aromatised oil. Dioscorides gives 28 pounds, more than the 9 pounds 5 ounces boiled above, and does not say whether this is a larger batch or the rate at which the 46 pounds 8 ounces of henna flowers go in.",
      "name": "Prepared oil",
-     "_amount": {
-      "printed": "εἴκοσιν ὀκτὼ τοῦ ἐλαίου λίτρας",
-      "en": "28 pounds",
-      "en_html": "28 pounds",
-      "metric": "9–9.2 kg",
-      "g": [
-       9016,
-       9212
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Prepared oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 27.78379004551371
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ἐλαίου[3]"
+     }
     },
     {
      "form": "ἄνθους κύπρου",
@@ -5958,63 +4503,29 @@
      "quantity": 560,
      "unit": "oungia",
      "use": "for the first steeping",
-     "_amount": {
-      "printed": "λίτρας τεσσαράκοντα ἓξ οὐγγίας ὀκτώ",
-      "en": "46 pounds 8 ounces",
-      "en_html": "46 pounds 8 ounces",
-      "metric": "15–15.3 kg",
-      "g": [
-       15008.0,
-       15344.0
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "henna blossom",
-     "_tr": "anthous kyprou",
-     "_slug": "kyprou-anthos",
-     "_share": 46.263638109580434
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.2@ἄνθους",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.2@κύπρου"
+     }
     },
     {
      "form": "ἄνθους",
      "lemma": "κύπρου ἄνθος",
      "printed": "τὸ ἴσον",
      "note": "Fresh flowers, the same amount again, for each further steeping.",
-     "flag": "equal amount: no unit; the same as the first charge, presumably 46 litrai 8 ounces",
      "use": "for a double or triple steeping",
-     "_amount": {
-      "printed": "τὸ ἴσον",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "henna blossom",
-     "_tr": "anthous",
-     "_slug": "kyprou-anthos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.2@ἄνθους[2]"
+     }
     },
     {
      "form": "κινάμωμον",
      "lemma": "κινάμωμον",
      "role": "alternative",
      "note": "Some also mix in cinnamon.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cinnamon",
-     "_tr": "kinamomon",
-     "_slug": "kinamomon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.3@κινάμωμον"
+     }
     }
    ],
    "working": [
@@ -6023,21 +4534,11 @@
      "lemma": "ὕδωρ",
      "printed": "μέρος ἓν ἥμισυ",
      "note": "Rainwater: some is poured over the oil, the rest worked into the aromatics.",
-     "flag": "relative amount (one and a half parts to one part of oil): no unit",
      "use": "for washing the oil and working the aromatics",
-     "_amount": {
-      "printed": "μέρος ἓν ἥμισυ",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydatos ombriou",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ὕδατος",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ὀμβρίου"
+     }
     }
    ],
    "steps": [
@@ -6161,8 +4662,7 @@
     {
      "form": "κηρωτῇ",
      "lemma": "κηρωτή",
-     "note": "used on its own or mixed with a cerate",
-     "flag": "not in perfume-tables"
+     "note": "used on its own or mixed with a cerate"
     }
    ],
    "notes": [
@@ -6172,6 +4672,12 @@
     "The spatula (σπάθη) used for stirring is a tool, not an ingredient.",
     "The rainwater is moved to the working materials: it washes the oil and moistens the aromatics, and the oil is strained from it. Its amount (one and a half parts) and flag are kept.",
     "Whether the 9 lb 5 oz of oil are the washed unripe-olive oil: not stated."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@κυπρίνου",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.3@ἀκόποις"
+    }
    ]
   },
   {
@@ -6215,23 +4721,9 @@
      "unit": "oungia",
      "note": "Chopped as finely as possible.",
      "use": "for preparing the oil",
-     "_amount": {
-      "printed": "λίτρας ἓξ οὐγγίας ὀκτώ",
-      "en": "6 pounds 8 ounces",
-      "en_html": "6 pounds 8 ounces",
-      "metric": "2.1–2.2 kg",
-      "g": [
-       2144.0,
-       2192.0
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "palm spathe",
-     "_tr": "spathes",
-     "_slug": "spathe",
-     "_share": 41.45077720207254
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@σπάθης"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -6239,41 +4731,17 @@
      "printed": "λίτρας ἐννέα οὐγγίας πέντε",
      "quantity": 113,
      "unit": "oungia",
-     "_amount": {
-      "printed": "λίτρας ἐννέα οὐγγίας πέντε",
-      "en": "9 pounds 5 ounces",
-      "en_html": "9 pounds 5 ounces",
-      "metric": "3–3.1 kg",
-      "g": [
-       3028.4,
-       3096.2
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 58.549222797927456
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@ἐλαίου"
+     }
     },
     {
      "form": "ἴρεως",
      "lemma": "ἶρις",
      "note": "Steeped in the astringed oil; amount as in the other method (1.56.2).",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "iris",
-     "_tr": "ireos",
-     "_slug": "iris"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@ἴρεως"
+     }
     }
    ],
    "working": [
@@ -6284,44 +4752,17 @@
      "quantity": 10,
      "unit": "kotyle",
      "use": "for boiling the spathe in the oil",
-     "_amount": {
-      "printed": "κοτύλαις δέκα",
-      "en": "10 kotylai",
-      "en_html": "10 <i>kotylai</i>",
-      "metric": "2.7 l",
-      "g": [
-       2493.4,
-       2520.8
-      ],
-      "ml": [
-       2740.0,
-       2740.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydatos",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@ὕδατος"
+     }
     },
     {
      "form": "μέλιτι",
      "lemma": "μέλι",
-     "flag": "not in perfume-tables; a coating for the vessel rather than a charge",
      "use": "for coating the mixing bowl",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "honey",
-     "_tr": "meliti",
-     "_slug": "meli"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@μέλιτι"
+     }
     }
    ],
    "steps": [
@@ -6400,7 +4841,16 @@
     "The water and the honey are moved to the working materials: the water is boiled with the spathe and oil, the honey coats the bowl. The water keeps its amount, the honey its flag.",
     "Amount of iris and steeping time: as in the other method (1.56.2)."
    ],
-   "flag": "Cut: sections 1 and 3-4 joined with […] in Greek and English; section 2 is the separate recipe dioscorides-1-56-2-irinon-allos. Check the cut."
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@ἰρίνου",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.1@ὑπογέγραπται"
+    },
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.3@κράτιστον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.4@πεπωκόσιν"
+    }
+   ]
   },
   {
    "id": "dioscorides-1-56-2-irinon-allos",
@@ -6441,23 +4891,9 @@
      "printed": "λίτρας ἐννέα οὐγγίας πέντε",
      "quantity": 113,
      "unit": "oungia",
-     "_amount": {
-      "printed": "λίτρας ἐννέα οὐγγίας πέντε",
-      "en": "9 pounds 5 ounces",
-      "en_html": "9 pounds 5 ounces",
-      "metric": "3–3.1 kg",
-      "g": [
-       3028.4,
-       3096.2
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 24.50369279764429
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@ἐλαίου"
+     }
     },
     {
      "form": "ξυλοβαλσάμου",
@@ -6466,23 +4902,9 @@
      "quantity": 62,
      "unit": "oungia",
      "note": "Chopped; boiled with the oil, then taken out.",
-     "_amount": {
-      "printed": "λίτρας πέντε οὐγγίας δύο",
-      "en": "5 pounds 2 ounces",
-      "en_html": "5 pounds 2 ounces",
-      "metric": "1.7 kg",
-      "g": [
-       1661.6000000000001,
-       1698.8
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balsam wood",
-     "_tr": "xylobalsamou",
-     "_slug": "xylobalsamon",
-     "_share": 13.444504012866778
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@ξυλοβαλσάμου"
+     }
     },
     {
      "form": "καλτάμου",
@@ -6490,64 +4912,29 @@
      "printed": "λίτρας ἐννέα οὐγγίας δέκα",
      "quantity": 118,
      "unit": "oungia",
-     "note": "Chopped.",
-     "flag": "the oribasius-app Greek prints καλτάμου, a slip for καλάμου (perfume-tables reads καλάμου; the English has \"aromatic reed\"); copied as it stands",
-     "_amount": {
-      "printed": "λίτρας ἐννέα οὐγγίας δέκα",
-      "en": "9 pounds 10 ounces",
-      "en_html": "9 pounds 10 ounces",
-      "metric": "3.2 kg",
-      "g": [
-       3162.4,
-       3233.2
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kaltamou",
-     "_slug": "kalamos",
-     "_share": 25.58792699223032
+     "note": "Chopped. Our Greek text reads καλτάμου; we read καλάμου.",
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@καλτάμου"
+     }
     },
     {
      "form": "σμύρνης",
      "lemma": "σμύρνα",
      "printed": "χόνδρον",
      "note": "A lump, moistened with fragrant aged wine.",
-     "flag": "a lump: no unit",
-     "_amount": {
-      "printed": "χόνδρον",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@σμύρνης"
+     }
     },
     {
      "form": "οἴνῳ παλαιῷ",
      "lemma": "οἶνος",
      "note": "Fragrant and aged.",
      "use": "for moistening the myrrh",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "wine",
-     "_tr": "oino palaio",
-     "_slug": "oinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@οἴνῳ",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@παλαιῷ"
+     }
     },
     {
      "form": "ἐλαίου",
@@ -6557,64 +4944,25 @@
      "unit": "litra",
      "note": "Taken from the oil just made astringent and fragrant.",
      "name": "Prepared oil",
-     "_amount": {
-      "printed": "λίτρας δέκα τέσσαρας",
-      "en": "14 pounds",
-      "en_html": "14 pounds",
-      "metric": "4.5–4.6 kg",
-      "g": [
-       4508,
-       4606
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "Prepared oil",
-     "_tr": "elaiou",
-     "_slug": "elaion",
-     "_share": 36.46387619725861
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@ἐλαίου[2]"
+     }
     },
     {
      "form": "ἴρεως",
      "lemma": "ἶρις",
      "printed": "ἴσον τῷ σταθμῷ",
      "note": "Chopped; the same weight as the oil.",
-     "flag": "equal amount: the same weight as the 14 litrai of oil; no unit",
-     "_amount": {
-      "printed": "ἴσον τῷ σταθμῷ",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "iris",
-     "_tr": "ireos",
-     "_slug": "iris"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@ἴρεως"
+     }
     },
     {
      "form": "ἴρεως",
      "lemma": "ἶρις",
      "printed": "τὸν ἴσον σταθμὸν",
      "note": "The same weight again for each further steeping.",
-     "flag": "not in perfume-tables; equal amount: no unit; the same weight as before",
-     "use": "for a stronger oil",
-     "_amount": {
-      "printed": "τὸν ἴσον σταθμὸν",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "iris",
-     "_tr": "ireos",
-     "_slug": "iris"
+     "use": "for a stronger oil"
     }
    ],
    "steps": [
@@ -6683,6 +5031,12 @@
     "Section 2 of chapter 1.56: the method others use. The uses (sections 3-4) stay with the main recipe, dioscorides-1-56-irinon.",
     "The Greek has several slips, copied as they stand: καλτάμου (for καλάμου), οἴνῳ παλαιῷ) with a stray bracket, ἐμβρέχιων (for ἐμβρέχων), Διαίως (for βιαίως, \"forcefully\").",
     "Former flag, settled by round 3 item 1 (titles as names): title.en is the chapter title \"Iris Unguent\": the approved English gives this variant no name of its own (\"Others proceed as follows.\")"
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@οἱ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@ἐξίπου[2]"
+    }
    ]
   },
   {
@@ -6721,156 +5075,68 @@
     {
      "form": "ἐλαίου ὀμφακίνου",
      "lemma": "ἔλαιον ὀμφάκινον",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "elaiou omphakinou",
-     "_slug": "elaion-omphakinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@ἐλαίου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@ὀμφακίνου"
+     }
     },
     {
      "form": "σχοίνου",
      "lemma": "σχοῖνος",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "camel-grass",
-     "_tr": "schoinou",
-     "_slug": "schoinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@σχοίνου"
+     }
     },
     {
      "form": "καλάμου",
      "lemma": "κάλαμος",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamou",
-     "_slug": "kalamos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@καλάμου"
+     }
     },
     {
      "form": "νάρδου Κελτικῆς",
      "lemma": "νάρδος κελτική",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "celtic nard",
-     "_tr": "nardou Keltikes",
-     "_slug": "nardos-keltike"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@νάρδου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@Κελτικῆς"
+     }
     },
     {
      "form": "σπάθης",
      "lemma": "σπάθη",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "palm spathe",
-     "_tr": "spathes",
-     "_slug": "spathe"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@σπάθης"
+     }
     },
     {
      "form": "ἀσπαλάθου",
      "lemma": "ἀσπάλαθος",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "aspalathos",
-     "_tr": "aspalathou",
-     "_slug": "aspalathos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@ἀσπαλάθου"
+     }
     },
     {
      "form": "μελιλώτου",
      "lemma": "μελίλωτον",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "melilot",
-     "_tr": "melilotou",
-     "_slug": "meliloton"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@μελιλώτου"
+     }
     },
     {
      "form": "κόστου",
      "lemma": "κόστος",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "costus",
-     "_tr": "kostou",
-     "_slug": "kostos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@κόστου"
+     }
     },
     {
      "form": "γλεύκους",
      "lemma": "γλεῦκος",
      "note": "Dioscorides also calls it wine.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "must",
-     "_tr": "gleukous",
-     "_slug": "gleukos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@γλεύκους"
+     }
     }
    ],
    "working": [
@@ -6878,19 +5144,9 @@
      "form": "στεμφύλων",
      "lemma": "στέμφυλα",
      "use": "packed around the vessel",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "grape pomace",
-     "_tr": "stemphylon",
-     "_slug": "stemphyla"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@στεμφύλων"
+     }
     }
    ],
    "steps": [
@@ -6939,6 +5195,12 @@
     "The Greek and English then call the must \"wine\" (τὸν οἶνον) in the vessel; it is not a separate ingredient.",
     "The grape marc is moved to the working materials: it is packed around the vessel, not put into it.",
     "Preparation of the aromatics: not stated."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@γλεύκινον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@ὄν"
+    }
    ]
   },
   {
@@ -6968,236 +5230,108 @@
     {
      "form": "ὀμφακίνου ἐλαίου",
      "lemma": "ἔλαιον ὀμφάκινον",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "omphakinou elaiou",
-     "_slug": "elaion-omphakinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ὀμφακίνου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ἐλαίου"
+     }
     },
     {
      "form": "βαλανίνου",
      "lemma": "βαλάνινον",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balanos oil",
-     "_tr": "balaninou",
-     "_slug": "balaninon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@βαλανίνου"
+     }
     },
     {
      "form": "ξυλοβαλσάμῳ",
      "lemma": "ξυλοβάλσαμον",
      "use": "for making the oils astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balsam wood",
-     "_tr": "xylobalsamo",
-     "_slug": "xylobalsamon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ξυλοβαλσάμῳ"
+     }
     },
     {
      "form": "σχοίνῳ",
      "lemma": "σχοῖνος",
      "use": "for making the oils astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "camel-grass",
-     "_tr": "schoino",
-     "_slug": "schoinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@σχοίνῳ"
+     }
     },
     {
      "form": "καλάμῳ",
      "lemma": "κάλαμος",
      "use": "for making the oils astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamo",
-     "_slug": "kalamos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@καλάμῳ"
+     }
     },
     {
      "form": "ἀμαράκῳ",
      "lemma": "ἀμάρακος",
      "use": "for perfuming",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "marjoram",
-     "_tr": "amarako",
-     "_slug": "amarakos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ἀμαράκῳ"
+     }
     },
     {
      "form": "κόστῳ",
      "lemma": "κόστος",
      "use": "for perfuming",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "costus",
-     "_tr": "kosto",
-     "_slug": "kostos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@κόστῳ"
+     }
     },
     {
      "form": "ἀμώμῳ",
      "lemma": "ἄμωμον",
      "use": "for perfuming",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "amomum",
-     "_tr": "amomo",
-     "_slug": "amomon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ἀμώμῳ"
+     }
     },
     {
      "form": "νάρδῳ",
      "lemma": "νάρδος",
      "use": "for perfuming",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "nard",
-     "_tr": "nardo",
-     "_slug": "nardos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@νάρδῳ"
+     }
     },
     {
      "form": "κασσίᾳ",
      "lemma": "κασία",
      "use": "for perfuming",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cassia",
-     "_tr": "kassia",
-     "_slug": "kasia"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@κασσίᾳ"
+     }
     },
     {
      "form": "καρπῷ βαλσάμου",
      "lemma": "καρποβάλσαμον",
      "use": "for perfuming",
      "note": "Balsam fruit.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balsam fruit",
-     "_tr": "karpo balsamou",
-     "_slug": "karpobalsamon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@καρπῷ",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@βαλσάμου"
+     }
     },
     {
      "form": "σμύρνῃ",
      "lemma": "σμύρνα",
      "use": "for perfuming",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrne",
-     "_slug": "smyrna"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@σμύρνῃ"
+     }
     },
     {
      "form": "κινάμωμον",
      "lemma": "κινάμωμον",
      "role": "alternative",
      "note": "Added for a costlier unguent.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cinnamon",
-     "_tr": "kinamomon",
-     "_slug": "kinamomon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@κινάμωμον"
+     }
     }
    ],
    "working": [
@@ -7205,37 +5339,17 @@
      "form": "μέλι",
      "lemma": "μέλι",
      "use": "for coating the vessels and kneading the chopped aromatics",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "honey",
-     "_tr": "meli",
-     "_slug": "meli"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@μέλι"
+     }
     },
     {
      "form": "οἶνος",
      "lemma": "οἶνος",
      "use": "for coating the vessels and kneading the chopped aromatics",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "wine",
-     "_tr": "oinos",
-     "_slug": "oinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@οἶνος"
+     }
     }
    ],
    "steps": [
@@ -7278,6 +5392,12 @@
     "For a costlier unguent cinnamon is added as well.",
     "Wellmann's section number 2 stands inside a sentence of the uses passage (ἀναστομωτικόν, 2 πυρωτικόν); the cut is at section 3, where the megalleion begins (dioscorides-1-58-3-megalleion; then the hedychroun report, dioscorides-1-58-3-hedychroun).",
     "Honey and wine are moved to the working materials: the text says they are used to coat the vessels and knead the chopped aromatics, not that they are ingredients of the oil."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ἀμαράκινον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.2@ἐπιτιθέμενον"
+    }
    ]
   },
   {
@@ -7314,6 +5434,12 @@
     "A report, not a recipe: prepared on Cos, with the same capacity and method of preparation as marjoram unguent (dioscorides-1-58-amarakinon), but more fragrant.",
     "The last sentence of section 3, cut from the megalleion (dioscorides-1-58-3-megalleion).",
     "The Greek prints ἠδύχρουν with a smooth breathing; the perfume-tables lexicon has ἡδύχροον."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@καὶ[4]",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@τυγχάνει"
+    }
    ]
   },
   {
@@ -7352,38 +5478,17 @@
      "lemma": "ῥητίνη",
      "note": "More than in marjoram unguent.",
      "use": "for colour and thickness",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "resin",
-     "_tr": "rhetine",
-     "_slug": "rhetine"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@ῥητίνη"
+     }
     },
     {
      "form": "τερεβινθίνη",
      "lemma": "τερμινθίνη",
-     "note": "Boiled down until it has no smell.",
-     "flag": "the resin of the item above, specified (said of perfumes in general), not a second charge",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "terebinth resin",
-     "_tr": "terebinthine",
-     "_slug": "terminthine"
+     "note": "Boiled down until it has no smell. Dioscorides says this of resin in unguents generally; it is probably the resin above, named, rather than a second ingredient.",
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@τερεβινθίνη"
+     }
     }
    ],
    "steps": [
@@ -7424,7 +5529,12 @@
     "Cut at the sentence boundary before καὶ τὸ καλούμενον δὲ ἠδύχρουν: the hedychroun is a separate report (dioscorides-1-58-3-hedychroun).",
     "The Greek prints δὲ σκευασία (the article ἡ seems lost) and ἠ τερεβινθίνη (for ἡ); copied as they stand."
    ],
-   "flag": "Cut: section 3 split at the sentence boundary before καὶ τὸ καλούμενον δὲ ἠδύχρουν; the hedychroun is a separate report. Check the cut."
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@τὸ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@αὐτοῦ"
+    }
+   ]
   },
   {
    "id": "dioscorides-1-59-metopion",
@@ -7453,189 +5563,81 @@
      "form": "ἀμυγδάλων",
      "lemma": "ἀμύγδαλον",
      "note": "Bitter.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "almonds",
-     "_tr": "amygdalon",
-     "_slug": "amygdalon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@ἀμυγδάλων"
+     }
     },
     {
      "form": "ἐλαίου ὀμφακίνου",
      "lemma": "ἔλαιον ὀμφάκινον",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "elaiou omphakinou",
-     "_slug": "elaion-omphakinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@ἐλαίου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@ὀμφακίνου"
+     }
     },
     {
      "form": "καρδαμώμου",
      "lemma": "καρδάμωμον",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cardamom",
-     "_tr": "kardamomou",
-     "_slug": "kardamomon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@καρδαμώμου"
+     }
     },
     {
      "form": "σχοίνου",
      "lemma": "σχοῖνος",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "camel-grass",
-     "_tr": "schoinou",
-     "_slug": "schoinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@σχοίνου"
+     }
     },
     {
      "form": "καλάμου",
      "lemma": "κάλαμος",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamou",
-     "_slug": "kalamos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@καλάμου"
+     }
     },
     {
      "form": "μέλιτος",
      "lemma": "μέλι",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "honey",
-     "_tr": "melitos",
-     "_slug": "meli"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@μέλιτος"
+     }
     },
     {
      "form": "οἴνου",
      "lemma": "οἶνος",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "wine",
-     "_tr": "oinou",
-     "_slug": "oinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@οἴνου"
+     }
     },
     {
      "form": "σμύρνης",
      "lemma": "σμύρνα",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@σμύρνης"
+     }
     },
     {
      "form": "βαλσάμου καρποῦ",
      "lemma": "καρποβάλσαμον",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balsam fruit",
-     "_tr": "balsamou karpou",
-     "_slug": "karpobalsamon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@βαλσάμου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@καρποῦ"
+     }
     },
     {
      "form": "χαλβάνης",
      "lemma": "χαλβάνη",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "galbanum",
-     "_tr": "chalbanes",
-     "_slug": "chalbane"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@χαλβάνης"
+     }
     },
     {
      "form": "ῥητίνης",
      "lemma": "ῥητίνη",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "resin",
-     "_tr": "rhetines",
-     "_slug": "rhetine"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@ῥητίνης"
+     }
     }
    ],
    "steps": [
@@ -7658,14 +5660,19 @@
     {
      "form": "κηρωταῖς",
      "lemma": "κηρωτή",
-     "note": "mixed into emollient plasters and cerates",
-     "flag": "not in perfume-tables"
+     "note": "mixed into emollient plasters and cerates"
     }
    ],
    "notes": [
     "Method: none given beyond the list of contents, and no order of work.",
     "A good specimen has a heavy scent and an oily consistency, with cardamom and myrrh more evident than galbanum.",
     "Wellmann's section number 3 stands after ἐλαίου in the next sentence (βαλανίνου ἐλαίου 3); the cut is at the real sentence boundary, before καὶ τὸ Μενδήσιον (dioscorides-1-59-3-mendesion)."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@σκευάζεται",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.2@δύναμιν"
+    }
    ]
   },
   {
@@ -7694,89 +5701,40 @@
     {
      "form": "βαλανίνου ἐλαίου",
      "lemma": "βαλάνινον",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balanos oil",
-     "_tr": "balaninou elaiou",
-     "_slug": "balaninon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@βαλανίνου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@ἐλαίου"
+     }
     },
     {
      "form": "σμύρνης",
      "lemma": "σμύρνα",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@σμύρνης"
+     }
     },
     {
      "form": "κασσίας",
      "lemma": "κασία",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cassia",
-     "_tr": "kassias",
-     "_slug": "kasia"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@κασσίας"
+     }
     },
     {
      "form": "ῥητίνης",
      "lemma": "ῥητίνη",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "resin",
-     "_tr": "rhetines",
-     "_slug": "rhetine"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@ῥητίνης"
+     }
     },
     {
      "form": "κινάμωμον",
      "lemma": "κινάμωμον",
      "role": "alternative",
      "note": "A little, added by some makers after the weighing.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cinnamon",
-     "_tr": "kinamomon",
-     "_slug": "kinamomon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@κινάμωμον"
+     }
     }
    ],
    "steps": [
@@ -7803,6 +5761,12 @@
     "Wellmann's section number 3 is misplaced in the Greek (βαλανίνου ἐλαίου 3 καὶ σμύρνης): section 3 really begins at καὶ τὸ Μενδήσιον, where the cut is made. perfume-tables read the 3 as a quantity of oil; dropped.",
     "Its activity resembles that of metopion (dioscorides-1-59-metopion), though weaker and less intense. No amounts are given.",
     "Method: none given beyond the contents."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@καὶ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@ἐπιτεταμένην"
+    }
    ]
   },
   {
@@ -7831,19 +5795,9 @@
      "form": "σμύρνης",
      "lemma": "σμύρνα",
      "note": "Fresh.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.60@σμύρνης"
+     }
     }
    ],
    "working": [
@@ -7853,19 +5807,9 @@
      "printed": "ὀλίγου",
      "note": "A little.",
      "use": "for pounding the myrrh",
-     "_amount": {
-      "printed": "ὀλίγου",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "hydatos",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.60@ὕδατος"
+     }
     }
    ],
    "steps": [
@@ -7897,6 +5841,12 @@
     "The Greek keeps Wellmann's bracketed [καὶ]; the English renders it [and].",
     "The water is listed as a working material (for pounding the myrrh), as the water for the schoinos is on the rose oil.",
     "The instrument is not described, and no measure of water is given."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.60@στακτὴ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.60@μύρων"
+    }
    ]
   },
   {
@@ -7927,154 +5877,72 @@
      "lemma": "βαλάνινον",
      "note": "Ben oil.",
      "use": "the base oil",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balanos oil",
-     "_tr": "elaiou balaninou",
-     "_slug": "balaninon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@ἐλαίου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@βαλανίνου"
+     }
     },
     {
      "form": "ξυλοβαλσάμου",
      "lemma": "ξυλοβάλσαμον",
      "note": "Balsam wood.",
      "use": "astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balsam wood",
-     "_tr": "xylobalsamou",
-     "_slug": "xylobalsamon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@ξυλοβαλσάμου"
+     }
     },
     {
      "form": "καλάμου",
      "lemma": "κάλαμος",
      "note": "Sweet flag.",
      "use": "astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamou",
-     "_slug": "kalamos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@καλάμου"
+     }
     },
     {
      "form": "σχοίνου",
      "lemma": "σχοῖνος",
      "note": "Camel hay.",
      "use": "astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "camel-grass",
-     "_tr": "schoinou",
-     "_slug": "schoinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@σχοίνου"
+     }
     },
     {
      "form": "κιναμώμου",
      "lemma": "κινάμωμον",
      "note": "Cinnamon.",
-     "use": "aromatic",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "cinnamon",
-     "_tr": "kinamomou",
-     "_slug": "kinamomon"
+     "use": "aromatic"
     },
     {
      "form": "βαλσάμου καρποῦ",
      "lemma": "καρποβάλσαμον",
      "note": "Balsam fruit.",
      "use": "aromatic",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balsam fruit",
-     "_tr": "balsamou karpou",
-     "_slug": "karpobalsamon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@βαλσάμου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@καρποῦ"
+     }
     },
     {
      "form": "σμύρνης",
      "lemma": "σμύρνα",
      "printed": "τετραπλασίονος παράὰ τὸ κινάμωμον",
-     "note": "Four times as much as the cinnamon.",
-     "flag": "four times as much as the cinnamon, which has no amount: no unit. The Greek prints παράὰ (sic), presumably for παρὰ",
+     "note": "Four times as much as the cinnamon, which has no amount. Our Greek text prints παράὰ; we read παρὰ.",
      "use": "aromatic",
-     "_amount": {
-      "printed": "τετραπλασίονος παράὰ τὸ κινάμωμον",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@σμύρνης"
+     }
     },
     {
      "form": "μέλι",
      "lemma": "μέλι",
      "note": "Mixed in during the kneading.",
      "use": "in the kneading",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "honey",
-     "_tr": "meli",
-     "_slug": "meli"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@μέλι"
+     }
     }
    ],
    "steps": [
@@ -8112,32 +5980,27 @@
      "form": "ἐλαίῳ διπλασίονι",
      "lemma": "ἔλαιον",
      "printed": "διπλασίονι",
-     "note": "with wax and marrow, for disorders around the uterus",
-     "flag": "not in perfume-tables (uses passage); twice as much as the unguent: no unit"
+     "note": "with wax and marrow, for disorders around the uterus"
     },
     {
      "form": "κηρῷ",
      "lemma": "κηρός",
-     "note": "with oil and marrow, for disorders around the uterus",
-     "flag": "not in perfume-tables (uses passage)"
+     "note": "with oil and marrow, for disorders around the uterus"
     },
     {
      "form": "μυελῷ",
      "lemma": "μυελός",
-     "note": "with oil and wax, for disorders around the uterus",
-     "flag": "not in perfume-tables (uses passage)"
+     "note": "with oil and wax, for disorders around the uterus"
     },
     {
      "form": "καρδαμώμῳ",
      "lemma": "καρδάμωμον",
-     "note": "for fistulas, putrefactions, hydroceles, carbuncles and gangrenes",
-     "flag": "not in perfume-tables (uses passage)"
+     "note": "for fistulas, putrefactions, hydroceles, carbuncles and gangrenes"
     },
     {
      "form": "ὀλύνθοις",
      "lemma": "ὄλυνθος",
-     "note": "finely ground (λείοις); in a poultice for scorpion stings and spider bites",
-     "flag": "not in perfume-tables (uses passage)"
+     "note": "finely ground (λείοις); in a poultice for scorpion stings and spider bites"
     }
    ],
    "notes": [
@@ -8145,6 +6008,12 @@
     "The text names no amounts except the myrrh, given relative to the cinnamon.",
     "ῥητίνη is named only to say the unguent's thickness comes from myrrh, not resin; it is not an ingredient and is not listed.",
     "What is kneaded with the honey is not stated."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@κιναμώμινον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.2@λείοις"
+    }
    ]
   },
   {
@@ -8176,264 +6045,124 @@
      "lemma": "μαλάβαθρον",
      "note": "The leaf; it may be left out.",
      "use": "optional",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "malabathron",
-     "_tr": "malabathrinou phyllou",
-     "_slug": "malabathron"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@μαλαβαθρίνου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@φύλλου"
+     }
     },
     {
      "form": "βαλανίνῳ ἐλαίῳ",
      "lemma": "βαλάνινον",
      "note": "Ben oil, the usual base.",
      "use": "the base oil",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balanos oil",
-     "_tr": "balanino elaio",
-     "_slug": "balaninon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@βαλανίνῳ",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@ἐλαίῳ"
+     }
     },
     {
      "form": "ὀμφακίνῳ",
      "lemma": "ἔλαιον ὀμφάκινον",
      "role": "alternative",
      "note": "Oil of unripe olives, instead of the ben oil.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "omphakino",
-     "_slug": "elaion-omphakinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@ὀμφακίνῳ"
+     }
     },
     {
      "form": "σχοῖνος",
      "lemma": "σχοῖνος",
      "note": "Camel hay.",
      "use": "to make the oil astringent",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "camel-grass",
-     "_tr": "schoinos",
-     "_slug": "schoinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@σχοῖνος"
+     }
     },
     {
      "form": "κόστος",
      "lemma": "κόστος",
      "use": "for fragrance",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "costus",
-     "_tr": "kostos",
-     "_slug": "kostos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@κόστος"
+     }
     },
     {
      "form": "ἄμωμον",
      "lemma": "ἄμωμον",
      "use": "for fragrance",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "amomum",
-     "_tr": "amomon",
-     "_slug": "amomon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@ἄμωμον"
+     }
     },
     {
      "form": "νάρδος",
      "lemma": "νάρδος",
      "use": "for fragrance",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "nard",
-     "_tr": "nardos",
-     "_slug": "nardos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@νάρδος"
+     }
     },
     {
      "form": "σμύρνα",
      "lemma": "σμύρνα",
      "use": "for fragrance",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrna",
-     "_slug": "smyrna"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@σμύρνα"
+     }
     },
     {
      "form": "βάλσαμον",
      "lemma": "βάλσαμον",
      "use": "for fragrance",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "balsam",
-     "_tr": "balsamon",
-     "_slug": "balsamon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@βάλσαμον"
+     }
     },
     {
      "form": "ὀμφακίνου ἐλαίου",
      "lemma": "ἔλαιον ὀμφάκινον",
      "role": "alternative",
      "note": "In the plain version.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "unripe-olive oil",
-     "_tr": "omphakinou elaiou",
-     "_slug": "elaion-omphakinon"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@ὀμφακίνου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@ἐλαίου[2]"
+     }
     },
     {
      "form": "σχοίνου",
      "lemma": "σχοῖνος",
      "role": "alternative",
      "note": "Camel hay; in the plain version.",
-     "flag": "not in perfume-tables",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "camel-grass",
-     "_tr": "schoinou",
-     "_slug": "schoinos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@σχοίνου"
+     }
     },
     {
      "form": "καλάμου",
      "lemma": "κάλαμος",
      "role": "alternative",
      "note": "Sweet flag; in the plain version.",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "kalamos",
-     "_tr": "kalamou",
-     "_slug": "kalamos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@καλάμου"
+     }
     },
     {
      "form": "κόστου",
      "lemma": "κόστος",
      "role": "alternative",
      "note": "In the plain version.",
-     "flag": "not in perfume-tables",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "costus",
-     "_tr": "kostou",
-     "_slug": "kostos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@κόστου"
+     }
     },
     {
      "form": "νάρδου",
      "lemma": "νάρδος",
      "role": "alternative",
      "note": "In the plain version.",
-     "flag": "not in perfume-tables",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "nard",
-     "_tr": "nardou",
-     "_slug": "nardos"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@νάρδου"
+     }
     }
    ],
    "steps": [
@@ -8478,7 +6207,12 @@
     "Resin (ῥητίνην) is named only to say the unguent is glutinous when it contains resin; it is not listed.",
     "The plain version (plain step 5) is moved to other_ways; its ingredients stay in the list as alternatives."
    ],
-   "flag": "one perfume-tables record covers both the full unguent and the plain version (λιτή) of the last sentence; the plain version's ingredients are listed with role 'alternative'. Check whether it should be a recipe of its own."
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@νάρδινον",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@νάρδου[2]"
+    }
+   ]
   },
   {
    "id": "dioscorides-1-63-iasmelaion",
@@ -8508,25 +6242,7 @@
      "printed": "οὐγγίων βʹ",
      "quantity": 2,
      "unit": "oungia",
-     "note": "Its white flowers.",
-     "flag": "the Greek accents ἰοῦ, the genitive of ἰός (verdigris), not ἴου of ἴον (violet); taken as the violet, as perfume-tables' context and the flowers require",
-     "_amount": {
-      "printed": "οὐγγίων βʹ",
-      "en": "2 ounces",
-      "en_html": "2 ounces",
-      "metric": "54–55 g",
-      "g": [
-       53.6,
-       54.8
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "violets",
-     "_tr": "iou",
-     "_slug": "ion",
-     "_share": 9.770959338747623
+     "note": "Its white flowers. The Greek is accented as if from ἰός, \"verdigris\"; we read ἴον, the violet, as its flowers suggest."
     },
     {
      "form": "σησαμίνου ἐλαίου",
@@ -8534,28 +6250,7 @@
      "printed": "Ἰταλικῷ ξέστῃ",
      "quantity": 1,
      "unit": "xestes",
-     "note": "An Italian xestes (sextarius).",
-     "flag": "not in perfume-tables",
-     "_amount": {
-      "printed": "Ἰταλικῷ ξέστῃ",
-      "en": "1 xestes",
-      "en_html": "1 <i>xestes</i>",
-      "metric": "547 ml",
-      "g": [
-       497.77000000000004,
-       503.24
-      ],
-      "ml": [
-       547.0,
-       547.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "sesame oil",
-     "_tr": "sesaminou elaiou",
-     "_slug": "sesaminon",
-     "_share": 90.22904066125237
+     "note": "An Italian xestes (sextarius)."
     }
    ],
    "steps": [
@@ -8588,8 +6283,7 @@
     "Its uses: among the Persians at banquets for its fragrance, and over the whole body in the baths for bodies that need warming and relaxing. Its scent is heavy, so that many find it unpleasant.",
     "The Italian xestes is taken as the xestes of units.json.",
     "english is a draft translation from the Greek, made for the cookbook (round 3 item 10), not an approved translation; status draft-translation."
-   ],
-   "flag": "No approved English: the English is a draft translation from the Greek (round 3 item 10), and the Greek comes from perfume-tables, which takes it from Wellmann's apparatus to 1.63, not from the oribasius-app text."
+   ]
   },
   {
    "id": "dioscorides-1-63-malabathrinon",
@@ -8619,20 +6313,9 @@
      "lemma": "σμύρνα",
      "printed": "πλεῖον",
      "note": "More than in nard unguent.",
-     "flag": "more than in nard unguent (1.62), which gives no amount: no unit",
-     "_amount": {
-      "printed": "πλεῖον",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "myrrh",
-     "_tr": "smyrnes",
-     "_slug": "smyrna"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.63@σμύρνης"
+     }
     }
    ],
    "steps": [
@@ -8661,6 +6344,12 @@
     "The oribasius-app Greek of 1.63 holds only this entry: the jasmine oil (ἰάσμη) that perfume-tables keeps under 1.63 comes from Wellmann's apparatus and is ported separately as dioscorides-1-63-iasmelaion. Nothing is cut.",
     "The astringent ingredients (στύμματα) are those of nard unguent (1.62: camel hay); they are not listed here.",
     "The text does not name malabathron itself among the ingredients; the page says only what it says."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.63@τὸ",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.63@δύναμιν"
+    }
    ]
   },
   {
@@ -8702,25 +6391,9 @@
      "quantity": 1,
      "unit": "chous",
      "note": "Any liquid resin, melted and strained first.",
-     "_amount": {
-      "printed": "χοῦν",
-      "en": "1 chous",
-      "en_html": "1 <i>chous</i>",
-      "metric": "3.3 l",
-      "g": [
-       2986.62,
-       3019.44
-      ],
-      "ml": [
-       3282.0,
-       3282.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "resin",
-     "_tr": "rhetines",
-     "_slug": "rhetine"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@ῥητίνης"
+     }
     }
    ],
    "working": [
@@ -8730,28 +6403,12 @@
      "printed": "δύο δὲ χοέας",
      "quantity": 2,
      "unit": "chous",
-     "note": "Rainwater.",
-     "flag": "the Greek prints ὀμερίου; presumably ὀμβρίου (rainwater, as the English has): check Wellmann",
+     "note": "Rainwater. Our Greek text reads ὀμερίου; we read ὀμβρίου.",
      "use": "for boiling the resin",
-     "_amount": {
-      "printed": "δύο δὲ χοέας",
-      "en": "2 choes",
-      "en_html": "2 <i>choes</i>",
-      "metric": "6.6 l",
-      "g": [
-       5973.24,
-       6038.88
-      ],
-      "ml": [
-       6564.0,
-       6564.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "water",
-     "_tr": "omeriou hydatos",
-     "_slug": "hydor"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@ὀμερίου",
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@ὕδατος"
+     }
     }
    ],
    "steps": [
@@ -8806,6 +6463,12 @@
     "The rainwater is listed as a working material (it is boiled off); plain steps 2 and 3 (vessel, charging) are merged into one boiling step.",
     "Former flag, settled by round 3 item 1 (titles as names): title.en is a phrase copied from the approved English ('Every liquid resin is processed by heating'), awkward as a page title; the approved chapter title is 'The Terebinth'",
     "Whether the fourfold vessel is reckoned on the resin alone or on resin and water together is not stated."
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@καίεται",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@αὐτῆς"
+    }
    ]
   },
   {
@@ -8847,41 +6510,19 @@
     {
      "form": "ῥητίνης",
      "lemma": "ῥητίνη",
-     "note": "Liquid resins, as in 1.71.5.",
-     "flag": "section 6 does not name the resin it burns; the only form of ῥητίνη in the cut is in λιγνὺς ῥητίνης (resin soot), used here as the form",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "resin",
-     "_tr": "rhetines",
-     "_slug": "rhetine"
+     "note": "The section does not name its resin; presumably the liquid resins of 1.71.5.",
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.6@ῥητίνης"
+     }
     },
     {
      "form": "ξηρὰς",
      "lemma": "ῥητίνη",
      "role": "alternative",
      "note": "Dry resins, boiled for one full day only.",
-     "flag": "the form is the adjective alone; the noun ῥητίνας is understood",
-     "_amount": {
-      "printed": "",
-      "en": "",
-      "en_html": "",
-      "metric": "",
-      "g": null,
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "resin",
-     "_tr": "xeras",
-     "_slug": "rhetine"
+     "occurrence": {
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.6@ξηρὰς"
+     }
     }
    ],
    "steps": [
@@ -8937,6 +6578,12 @@
     "The Greek keeps Wellmann's bracketed [καὶ]; the English renders it [and].",
     "The dry resins are marked as an alternative input (role \"alternative\"): they take one day instead of three days and nights.",
     "Former flag, settled by round 3 item 1 (titles as names): title.en is the approved English's sentence 'Resins are also processed over coals without water', awkward as a page title; the approved chapter title is 'The Terebinth'"
+   ],
+   "passage": [
+    {
+     "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.6@καίονται",
+     "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.6@γράφομεν"
+    }
    ]
   },
   {
@@ -8982,25 +6629,7 @@
      "printed": "𐆄 γ",
      "quantity": 3,
      "unit": "oungia",
-     "note": "Red rose petals, their nail-like bases removed, aired for a day and a night.",
-     "flag": "perfume-tables gives the amount as 'α 𐆄 γ'; the α is read with νυχθήμερον ('one day-and-night', as the approved English and Aët. 1.113 ἡμέραν καὶ νύκτα 𐆄 γ), so the amount is 𐆄 γ, three ounces",
-     "_amount": {
-      "printed": "𐆄 γ",
-      "en": "3 ounces",
-      "en_html": "3 ounces",
-      "metric": "80–82 g",
-      "g": [
-       80.4,
-       82.19999999999999
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "rose",
-     "_tr": "Rhodon",
-     "_slug": "rhodon",
-     "_share": 13.973754092866168
+     "note": "Red rose petals, their nail-like bases removed, aired for a day and a night."
     },
     {
      "form": "ἐλαίου ὀμφακίνου",
@@ -9008,29 +6637,8 @@
      "printed": "ξ̸ Ἰταλικὸν α",
      "quantity": 1,
      "unit": "xestes",
-     "note": "Oil of unripe olives (omphakine oil).",
-     "flag": "Italian sextarius taken to be the xestes of units.json (0.547 l)",
-     "name": "Unripe-olive oil",
-     "_amount": {
-      "printed": "ξ̸ Ἰταλικὸν α",
-      "en": "1 xestes",
-      "en_html": "1 <i>xestes</i>",
-      "metric": "547 ml",
-      "g": [
-       497.77000000000004,
-       503.24
-      ],
-      "ml": [
-       547.0,
-       547.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "Unripe-olive oil",
-     "_tr": "elaiou omphakinou",
-     "_slug": "elaion",
-     "_share": 86.02624590713384
+     "note": "Oil of unripe olives (omphakine oil). An Italian xestes is the Roman sextarius; the metric figure takes it to be the same measure as the ordinary xestes.",
+     "name": "Unripe-olive oil"
     }
    ],
    "steps": [
@@ -9136,24 +6744,7 @@
      "printed": "𐆄 γ",
      "quantity": 3,
      "unit": "oungia",
-     "note": "Red roses, the calyces removed, cooled for a day and a night.",
-     "_amount": {
-      "printed": "𐆄 γ",
-      "en": "3 ounces",
-      "en_html": "3 ounces",
-      "metric": "80–82 g",
-      "g": [
-       80.4,
-       82.19999999999999
-      ],
-      "ml": null,
-      "oil": false,
-      "count": null
-     },
-     "_ren": "rose",
-     "_tr": "rhodon",
-     "_slug": "rhodon",
-     "_share": 13.973754092866168
+     "note": "Red roses, the calyces removed, cooled for a day and a night."
     },
     {
      "form": "ἐλαίου ὀμφακίνου",
@@ -9161,29 +6752,8 @@
      "printed": "ξέστης ἰταλικὸς εἷς",
      "quantity": 1,
      "unit": "xestes",
-     "note": "Omphakine oil, from unripe olives.",
-     "flag": "Italian sextarius taken to be the xestes of units.json (0.547 l)",
-     "name": "Unripe-olive oil",
-     "_amount": {
-      "printed": "ξέστης ἰταλικὸς εἷς",
-      "en": "1 xestes",
-      "en_html": "1 <i>xestes</i>",
-      "metric": "547 ml",
-      "g": [
-       497.77000000000004,
-       503.24
-      ],
-      "ml": [
-       547.0,
-       547.0
-      ],
-      "oil": true,
-      "count": null
-     },
-     "_ren": "Unripe-olive oil",
-     "_tr": "elaiou omphakinou",
-     "_slug": "elaion",
-     "_share": 86.02624590713384
+     "note": "Omphakine oil, from unripe olives. An Italian xestes is the Roman sextarius; the metric figure takes it to be the same measure as the ordinary xestes.",
+     "name": "Unripe-olive oil"
     }
    ],
    "steps": [
@@ -9244,14 +6814,12 @@
     {
      "form": "ὕδατι",
      "lemma": "ὕδωρ",
-     "note": "cold or warm water, drunk with the finest rose oil",
-     "flag": "not in perfume-tables"
+     "note": "cold or warm water, drunk with the finest rose oil"
     },
     {
      "form": "ἑψήματι",
      "lemma": "ἕψημα",
-     "note": "a decoction 'prepared from wine diluted to one-third strength' (approved English), mixed with the oil and drunk against worms",
-     "flag": "not in perfume-tables; the lexicon glosses ἕψημα 'boiled-down must', and τριτουμένου may mean wine boiled down to a third rather than 'diluted'"
+     "note": "a decoction 'prepared from wine diluted to one-third strength' (approved English), mixed with the oil and drunk against worms"
     }
    ],
    "notes": [
@@ -9262,8 +6830,7 @@
     "The Italian sextarius (ξέστης ἰταλικός) is taken to be the xestes of units.json.",
     "Twenty days in the sun (κ) here against forty in Paul 7.20.4 (μ); the well alternative is forty days in both.",
     "Plain step 6 (the well instead of the sun) is moved to other_ways; plain steps 4 and 5 (strain, store) are merged."
-   ],
-   "flag": "Cut: the text joins two separate stretches of the chapter, marked […]; the chapter heading (which names the wax-salve too) is left out and the closing passage on drinking the finest rose oil is kept with the oil. Check the cut."
+   ]
   }
  ]
 }
