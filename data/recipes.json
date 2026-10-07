@@ -196,6 +196,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.1@κῦφι",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.25.2@ὀστράκινον"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-25-kyphi"
    ]
   },
   {
@@ -301,6 +304,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.1@ἔλαιον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.2@δύναμιν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-30-omphakinon"
    ]
   },
   {
@@ -491,6 +497,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.3@λευκαίνεται",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.4@γένηται"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-30-whitened-oil"
    ]
   },
   {
@@ -552,6 +561,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.3@τὸ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.3@ἐπαλειφόμενον"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-30-3-agrias-elaias"
    ]
   },
   {
@@ -658,6 +670,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.5@ἔνεστι",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.30.5@στιλβώθρῳ"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-30-5-sikyonion"
    ]
   },
   {
@@ -709,6 +724,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.31@ἐλαιόμελι",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.31@καταφέρεσθαι"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-31-elaiomeli"
    ]
   },
   {
@@ -770,6 +788,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.31@σκευάζεται",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.31@ὠφελεῖ"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-31-thalloi-oil"
    ]
   },
   {
@@ -871,6 +892,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.1@κίκινον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.1@ἀποτίθεσο"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-32-kikinon"
    ]
   },
   {
@@ -945,6 +969,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.2@οἱ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.32.2@ἕλμινθας"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-32-2-kikinon-aigyption"
    ]
   },
   {
@@ -1092,6 +1119,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.33.1@ἀμυγδάλινον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.33.2@σμήχει"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-33-amygdalinon"
    ]
   },
   {
@@ -1149,6 +1179,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@ἐοικότως",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@ἐγχεόμενον"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-34-balaninon"
    ]
   },
   {
@@ -1223,6 +1256,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@ὁμοίως",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.34@βαλανίνῳ"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-34-sesaminon-karyinon"
    ]
   },
   {
@@ -1329,6 +1365,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.35@καὶ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.35@ὄν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-35-hyoskyaminon"
    ]
   },
   {
@@ -1366,6 +1405,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.36@ὡσαύτως",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.36@μᾶλλον"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-36-knekikon"
    ]
   },
   {
@@ -1432,6 +1474,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.36@ὁμοίως",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.36@πινόμενον"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-36-knidion"
    ]
   },
   {
@@ -1469,6 +1514,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.37@καὶ[3]",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.37@ῥαφανίνῳ"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-37-melanthinon"
    ]
   },
   {
@@ -1529,6 +1577,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.37@τὸ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.37@αὐτό"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-37-raphaninon"
    ]
   },
   {
@@ -1605,6 +1656,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.38@τὸ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.38@ὄν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-38-sinapinon"
    ]
   },
   {
@@ -1770,6 +1824,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.1@μυρσίνινον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.39.2@χρείαν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-39-myrsininon"
    ]
   },
   {
@@ -1927,6 +1984,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.1@τὸ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.40.2@ποθέν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-40-daphninon"
    ]
   },
   {
@@ -1999,6 +2059,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.41@τὸ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.41@στύφει"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-41-schininon"
    ]
   },
   {
@@ -2058,6 +2121,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.42.1@τὸ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.42.1@κάλλιστον"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-42-mastichinon"
    ]
   },
   {
@@ -2339,6 +2405,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.1@ῥοδίνου",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.43.4@χρήσιμον"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-43-rhodinon"
    ]
   },
   {
@@ -2436,6 +2505,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.44@ἐλατίνου",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.44@μαλάσσει"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-44-elatinon"
    ]
   },
   {
@@ -2578,6 +2650,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@μηλίνον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.1@ἔλαιον[2]"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-45-melinon"
    ]
   },
   {
@@ -2672,6 +2747,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.2@ἔνιοι",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.45.2@μήλων"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-45-2-melinon-allos"
    ]
   },
   {
@@ -2759,6 +2837,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.46@οἰνανθίνου",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.46@οἰνάνθην[2]"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-46-oinanthinon"
    ]
   },
   {
@@ -2907,6 +2988,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.1@τηλίνου",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.47.2@κάλλιστον"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-47-telinon"
    ]
   },
   {
@@ -2954,7 +3038,7 @@
     },
     {
      "form": "κασσίας",
-     "lemma": "κασία",
+     "lemma": "κασσία",
      "occurrence": {
       "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@κασσίας"
      }
@@ -2986,7 +3070,7 @@
     },
     {
      "form": "σαμψούχου",
-     "lemma": "σάμψυχον",
+     "lemma": "σάμψουχον",
      "occurrence": {
       "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@σαμψούχου"
      }
@@ -3057,6 +3141,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.1@σαμψουχίνου",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.48.2@σπωμένων"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-48-sampsouchinon"
    ]
   },
   {
@@ -3219,6 +3306,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ὠκιμίνον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.49@ἐνεργοῦν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-49-okiminon"
    ]
   },
   {
@@ -3320,6 +3410,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.50@ἁβροτονίνου",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.50@δεύτερα"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-50-habrotoninon"
    ]
   },
   {
@@ -3420,6 +3513,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.51@ἀνηθίνου",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.51@ὠφελοῦν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-51-anethinon"
    ]
   },
   {
@@ -3456,7 +3552,7 @@
     ],
     "note": "The boil and the steeping with cardamom have no stated times. No temperatures are given."
    },
-   "greek": "σουσίνου σκευασία, ὃ ἔνιοι λείρινον καλοῦσιν ἐλαίου λίτρας ἐννέα οὐγγίας πέντε, καλάμου λίτρας πέντε οὐγγίας δέκα, σμύρνης δραχμὰς πέντε φυράσας οἴνῳ εὐώδει ἕψε, εἶτα ἀπηθήσας τὸ ἔλαιον ἀπόχει κατὰ καρδαμώμου κεκομμένου καὶ βεβρεγμένου ὕδατι ὀμερίῳ λιτρῶν τριῶν οὐγγιῶν ἓξ καὶ ἐάσας βραχῆναι ἀπόθλιβε· καὶ λαβὼν ἐκ τοῦ ἐστυμμένου ἐλαίου τρεῖς ἥμισυ λίτρας, κρίνα ἀριθμῷ χίλια ἀποφυλλίσας θὲς ἐν λουτῆρι πλατεῖ, μὴ βαθεῖ, ἐπιχέας τε τὸ ἔλαιον ἀνακίνει ταῖς χερσὶ μέλιτι κεχρισμέναις. ἐάσας δὲ ἡμέραν μίαν καὶ νύκτα, πρωὶ δὲ ἀνελόμενος εἰς κυρτίδα ἐξίπου. 2 τὸ δὲ φερόμενον ἀπήθει εὐθέως ἀπὸ τοῦ συνεκθλιβέντος ὕδατος τῷ ἐλαίῳ· οὐ γὰρ ὑπομένει ὡς τὸ ῥόδινον, συνθερμαινόμενον δὲ ἀναζεῖ καὶ σήπεται. μετάγγιζε δὲ πλεονάκις εἰς ἕτερα ἀγγεῖα μέλιτι κατακεχρισμένα, προσπάσσων ἅλας λεπτοὺς καὶ τὴν συλλεγομένην ἀκαθαρσίαν ἐπιμελῶς ἀφαιρῶν. μετεράσας δὲ ἐκ τοῦ κυρτιδίου τὸ ἐξιπωθὲν ἄρωμα εἰς τὸν λουτῆρα πάλιν ἐπίχει τοῦ ήρωματισμένου ἐλαίου τὸ ἴσον πλῆθος τῷ προτέρῳ καὶ καρδαμώμου κεκομμένου συνέμβαλε ὁλκὰς δέκα, καὶ ἀνακινήσας χρησίμως ταῖς χερσὶ καὶ ἐπισχὼν μικρὸν ἐξίπου, τὸ ἀπορρέον ἀποκαθαίρων. 3 καὶ τρίτον ἐπιχέας πάλιν τὸ αὐτὸ ποίει, προσεπεμβάλλων καὶ τὸ καρδάμωμον καὶ τοὺς ἅλας ὁμοίως καὶ τὰς χεῖρας μέλιτι χρίων καὶ θλίβων. καὶ ἔσται τὸ μὲν πρῶτον ἐκπιεσθὲν ἄριστον, ἐχόμενον δὲ τὸ ἑξῆς, τρίτον δὲ τὸ τελευταῖον. καὶ πάλιν λαβὼν χίλια κρίνα καὶ ἀποφυλλίσας διάθες καὶ ἐπιχέας τὸ πρῶτον ἐξιπωθὲν μεθόδευε, τὰ αὐτὰ ποιῶν ὥσπερ ἐποίεις ἐπὶ τοῦ πρώτου, καρδάμωμον παραμίσγων, εἶτα ἐξίπου καὶ ποίει τὰ αὐτὰ ἐπὶ τοῦ δευτέρου καὶ τρίτου, ὡς εἴρηται, προσεμβάλλων καὶ τὸ καρδάμωμον, καὶ ὁσάκις ἂν ἀποβρέξῃς νεαρὰ κρίνα, δυναμικώτερον ἕξεις τὸ μύρον. 4 ἐπὶ τέλει δὲ ὅταν αὐτάρκως ἔχειν σοι δοκῇ, μίσγε ἐν ἑκάστῃ σκευασίᾳ σμύρνης χρηστῆς δραχμὰς δύο, κιναμώμου δραχμὰς δύο, κρόκου δραχμάς δέκα. οἱ δέ· κρόκου καὶ κιναμώμου τὸ ἴσον κόψας σήσας ἔμβαλε εἰς τὸν λουτῆρα μεθʼ ὕδατος καὶ ἐπίχει τὸ πρῶτον ἐκπιεσθὲν μύρον, εἶτα ἐάσας μικρὸν ἀναλάμβανε εἰς ἀγγεῖα ξηρά, προκεχρισμένα κόμμει καὶ σμύρνῃ καὶ κρόκῳ καὶ μέλιτι μεθʼ ὕδατος διειμένοις· τὸ δʼ αὐτὸ ποίει καὶ ἐπὶ τοῦ δευτέρου ἐκπιέσματος καὶ τοῦ τρίτου.",
+   "greek": "σουσίνου σκευασία, ὃ ἔνιοι λείρινον καλοῦσιν ἐλαίου λίτρας ἐννέα οὐγγίας πέντε, καλάμου λίτρας πέντε οὐγγίας δέκα, σμύρνης δραχμὰς πέντε φυράσας οἴνῳ εὐώδει ἕψε, εἶτα ἀπηθήσας τὸ ἔλαιον ἀπόχει κατὰ καρδαμώμου κεκομμένου καὶ βεβρεγμένου ὕδατι ὀμβρίῳ λιτρῶν τριῶν οὐγγιῶν ἓξ καὶ ἐάσας βραχῆναι ἀπόθλιβε· καὶ λαβὼν ἐκ τοῦ ἐστυμμένου ἐλαίου τρεῖς ἥμισυ λίτρας, κρίνα ἀριθμῷ χίλια ἀποφυλλίσας θὲς ἐν λουτῆρι πλατεῖ, μὴ βαθεῖ, ἐπιχέας τε τὸ ἔλαιον ἀνακίνει ταῖς χερσὶ μέλιτι κεχρισμέναις. ἐάσας δὲ ἡμέραν μίαν καὶ νύκτα, πρωὶ δὲ ἀνελόμενος εἰς κυρτίδα ἐξίπου. 2 τὸ δὲ φερόμενον ἀπήθει εὐθέως ἀπὸ τοῦ συνεκθλιβέντος ὕδατος τῷ ἐλαίῳ· οὐ γὰρ ὑπομένει ὡς τὸ ῥόδινον, συνθερμαινόμενον δὲ ἀναζεῖ καὶ σήπεται. μετάγγιζε δὲ πλεονάκις εἰς ἕτερα ἀγγεῖα μέλιτι κατακεχρισμένα, προσπάσσων ἅλας λεπτοὺς καὶ τὴν συλλεγομένην ἀκαθαρσίαν ἐπιμελῶς ἀφαιρῶν. μετεράσας δὲ ἐκ τοῦ κυρτιδίου τὸ ἐξιπωθὲν ἄρωμα εἰς τὸν λουτῆρα πάλιν ἐπίχει τοῦ ήρωματισμένου ἐλαίου τὸ ἴσον πλῆθος τῷ προτέρῳ καὶ καρδαμώμου κεκομμένου συνέμβαλε ὁλκὰς δέκα, καὶ ἀνακινήσας χρησίμως ταῖς χερσὶ καὶ ἐπισχὼν μικρὸν ἐξίπου, τὸ ἀπορρέον ἀποκαθαίρων. 3 καὶ τρίτον ἐπιχέας πάλιν τὸ αὐτὸ ποίει, προσεπεμβάλλων καὶ τὸ καρδάμωμον καὶ τοὺς ἅλας ὁμοίως καὶ τὰς χεῖρας μέλιτι χρίων καὶ θλίβων. καὶ ἔσται τὸ μὲν πρῶτον ἐκπιεσθὲν ἄριστον, ἐχόμενον δὲ τὸ ἑξῆς, τρίτον δὲ τὸ τελευταῖον. καὶ πάλιν λαβὼν χίλια κρίνα καὶ ἀποφυλλίσας διάθες καὶ ἐπιχέας τὸ πρῶτον ἐξιπωθὲν μεθόδευε, τὰ αὐτὰ ποιῶν ὥσπερ ἐποίεις ἐπὶ τοῦ πρώτου, καρδάμωμον παραμίσγων, εἶτα ἐξίπου καὶ ποίει τὰ αὐτὰ ἐπὶ τοῦ δευτέρου καὶ τρίτου, ὡς εἴρηται, προσεμβάλλων καὶ τὸ καρδάμωμον, καὶ ὁσάκις ἂν ἀποβρέξῃς νεαρὰ κρίνα, δυναμικώτερον ἕξεις τὸ μύρον. 4 ἐπὶ τέλει δὲ ὅταν αὐτάρκως ἔχειν σοι δοκῇ, μίσγε ἐν ἑκάστῃ σκευασίᾳ σμύρνης χρηστῆς δραχμὰς δύο, κιναμώμου δραχμὰς δύο, κρόκου δραχμάς δέκα. οἱ δέ· κρόκου καὶ κιναμώμου τὸ ἴσον κόψας σήσας ἔμβαλε εἰς τὸν λουτῆρα μεθʼ ὕδατος καὶ ἐπίχει τὸ πρῶτον ἐκπιεσθὲν μύρον, εἶτα ἐάσας μικρὸν ἀναλάμβανε εἰς ἀγγεῖα ξηρά, προκεχρισμένα κόμμει καὶ σμύρνῃ καὶ κρόκῳ καὶ μέλιτι μεθʼ ὕδατος διειμένοις· τὸ δʼ αὐτὸ ποίει καὶ ἐπὶ τοῦ δευτέρου ἐκπιέσματος καὶ τοῦ τρίτου.",
    "english": "1. Preparation of susinon, which some call leirinon. Mix nine litrai and five ounces of oil, five litrai and ten ounces of calamus, and five drachmai of myrrh with fragrant wine, and boil them. Then filter the oil and pour it over three litrai and six ounces of cardamom that has been chopped and soaked in rainwater. Let it steep, then press it out. Take three and a half litrai of the expressed oil; strip the petals from one thousand lilies and place them in a broad, shallow basin. Pour the oil over them and stir with hands previously coated with honey. Leave them for one day and one night; in the morning, transfer them to a straining basket and press them out.\n\n2. Immediately filter the liquid that comes away, separating the oil from the water expressed with it. Unlike rose perfumed oil, this oil does not tolerate the water: when heated together with it, it bubbles up and spoils. Decant it several times into other vessels previously coated with honey, sprinkling it with finely ground salt and carefully removing the impurities that collect. Transfer the pressed aromatic material from the straining basket back into the basin. Pour over it the same quantity of aromatized oil as before and add ten holkai of chopped cardamom. Work it thoroughly with your hands, wait a short while, and press it out, removing impurities from the liquid that runs off.\n\n3. Pour aromatized oil over the material a third time and repeat the same procedure, again adding the cardamom and the salt, coating your hands with honey, and pressing. The first expression will be the finest, the next one second in quality, and the last one third. Then take another thousand lilies, strip off their petals, and spread them out. Pour the first expression over them and process them just as you did the first set, mixing in cardamom, and then press them out. Treat the second and third expressions in the same way, as stated, adding cardamom as well. The more often you steep fresh lilies in it, the stronger your perfumed oil will become.\n\n4. Finally, when you think it is sufficiently strong, mix into each preparation two drachmai of good myrrh, two drachmai of cinnamon, and ten drachmai of saffron. Others proceed as follows: pound and sift equal quantities of saffron and cinnamon, put them into the basin with water, and pour the first expression of perfumed oil over them. After leaving it briefly, transfer it into dry vessels previously coated with gum, myrrh, saffron, and honey thinned with water. Do the same with the second and third expressions.",
    "ingredients": [
     {
@@ -3607,7 +3703,7 @@
     },
     {
      "form": "κιναμώμου",
-     "lemma": "κινάμωμον",
+     "lemma": "κιννάμωμον",
      "printed": "δραχμὰς δύο",
      "quantity": 2,
      "unit": "drachme",
@@ -3642,7 +3738,7 @@
     },
     {
      "form": "κιναμώμου",
-     "lemma": "κινάμωμον",
+     "lemma": "κιννάμωμον",
      "printed": "τὸ ἴσον",
      "role": "alternative",
      "note": "Equal to the saffron, pounded and sifted.",
@@ -3664,14 +3760,13 @@
    ],
    "working": [
     {
-     "form": "ὕδατι ὀμερίῳ",
+     "form": "ὕδατι ὀμβρίῳ",
      "lemma": "ὕδωρ",
      "name": "Rainwater",
      "use": "for soaking the cardamom",
-     "note": "Our Greek text reads ὀμερίῳ; we read ὀμβρίῳ, \"rain-\".",
      "occurrence": {
       "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@ὕδατι",
-      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@ὀμερίῳ"
+      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@ὀμβρίῳ"
      }
     },
     {
@@ -3861,6 +3956,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.1@σουσίνου",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.4@τρίτου"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-52-sousinon"
    ]
   },
   {
@@ -3942,6 +4040,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.5@ἔνιοι",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.52.5@ποιητικόν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-52-5-sousinon-haploun"
    ]
   },
   {
@@ -4170,6 +4271,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@ναρκίσσινον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.53@κεφαλαλγές"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-53-narkissinon"
    ]
   },
   {
@@ -4366,6 +4470,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.1@κρόκινον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.54.2@ὄντα"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-54-krokinon"
    ]
   },
   {
@@ -4520,7 +4627,7 @@
     },
     {
      "form": "κινάμωμον",
-     "lemma": "κινάμωμον",
+     "lemma": "κιννάμωμον",
      "role": "alternative",
      "note": "Some also mix in cinnamon.",
      "occurrence": {
@@ -4678,6 +4785,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@κυπρίνου",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.3@ἀκόποις"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-55-kyprinon"
    ]
   },
   {
@@ -4850,6 +4960,10 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.3@κράτιστον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.4@πεπωκόσιν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-56-irinon",
+    "recipe-dioscorides-1-56-irinon-1"
    ]
   },
   {
@@ -5037,6 +5151,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@οἱ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.56.2@ἐξίπου[2]"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-56-2-irinon-allos"
    ]
   },
   {
@@ -5201,6 +5318,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@γλεύκινον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.57@ὄν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-57-gleukinon"
    ]
   },
   {
@@ -5268,7 +5388,7 @@
     },
     {
      "form": "ἀμαράκῳ",
-     "lemma": "ἀμάρακος",
+     "lemma": "ἀμάρακον",
      "use": "for perfuming",
      "occurrence": {
       "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ἀμαράκῳ"
@@ -5300,7 +5420,7 @@
     },
     {
      "form": "κασσίᾳ",
-     "lemma": "κασία",
+     "lemma": "κασσία",
      "use": "for perfuming",
      "occurrence": {
       "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@κασσίᾳ"
@@ -5326,7 +5446,7 @@
     },
     {
      "form": "κινάμωμον",
-     "lemma": "κινάμωμον",
+     "lemma": "κιννάμωμον",
      "role": "alternative",
      "note": "Added for a costlier unguent.",
      "occurrence": {
@@ -5398,6 +5518,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.1@ἀμαράκινον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.2@ἐπιτιθέμενον"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-58-amarakinon"
    ]
   },
   {
@@ -5440,6 +5563,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@καὶ[4]",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@τυγχάνει"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-58-3-hedychroun"
    ]
   },
   {
@@ -5534,6 +5660,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@τὸ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.58.3@αὐτοῦ"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-58-3-megalleion"
    ]
   },
   {
@@ -5673,6 +5802,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.1@σκευάζεται",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.2@δύναμιν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-59-metopion"
    ]
   },
   {
@@ -5715,7 +5847,7 @@
     },
     {
      "form": "κασσίας",
-     "lemma": "κασία",
+     "lemma": "κασσία",
      "occurrence": {
       "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@κασσίας"
      }
@@ -5729,7 +5861,7 @@
     },
     {
      "form": "κινάμωμον",
-     "lemma": "κινάμωμον",
+     "lemma": "κιννάμωμον",
      "role": "alternative",
      "note": "A little, added by some makers after the weighing.",
      "occurrence": {
@@ -5767,6 +5899,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@καὶ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.59.3@ἐπιτεταμένην"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-59-3-mendesion"
    ]
   },
   {
@@ -5847,6 +5982,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.60@στακτὴ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.60@μύρων"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-60-stakte"
    ]
   },
   {
@@ -5911,7 +6049,7 @@
     },
     {
      "form": "κιναμώμου",
-     "lemma": "κινάμωμον",
+     "lemma": "κιννάμωμον",
      "note": "Cinnamon.",
      "use": "aromatic"
     },
@@ -6014,6 +6152,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.1@κιναμώμινον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.61.2@λείοις"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-61-kinamominon"
    ]
   },
   {
@@ -6212,6 +6353,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@νάρδινον",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.62@νάρδου[2]"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-62-nardinon"
    ]
   },
   {
@@ -6232,7 +6376,7 @@
    },
    "kind": "oil",
    "status": "draft-translation",
-   "summary": "Iasmelaion is sesame oil steeped with the white flowers of the violet, 2 ounces to an Italian xestes. The flowers are replaced with fresh ones in turn, as for lily oil (1.52). According to Dioscorides it is called iasme and made by the Persians, who use it at banquets for its fragrance, though many find its heavy scent unpleasant.",
+   "summary": "Iasmelaion is sesame oil steeped with the white flowers of the violet, 2 ounces to an Italian xestes, the flowers replaced with fresh ones in turn as for lily oil (1.52). The recipe is not Dioscorides' own: one manuscript adds it to 1.63 from Aetius, and Wellmann prints it among his notes, not in his text. That manuscript of Dioscorides says the oil is called iasme and made by the Persians, who use it at banquets for its fragrance, though many find its heavy scent unpleasant.",
    "greek": "ἡ δὲ καλουμένη ἰάσμη παρὰ Πέρσαις σκευάζεται ἐκ τῶν ἀνθῶν τῶν λευκῶν τοῦ ἰοῦ, τούτων οὐγγίων βʹ ἐμβαλλομένων Ἰταλικῷ ξέστῃ σησαμίνου ἐλαίου καὶ ἀμειβομένων ἤγουν ἀλλασσομένων ὡς ἐπὶ τοῦ κρινίνου εἴρηται. ἡ δὲ τούτου χρῆσις παρὰ τὰς ἑστιάσεις εὐωδίας ἕνεκα παρὰ Πέρσαις παραλαμβάνεται. ἁρμόζει δὲ καὶ ὅλῳ τῷ σώματι κατὰ τὰ λουτρὰ ἐπὶ τῶι θερμασίας καὶ χαλάσεως δεομένων σωμάτων. βαρυτέραν δὲ ἔχει τὴν εὐωδίαν, ὡς πολλοὺς αὐτῆς μηδὲ (μή p) ἡδέως ἀντιλαμβάνεσθαι",
    "english": "The so-called iasme is prepared among the Persians from the white flowers of the violet: two ounces of these are put into an Italian xestes of sesame oil and exchanged, that is, replaced, as has been said for lily oil. Among the Persians it is used at banquets for the sake of its fragrance. It is also suitable for the whole body in the baths, for bodies that need warming and relaxing. Its fragrance is rather heavy, so that many do not find it pleasant.",
    "ingredients": [
@@ -6283,6 +6427,9 @@
     "Its uses: among the Persians at banquets for its fragrance, and over the whole body in the baths for bodies that need warming and relaxing. Its scent is heavy, so that many find it unpleasant.",
     "The Italian xestes is taken as the xestes of units.json.",
     "english is a draft translation from the Greek, made for the cookbook (round 3 item 10), not an approved translation; status draft-translation."
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-63-iasmelaion"
    ]
   },
   {
@@ -6350,6 +6497,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.63@τὸ",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.63@δύναμιν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-63-malabathrinon"
    ]
   },
   {
@@ -6381,7 +6531,7 @@
     ],
     "note": "No duration: stop when the resin is odourless, crumbly and dry."
    },
-   "greek": "καίεται δὲ πᾶσα ῥητίνη ὑγρὰ ἐν τετραπλασίονι ἀγγείῳ 5 κατὰ τὸ τοῦ ἐγχεομένου ὑγροῦ πλῆθος· δεῖ γὰρ χοῦν μὲν τῆς ῥητίνης, δύο δὲ χοέας ὀμερίου ὕδατος ἐμβαλόντας εἰς χαλκεῖον ἕψειν ἐπʼ ἀνθράκων πραέως, διηνεκῶς κινοῦντας, ἄχρις οὗ ἄνοσμος γένηται καὶ εὔθρυπτος καὶ καπυρά, ὡς μὴ τοῖς δακτύλοις εἴκειν, λοιπὸν δὲ ψύξαντας εἰς κεραμεοῦν ἀγγεῖον ἀκώνητον [τουτέστιν ἀπίσσωτον] ἀποτίθεσθαι. γίνεται δὲ ἐξόχως λευκή· δεῖ μέντοι προδιυλίζειν πᾶσαν ῥητίνην τήκοντας, ἵνα χωρισθῇ τὸ ῥυπῶδες αὐτῆς.",
+   "greek": "καίεται δὲ πᾶσα ῥητίνη ὑγρὰ ἐν τετραπλασίονι ἀγγείῳ 5 κατὰ τὸ τοῦ ἐγχεομένου ὑγροῦ πλῆθος· δεῖ γὰρ χοῦν μὲν τῆς ῥητίνης, δύο δὲ χοέας ὀμβρίου ὕδατος ἐμβαλόντας εἰς χαλκεῖον ἕψειν ἐπʼ ἀνθράκων πραέως, διηνεκῶς κινοῦντας, ἄχρις οὗ ἄνοσμος γένηται καὶ εὔθρυπτος καὶ καπυρά, ὡς μὴ τοῖς δακτύλοις εἴκειν, λοιπὸν δὲ ψύξαντας εἰς κεραμεοῦν ἀγγεῖον ἀκώνητον [τουτέστιν ἀπίσσωτον] ἀποτίθεσθαι. γίνεται δὲ ἐξόχως λευκή· δεῖ μέντοι προδιυλίζειν πᾶσαν ῥητίνην τήκοντας, ἵνα χωρισθῇ τὸ ῥυπῶδες αὐτῆς.",
    "english": "5. Every liquid resin is processed by heating in a vessel four times the volume of the liquid poured into it. Put one chous of resin and two choes of rainwater into a bronze vessel and boil gently over coals, stirring continuously, until it becomes odorless, readily crumbled, and so thoroughly dry that it no longer yields to the fingers. Then let it cool and store it in an untreated earthenware vessel [that is, an unpitched vessel]. It becomes exceptionally white. Every resin must first be strained while being melted, however, so that its dirt is separated out.",
    "ingredients": [
     {
@@ -6398,15 +6548,15 @@
    ],
    "working": [
     {
-     "form": "ὀμερίου ὕδατος",
+     "form": "ὀμβρίου ὕδατος",
      "lemma": "ὕδωρ",
      "printed": "δύο δὲ χοέας",
      "quantity": 2,
      "unit": "chous",
-     "note": "Rainwater. Our Greek text reads ὀμερίου; we read ὀμβρίου.",
+     "note": "Rainwater.",
      "use": "for boiling the resin",
      "occurrence": {
-      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@ὀμερίου",
+      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@ὀμβρίου",
       "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@ὕδατος"
      }
     }
@@ -6469,6 +6619,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@καίεται",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.5@αὐτῆς"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-71-5-burned-resin-with-water"
    ]
   },
   {
@@ -6584,6 +6737,9 @@
      "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.6@καίονται",
      "to": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.71.6@γράφομεν"
     }
+   ],
+   "tei_span": [
+    "recipe-dioscorides-1-71-6-burned-resin-without-water"
    ]
   },
   {

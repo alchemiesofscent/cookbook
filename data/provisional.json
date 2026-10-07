@@ -27,7 +27,7 @@
     },
     {
       "where": "cookbook/recipes/*.json: ingredients[].lemma",
-      "what": "the headword each ingredient form instantiates (a lemma assignment)",
+      "what": "the headword each ingredient form instantiates; where Sean has ruled the word's own lemma otherwise (cookbook/lemma_claims.json, 2026-10-07m, R10), this field names the thing the ingredient is, our identification, not the word's lemma",
       "claimant": "perfume-tables preparations, corrected by the Cookbook's drafting (the corrections are flagged)",
       "basis": "the form as it stands in the text",
       "home": "lemma claims on the occurrence (2026-10-07d)",
