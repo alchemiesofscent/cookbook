@@ -93,8 +93,8 @@
       "where": "cookbook/identifications.json",
       "what": "scholars' identifications of the headwords",
       "claimant": "the scholars named in each entry, as extracted by extraction-pipeline (machine-extracted, unreviewed there)",
-      "basis": "a join of the pipeline's bundles on the bare Greek spelling, accents stripped",
-      "home": "the pipeline's claims read by id and joined through lemmas (2026-10-07f)",
+      "basis": "each claim of the pinned packages read by its id; headwords met when the same word folded, or through the lemmatiser once Sean accepts the join (cookbook/joins.json)",
+      "home": "the corpus's identification claims, through lemma claims on both sides (2026-10-07f)",
       "requirement": "REQ-010"
     }
   ]
