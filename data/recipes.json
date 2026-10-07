@@ -3,6 +3,7 @@
  "recipes": [
   {
    "id": "dioscorides-1-25-kyphi",
+   "ulid": "01M4BPDCDGX1Y8JX3TSD892DTT",
    "title": {
     "grc": "κῦφι",
     "en": "Kyphi"
@@ -334,6 +335,7 @@
   },
   {
    "id": "dioscorides-1-30-omphakinon",
+   "ulid": "01M4BPDCDJ3PT76YQPMDEXE0X3",
    "title": {
     "grc": "ὀμφάκινον",
     "en": "Unripe-olive oil",
@@ -443,6 +445,7 @@
   },
   {
    "id": "dioscorides-1-30-whitened-oil",
+   "ulid": "01M4BPDCDJ30SCA33GZ62XSW7S",
    "title": {
     "grc": "λευκανθὲν ἔλαιον",
     "en": "Whitened oil",
@@ -712,6 +715,7 @@
   },
   {
    "id": "dioscorides-1-30-3-agrias-elaias",
+   "ulid": "01M4BPDCDHK2693YG02E6M09Z9",
    "title": {
     "grc": "ἔλαιον ἀγρίας ἐλαίας",
     "en": "Wild-olive oil",
@@ -776,6 +780,7 @@
   },
   {
    "id": "dioscorides-1-30-5-sikyonion",
+   "ulid": "01M4BPDCDHR3JX2Z8GSE5R8WDC",
    "title": {
     "grc": "σικυώνιον",
     "en": "Sicyonian oil"
@@ -907,6 +912,7 @@
   },
   {
    "id": "dioscorides-1-31-elaiomeli",
+   "ulid": "01M4BPDCDJFWWCCE4ZEW7F77PN",
    "title": {
     "grc": "ἐλαιόμελι",
     "en": "Olive honey",
@@ -952,6 +958,7 @@
   },
   {
    "id": "dioscorides-1-31-thalloi-oil",
+   "ulid": "01M4BPDCDKD7EX2HP4F12NN0FQ",
    "title": {
     "grc": "ἔλαιον ἐκ θαλλῶν ἐλαίας",
     "en": "Oil from young shoots",
@@ -1015,6 +1022,7 @@
   },
   {
    "id": "dioscorides-1-32-kikinon",
+   "ulid": "01M4BPDCDKSG6V2G8K92CARPT5",
    "title": {
     "grc": "κίκινον ἔλαιον",
     "en": "Castor oil",
@@ -1130,6 +1138,7 @@
   },
   {
    "id": "dioscorides-1-32-2-kikinon-aigyption",
+   "ulid": "01M4BPDCDKRVV6QKG2HVSB4AXV",
    "title": {
     "grc": "κίκινον",
     "en": "Egyptian castor oil",
@@ -1207,6 +1216,7 @@
   },
   {
    "id": "dioscorides-1-33-amygdalinon",
+   "ulid": "01M4BPDCDMW1ZKNVVM4B5TJ6CT",
    "title": {
     "grc": "ἀμυγδάλινον ἔλαιον",
     "en": "Almond oil",
@@ -1397,6 +1407,7 @@
   },
   {
    "id": "dioscorides-1-34-balaninon",
+   "ulid": "01M4BPDCDM76Y7KZSTVX6A0ND0",
    "title": {
     "grc": "βαλάνινον",
     "en": "Balanos oil",
@@ -1447,6 +1458,7 @@
   },
   {
    "id": "dioscorides-1-34-sesaminon-karyinon",
+   "ulid": "01M4BPDCDMMXTN2ZW75BWQ4PDG",
    "title": {
     "grc": "σησάμινον καὶ καρύϊνον",
     "en": "Sesame and royal-nut oil",
@@ -1533,6 +1545,7 @@
   },
   {
    "id": "dioscorides-1-35-hyoskyaminon",
+   "ulid": "01M4BPDCDMV1E49GN9S55ARY3D",
    "title": {
     "grc": "ὑοσκυάμινον",
     "en": "Henbane oil",
@@ -1651,6 +1664,7 @@
   },
   {
    "id": "dioscorides-1-36-knekikon",
+   "ulid": "01M4BPDCDNB1MDSHFQWYVTM1YX",
    "title": {
     "grc": "κνήκινον",
     "en": "Safflower oil"
@@ -1681,6 +1695,7 @@
   },
   {
    "id": "dioscorides-1-36-knidion",
+   "ulid": "01M4BPDCDNRNSMR40RYR2818S8",
    "title": {
     "grc": "διὰ τοῦ κνιδίου κόκκου",
     "en": "Cnidian-berry oil",
@@ -1749,6 +1764,7 @@
   },
   {
    "id": "dioscorides-1-37-melanthinon",
+   "ulid": "01M4BPDCDNH3Z8Q4J1DWKE8JW9",
    "title": {
     "grc": "μελάνθινον",
     "en": "Black-seed oil"
@@ -1779,6 +1795,7 @@
   },
   {
    "id": "dioscorides-1-37-raphaninon",
+   "ulid": "01M4BPDCDPN2678VFT6HAHKP8P",
    "title": {
     "grc": "ῥαφάνινον",
     "en": "Radish oil",
@@ -1842,6 +1859,7 @@
   },
   {
    "id": "dioscorides-1-38-sinapinon",
+   "ulid": "01M4BPDCDP30DE76E1T1X0ZKRF",
    "title": {
     "grc": "σινάπινον",
     "en": "Mustard oil",
@@ -1941,6 +1959,7 @@
   },
   {
    "id": "dioscorides-1-39-myrsininon",
+   "ulid": "01M4BPDCDPG9VWTV33T7YKZG34",
    "title": {
     "grc": "μυρσίνινον",
     "en": "Myrtle oil",
@@ -2179,6 +2198,7 @@
   },
   {
    "id": "dioscorides-1-40-daphninon",
+   "ulid": "01M4BPDCDP6X75JAVXKZRVDQDV",
    "title": {
     "grc": "δάφνινον",
     "en": "Bay oil",
@@ -2417,6 +2437,7 @@
   },
   {
    "id": "dioscorides-1-41-schininon",
+   "ulid": "01M4BPDCDQK89CGQ99DNEK3W9K",
    "title": {
     "grc": "σχίνινον",
     "en": "Mastic-tree oil",
@@ -2492,6 +2513,7 @@
   },
   {
    "id": "dioscorides-1-42-mastichinon",
+   "ulid": "01M4BPDCDQDBT1FEBW1T6V2HS7",
    "title": {
     "grc": "μαστίχινον",
     "en": "Mastic oil",
@@ -2554,6 +2576,8 @@
   },
   {
    "id": "dioscorides-1-43-rhodinon",
+   "ulid": "01M4BPDCDQ9WPVZCX99W6GE3XX",
+   "derived_from": "01M380EV1ZG9FSPRKC46JTKXSD",
    "title": {
     "grc": "ῥόδινον",
     "en": "Rose oil",
@@ -2634,7 +2658,7 @@
      "_ren": "oil",
      "_tr": "elaiou",
      "_slug": "elaion",
-     "_share": 59.466019417475735
+     "_share": 59.46601941747572
     },
     {
      "form": "σχοίνου",
@@ -2661,7 +2685,7 @@
      "_ren": "camel-grass",
      "_tr": "schoinou",
      "_slug": "schoinos",
-     "_share": 16.50485436893204
+     "_share": 16.504854368932037
     },
     {
      "form": "ἐλαίου",
@@ -2940,6 +2964,7 @@
   },
   {
    "id": "dioscorides-1-44-elatinon",
+   "ulid": "01M4BPDCDRC78V0F5MC5Y3XTJT",
    "title": {
     "grc": "ἐλατῖνον",
     "en": "Palm-spathe oil",
@@ -3050,6 +3075,7 @@
   },
   {
    "id": "dioscorides-1-45-melinon",
+   "ulid": "01M4BPDCDSWT122R09HGEA8706",
    "title": {
     "grc": "μηλῖνον",
     "en": "Quince oil",
@@ -3113,7 +3139,7 @@
      "_ren": "oil",
      "_tr": "elaiou",
      "_slug": "elaion",
-     "_share": 36.999167126636166
+     "_share": 36.99916712663617
     },
     {
      "form": "ὕδατος",
@@ -3141,7 +3167,7 @@
      "_ren": "water",
      "_tr": "hydatos",
      "_slug": "hydor",
-     "_share": 61.66527854439363
+     "_share": 61.665278544393644
     },
     {
      "form": "σπάθης",
@@ -3166,7 +3192,7 @@
      "_ren": "palm spathe",
      "_tr": "spathes",
      "_slug": "spathe",
-     "_share": 1.001665746727645
+     "_share": 1.0016657467276453
     },
     {
      "form": "σχοίνου",
@@ -3190,7 +3216,7 @@
      "_ren": "camel-grass",
      "_tr": "schoinou",
      "_slug": "schoinos",
-     "_share": 0.33388858224254847
+     "_share": 0.3338885822425485
     },
     {
      "form": "κυδώνια μῆλα",
@@ -3256,6 +3282,7 @@
   },
   {
    "id": "dioscorides-1-45-2-melinon-allos",
+   "ulid": "01M4BPDCDRKXD4J161K6H5B9W2",
    "title": {
     "grc": "μηλῖνον",
     "en": "Quince oil, a second way",
@@ -3364,6 +3391,7 @@
   },
   {
    "id": "dioscorides-1-46-oinanthinon",
+   "ulid": "01M4BPDCDS96SWZVGGHCJR3W3F",
    "title": {
     "grc": "οἰνάνθινον",
     "en": "Vine-flower oil",
@@ -3463,6 +3491,7 @@
   },
   {
    "id": "dioscorides-1-47-telinon",
+   "ulid": "01M4BPDCDS8TV8E7V9X568JCC8",
    "title": {
     "grc": "τηλῖνον",
     "en": "Fenugreek oil",
@@ -3681,6 +3710,7 @@
   },
   {
    "id": "dioscorides-1-48-sampsouchinon",
+   "ulid": "01M4BPDCDTAGK1ZR5BBR2W6SSP",
    "title": {
     "grc": "σαμψουχῖνον",
     "en": "Marjoram oil"
@@ -3892,6 +3922,7 @@
   },
   {
    "id": "dioscorides-1-49-okiminon",
+   "ulid": "01M4BPDCDT6Q4RT2ZCEKQ2RQ2N",
    "title": {
     "grc": "ὠκιμῖνον",
     "en": "Basil oil"
@@ -4108,6 +4139,7 @@
   },
   {
    "id": "dioscorides-1-50-habrotoninon",
+   "ulid": "01M4BPDCDVAQ70WQ6QA8HBX7EK",
    "title": {
     "grc": "ἁβροτόνινον",
     "en": "Southernwood oil"
@@ -4229,6 +4261,7 @@
   },
   {
    "id": "dioscorides-1-51-anethinon",
+   "ulid": "01M4BPDCDVM7W878ZMR7VJ59MV",
    "title": {
     "grc": "ἀνηθίνον",
     "en": "Dill oil"
@@ -4349,6 +4382,8 @@
   },
   {
    "id": "dioscorides-1-52-sousinon",
+   "ulid": "01M4BPDCDWVAYQJ74Z7N7RNA63",
+   "derived_from": "01M380EV219JC4CH7CN5T6DP9B",
    "title": {
     "grc": "σουσῖνον",
     "en": "Lily oil"
@@ -4407,7 +4442,7 @@
      "_ren": "oil",
      "_tr": "elaiou",
      "_slug": "elaion",
-     "_share": 41.74880641739809
+     "_share": 41.748806417398086
     },
     {
      "form": "καλάμου",
@@ -4433,7 +4468,7 @@
      "_ren": "kalamos",
      "_tr": "kalamou",
      "_slug": "kalamos",
-     "_share": 25.862092470954572
+     "_share": 25.86209247095457
     },
     {
      "form": "σμύρνης",
@@ -4459,7 +4494,7 @@
      "_ren": "myrrh",
      "_tr": "smyrnes",
      "_slug": "smyrna",
-     "_share": 0.23108195433984186
+     "_share": 0.23108195433984183
     },
     {
      "form": "οἴνῳ εὐώδει",
@@ -4506,7 +4541,7 @@
      "_ren": "cardamom",
      "_tr": "kardamomou",
      "_slug": "kardamomon",
-     "_share": 15.517255482572741
+     "_share": 15.51725548257274
     },
     {
      "form": "ἐλαίου",
@@ -4533,7 +4568,7 @@
      "_ren": "oil",
      "_tr": "elaiou",
      "_slug": "elaion",
-     "_share": 15.53157029390353
+     "_share": 15.531570293903526
     },
     {
      "form": "κρίνα",
@@ -4625,7 +4660,7 @@
      "_ren": "cardamom",
      "_tr": "kardamomou",
      "_slug": "kardamomon",
-     "_share": 0.4621639086796837
+     "_share": 0.46216390867968365
     },
     {
      "form": "κρίνα",
@@ -4675,7 +4710,7 @@
      "_ren": "myrrh",
      "_tr": "smyrnes",
      "_slug": "smyrna",
-     "_share": 0.09243278173593675
+     "_share": 0.09243278173593672
     },
     {
      "form": "κιναμώμου",
@@ -4702,7 +4737,7 @@
      "_ren": "cinnamon",
      "_tr": "kinamomou",
      "_slug": "kinamomon",
-     "_share": 0.09243278173593675
+     "_share": 0.09243278173593672
     },
     {
      "form": "κρόκου",
@@ -4728,7 +4763,7 @@
      "_ren": "saffron",
      "_tr": "krokou",
      "_slug": "krokos",
-     "_share": 0.4621639086796837
+     "_share": 0.46216390867968365
     },
     {
      "form": "κρόκου",
@@ -5012,6 +5047,8 @@
   },
   {
    "id": "dioscorides-1-52-5-sousinon-haploun",
+   "ulid": "01M4BPDCDVQE73RM177RTYPCW7",
+   "derived_from": "01M380EV20CDXWCB55XMAF4N74",
    "title": {
     "grc": "σουσῖνον ἁπλοῦν",
     "en": "Plain lily oil",
@@ -5114,6 +5151,7 @@
   },
   {
    "id": "dioscorides-1-53-narkissinon",
+   "ulid": "01M4BPDCDWHHXC8DRF93PWERJR",
    "title": {
     "grc": "ναρκίσσινον",
     "en": "Narcissus unguent"
@@ -5170,7 +5208,7 @@
      "_ren": "oil",
      "_tr": "elaiou",
      "_slug": "elaion",
-     "_share": 44.31372549019608
+     "_share": 44.313725490196084
     },
     {
      "form": "ἀσπαλάθου",
@@ -5196,7 +5234,7 @@
      "_ren": "aspalathos",
      "_tr": "aspalathou",
      "_slug": "aspalathos",
-     "_share": 29.01960784313725
+     "_share": 29.01960784313726
     },
     {
      "form": "καλάμου",
@@ -5222,7 +5260,7 @@
      "_ren": "kalamos",
      "_tr": "kalamou",
      "_slug": "kalamos",
-     "_share": 26.66666666666666
+     "_share": 26.666666666666668
     },
     {
      "form": "σμύρνης",
@@ -5429,6 +5467,7 @@
   },
   {
    "id": "dioscorides-1-54-krokinon",
+   "ulid": "01M4BPDCDX58FWHMGV1X612S2R",
    "title": {
     "grc": "κρόκινον",
     "en": "Saffron unguent"
@@ -5682,6 +5721,7 @@
   },
   {
    "id": "dioscorides-1-55-kyprinon",
+   "ulid": "01M4BPDCDX4CJR62KCWQWY1GCP",
    "title": {
     "grc": "κυπρῖνον",
     "en": "Henna oil",
@@ -6136,6 +6176,7 @@
   },
   {
    "id": "dioscorides-1-56-irinon",
+   "ulid": "01M4BPDCDY23JQG576V17MEYFM",
    "title": {
     "grc": "ἴρινον",
     "en": "Iris unguent",
@@ -6363,6 +6404,7 @@
   },
   {
    "id": "dioscorides-1-56-2-irinon-allos",
+   "ulid": "01M4BPDCDYGBAJDFAF9A912ZV3",
    "title": {
     "grc": "ἴρινον",
     "en": "Iris unguent, a second way",
@@ -6415,7 +6457,7 @@
      "_ren": "oil",
      "_tr": "elaiou",
      "_slug": "elaion",
-     "_share": 24.503692797644295
+     "_share": 24.50369279764429
     },
     {
      "form": "ξυλοβαλσάμου",
@@ -6440,7 +6482,7 @@
      "_ren": "balsam wood",
      "_tr": "xylobalsamou",
      "_slug": "xylobalsamon",
-     "_share": 13.444504012866782
+     "_share": 13.444504012866778
     },
     {
      "form": "καλτάμου",
@@ -6466,7 +6508,7 @@
      "_ren": "kalamos",
      "_tr": "kaltamou",
      "_slug": "kalamos",
-     "_share": 25.587926992230326
+     "_share": 25.58792699223032
     },
     {
      "form": "σμύρνης",
@@ -6645,6 +6687,7 @@
   },
   {
    "id": "dioscorides-1-57-gleukinon",
+   "ulid": "01M4BPDCDZF0FCWX3GB07R6DD6",
    "title": {
     "grc": "γλεύκινον",
     "en": "Must unguent",
@@ -6900,6 +6943,7 @@
   },
   {
    "id": "dioscorides-1-58-amarakinon",
+   "ulid": "01M4BPDCE0SBB90DEBZ220BDB1",
    "title": {
     "grc": "ἀμαράκινον",
     "en": "Marjoram unguent",
@@ -7238,6 +7282,7 @@
   },
   {
    "id": "dioscorides-1-58-3-hedychroun",
+   "ulid": "01M4BPDCDZDRNTVS41D1432T9C",
    "title": {
     "grc": "ἠδύχρουν",
     "en": "Hedychroun"
@@ -7273,6 +7318,7 @@
   },
   {
    "id": "dioscorides-1-58-3-megalleion",
+   "ulid": "01M4BPDCDZR3F5D3NY96AXAQ80",
    "title": {
     "grc": "μεγάλλειον",
     "en": "Megalleion"
@@ -7382,6 +7428,7 @@
   },
   {
    "id": "dioscorides-1-59-metopion",
+   "ulid": "01M4BPDCE1AN5G24ZNJ32HZA7P",
    "title": {
     "grc": "μετώπιον",
     "en": "Metopion"
@@ -7623,6 +7670,7 @@
   },
   {
    "id": "dioscorides-1-59-3-mendesion",
+   "ulid": "01M4BPDCE0VZXPV235YVZHMM5Q",
    "title": {
     "grc": "μενδήσιον",
     "en": "Mendesian unguent"
@@ -7759,6 +7807,7 @@
   },
   {
    "id": "dioscorides-1-60-stakte",
+   "ulid": "01M4BPDCE16G6KTAP4RJQHYCVS",
    "title": {
     "grc": "στακτή",
     "en": "Stacte"
@@ -7852,6 +7901,7 @@
   },
   {
    "id": "dioscorides-1-61-kinamominon",
+   "ulid": "01M4BPDCE1WSRRBBG5542MKX97",
    "title": {
     "grc": "κιναμώμινον",
     "en": "Cinnamon unguent",
@@ -8099,6 +8149,7 @@
   },
   {
    "id": "dioscorides-1-62-nardinon",
+   "ulid": "01M4BPDCE23YCNS082KJC2BG2F",
    "title": {
     "grc": "νάρδινον",
     "en": "Nard unguent",
@@ -8431,6 +8482,7 @@
   },
   {
    "id": "dioscorides-1-63-iasmelaion",
+   "ulid": "01M4BPDCE2VF3MP52PAPRN2Z4S",
    "title": {
     "grc": "ἰασμέλαιον",
     "en": "Iasmelaion"
@@ -8541,6 +8593,7 @@
   },
   {
    "id": "dioscorides-1-63-malabathrinon",
+   "ulid": "01M4BPDCE3HABZKDGR9CQP29WW",
    "title": {
     "grc": "μαλαβάθρινον",
     "en": "Malabathron unguent",
@@ -8612,6 +8665,7 @@
   },
   {
    "id": "dioscorides-1-71-5-burned-resin-with-water",
+   "ulid": "01M4BPDCE3YTYAKD46XMK2WT41",
    "title": {
     "grc": "ῥητίνη κεκαυμένη μετὰ ὕδατος",
     "en": "Resin processed with water",
@@ -8756,6 +8810,7 @@
   },
   {
    "id": "dioscorides-1-71-6-burned-resin-without-water",
+   "ulid": "01M4BPDCE3ME53F7RVG93TN2ZS",
    "title": {
     "grc": "ῥητίνη κεκαυμένη δίχα ὕδατος",
     "en": "Resin processed without water",
@@ -8886,6 +8941,7 @@
   },
   {
    "id": "paul-7-20-4",
+   "ulid": "01M4BPDCEA23512PAYYV9E0X5N",
    "title": {
     "grc": "Ῥόδινον",
     "en": "Rose oil",
@@ -9040,6 +9096,7 @@
   },
   {
    "id": "aetius-1-113",
+   "ulid": "01M4BPDCDFETYPGEW719G50076",
    "title": {
     "grc": "ἔλαιον ῥόδινον",
     "en": "Rose oil"
