@@ -4576,9 +4576,38 @@
      "printed": "λίτρας ἐννέα οὐγγίας πέντε",
      "quantity": 113,
      "unit": "oungia",
-     "note": "Our Greek text reads ἐλαίου, “of oil”; Cornarius, following Paul of Aegina, reads ἑλενίου, “of elecampane”, which we propose. The manuscripts are garbled here, and the old Latin translation gives 20 pounds.",
-     "rendering": "oil, or elecampane",
+     "note": "The manuscripts are garbled here. Our Greek text reads ἐλαίου, “of oil”; Cornarius, following Paul of Aegina, reads ἑλενίου, “of elecampane”, which we propose; the old Latin translation gives 20 pounds.",
+     "rendering": "oil",
      "disputed": true,
+     "readings": [
+      {
+       "label": "oil",
+       "by": "our Greek text",
+       "form": "ἐλαίου",
+       "rendering": "oil",
+       "printed": "λίτρας ἐννέα οὐγγίας πέντε",
+       "quantity": 113,
+       "unit": "oungia"
+      },
+      {
+       "label": "elecampane",
+       "by": "Cornarius, after Paul of Aegina; our proposal",
+       "form": "ἑλενίου",
+       "rendering": "elecampane",
+       "printed": "λίτρας ἐννέα οὐγγίας πέντε",
+       "quantity": 113,
+       "unit": "oungia"
+      },
+      {
+       "label": "20 pounds of oil",
+       "by": "the old Latin translation",
+       "form": "ἐλαίου",
+       "rendering": "oil",
+       "printed": "libras XX",
+       "quantity": 20,
+       "unit": "litra"
+      }
+     ],
      "occurrence": {
       "from": "urn:cts:greekLit:tlg0656.tlg001.wellmann1906:1.55.1@ἐλαίου[2]"
      }
